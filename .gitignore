@@ -1,2 +1,3 @@
 mido/settings_secret.py
 db.sqlite3
+*.pyc

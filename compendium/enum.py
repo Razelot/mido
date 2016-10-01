@@ -119,3 +119,41 @@ RESISTANCES = (
     (DRAIN, 'drain'),
     (REPEL, 'repel'),
 )
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+                            SKILLS
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+AFFINITIES = (
+    (0, 'Passive'),
+    (1, 'Phys'),
+    (2, 'Gun'),
+    (3, 'Fire'),
+    (4, 'Ice'),
+    (5, 'Force'),
+    (6, 'Elec'),
+    (7, 'Light'),
+    (8, 'Dark'),
+    (9, 'Almighty'),
+    (10, 'Heal'),
+    (11, 'Ailment'),
+    (12, 'Support'),
+    (13, 'Special'),
+)
+
+TARGETS = (
+    (0, 'Self'),
+    (1, 'Single'),
+    (2, 'Multi'),
+    (3, 'All'),
+)
+
+POWERS = (
+    (0, ''),
+    (1, 'Weak'),
+    (2, 'Medium'),
+    (3, 'Heavy'),
+    (4, 'Severe'),
+)

@@ -33,13 +33,13 @@
             "War Cry": 0
         },
         "stats": {
-            "ag": 63,
-            "dx": 60,
+            "agility": 63,
+            "dexterity": 60,
             "hp": 605,
-            "lu": 73,
-            "ma": 43,
+            "luck": 73,
+            "magic": 43,
             "mp": 184,
-            "st": 96
+            "strength": 96
         }
     },
     "Adramelech": {
@@ -77,13 +77,13 @@
             "Madness Nails": 0
         },
         "stats": {
-            "ag": 67,
-            "dx": 60,
+            "agility": 67,
+            "dexterity": 60,
             "hp": 592,
-            "lu": 82,
-            "ma": 113,
+            "luck": 82,
+            "magic": 113,
             "mp": 386,
-            "st": 86
+            "strength": 86
         }
     },
     "Aeros": {
@@ -119,13 +119,13 @@
             "Shibaboo": 13
         },
         "stats": {
-            "ag": 28,
-            "dx": 22,
+            "agility": 28,
+            "dexterity": 22,
             "hp": 150,
-            "lu": 21,
-            "ma": 15,
+            "luck": 21,
+            "magic": 15,
             "mp": 86,
-            "st": 17
+            "strength": 17
         }
     },
     "Agathion": {
@@ -162,13 +162,13 @@
             "Zionga": 14
         },
         "stats": {
-            "ag": 17,
-            "dx": 19,
+            "agility": 17,
+            "dexterity": 19,
             "hp": 118,
-            "lu": 20,
-            "ma": 22,
+            "luck": 20,
+            "magic": 22,
             "mp": 101,
-            "st": 12
+            "strength": 12
         }
     },
     "Airavata": {
@@ -204,13 +204,13 @@
             "Life Surge": 46
         },
         "stats": {
-            "ag": 46,
-            "dx": 43,
+            "agility": 46,
+            "dexterity": 43,
             "hp": 446,
-            "lu": 53,
-            "ma": 32,
+            "luck": 53,
+            "magic": 32,
             "mp": 136,
-            "st": 69
+            "strength": 69
         }
     },
     "Alciel": {
@@ -246,13 +246,13 @@
             "Tetrakarn": 0
         },
         "stats": {
-            "ag": 69,
-            "dx": 58,
+            "agility": 69,
+            "dexterity": 58,
             "hp": 472,
-            "lu": 76,
-            "ma": 86,
+            "luck": 76,
+            "magic": 86,
             "mp": 262,
-            "st": 65
+            "strength": 65
         }
     },
     "Alice": {
@@ -290,13 +290,13 @@
             "High Dark Pleroma": 53
         },
         "stats": {
-            "ag": 56,
-            "dx": 51,
+            "agility": 56,
+            "dexterity": 51,
             "hp": 385,
-            "lu": 67,
-            "ma": 82,
+            "luck": 67,
+            "magic": 82,
             "mp": 339,
-            "st": 41
+            "strength": 41
         }
     },
     "Alilat": {
@@ -334,13 +334,13 @@
             "Null Phys": 87
         },
         "stats": {
-            "ag": 78,
-            "dx": 63,
+            "agility": 78,
+            "dexterity": 63,
             "hp": 621,
-            "lu": 108,
-            "ma": 135,
+            "luck": 108,
+            "magic": 135,
             "mp": 440,
-            "st": 64
+            "strength": 64
         }
     },
     "Alraune": {
@@ -377,13 +377,13 @@
             "Sexy Dance": 0
         },
         "stats": {
-            "ag": 51,
-            "dx": 75,
+            "agility": 51,
+            "dexterity": 75,
             "hp": 499,
-            "lu": 62,
-            "ma": 39,
+            "luck": 62,
+            "magic": 39,
             "mp": 204,
-            "st": 47
+            "strength": 47
         }
     },
     "Amaterasu": {
@@ -421,13 +421,13 @@
             "Trisagion": 0
         },
         "stats": {
-            "ag": 77,
-            "dx": 69,
+            "agility": 77,
+            "dexterity": 69,
             "hp": 493,
-            "lu": 94,
-            "ma": 118,
+            "luck": 94,
+            "magic": 118,
             "mp": 406,
-            "st": 53
+            "strength": 53
         }
     },
     "Ame no Uzume": {
@@ -465,13 +465,13 @@
             "Spring of Life": 25
         },
         "stats": {
-            "ag": 29,
-            "dx": 23,
+            "agility": 29,
+            "dexterity": 23,
             "hp": 174,
-            "lu": 31,
-            "ma": 41,
+            "luck": 31,
+            "magic": 41,
             "mp": 195,
-            "st": 18
+            "strength": 18
         }
     },
     "Ammut": {
@@ -508,13 +508,13 @@
             "War Cry": 0
         },
         "stats": {
-            "ag": 64,
-            "dx": 60,
+            "agility": 64,
+            "dexterity": 60,
             "hp": 614,
-            "lu": 74,
-            "ma": 44,
+            "luck": 74,
+            "magic": 44,
             "mp": 187,
-            "st": 97
+            "strength": 97
         }
     },
     "Anat": {
@@ -552,13 +552,13 @@
             "Tarukaja": 0
         },
         "stats": {
-            "ag": 70,
-            "dx": 59,
+            "agility": 70,
+            "dexterity": 59,
             "hp": 635,
-            "lu": 78,
-            "ma": 48,
+            "luck": 78,
+            "magic": 48,
             "mp": 234,
-            "st": 99
+            "strength": 99
         }
     },
     "Angel": {
@@ -596,13 +596,13 @@
             "Rakukaja": 14
         },
         "stats": {
-            "ag": 17,
-            "dx": 14,
+            "agility": 17,
+            "dexterity": 14,
             "hp": 112,
-            "lu": 18,
-            "ma": 23,
+            "luck": 18,
+            "magic": 23,
             "mp": 112,
-            "st": 11
+            "strength": 11
         }
     },
     "Angel (White Wings)": {
@@ -639,13 +639,13 @@
             "Mediarahan": 83
         },
         "stats": {
-            "ag": 80,
-            "dx": 71,
+            "agility": 80,
+            "dexterity": 71,
             "hp": 510,
-            "lu": 97,
-            "ma": 122,
+            "luck": 97,
+            "magic": 122,
             "mp": 420,
-            "st": 54
+            "strength": 54
         }
     },
     "Aniel": {
@@ -683,13 +683,13 @@
             "Thunder Reign": 0
         },
         "stats": {
-            "ag": 94,
-            "dx": 98,
+            "agility": 94,
+            "dexterity": 98,
             "hp": 743,
-            "lu": 101,
-            "ma": 103,
+            "luck": 101,
+            "magic": 103,
             "mp": 335,
-            "st": 93
+            "strength": 93
         }
     },
     "Anubis": {
@@ -727,13 +727,13 @@
             "Mamudoon": 0
         },
         "stats": {
-            "ag": 62,
-            "dx": 54,
+            "agility": 62,
+            "dexterity": 54,
             "hp": 487,
-            "lu": 70,
-            "ma": 104,
+            "luck": 70,
+            "magic": 104,
             "mp": 379,
-            "st": 44
+            "strength": 44
         }
     },
     "Anzu": {
@@ -770,13 +770,13 @@
             "Shock": 0
         },
         "stats": {
-            "ag": 50,
-            "dx": 43,
+            "agility": 50,
+            "dexterity": 43,
             "hp": 548,
-            "lu": 54,
-            "ma": 63,
+            "luck": 54,
+            "magic": 63,
             "mp": 228,
-            "st": 71
+            "strength": 71
         }
     },
     "Apis": {
@@ -813,13 +813,13 @@
             "Tetraja": 19
         },
         "stats": {
-            "ag": 20,
-            "dx": 21,
+            "agility": 20,
+            "dexterity": 21,
             "hp": 227,
-            "lu": 28,
-            "ma": 16,
+            "luck": 28,
+            "magic": 16,
             "mp": 71,
-            "st": 33
+            "strength": 33
         }
     },
     "Apsaras": {
@@ -856,13 +856,13 @@
             "Posumudi": 16
         },
         "stats": {
-            "ag": 20,
-            "dx": 18,
+            "agility": 20,
+            "dexterity": 18,
             "hp": 150,
-            "lu": 23,
-            "ma": 27,
+            "luck": 23,
+            "magic": 27,
             "mp": 114,
-            "st": 14
+            "strength": 14
         }
     },
     "Apsu": {
@@ -900,13 +900,13 @@
             "Victory Cry": 0
         },
         "stats": {
-            "ag": 80,
-            "dx": 71,
+            "agility": 80,
+            "dexterity": 71,
             "hp": 510,
-            "lu": 97,
-            "ma": 122,
+            "luck": 97,
+            "magic": 122,
             "mp": 420,
-            "st": 54
+            "strength": 54
         }
     },
     "Aquans": {
@@ -942,13 +942,13 @@
             "Poisma": 17
         },
         "stats": {
-            "ag": 26,
-            "dx": 24,
+            "agility": 26,
+            "dexterity": 24,
             "hp": 150,
-            "lu": 24,
-            "ma": 30,
+            "luck": 24,
+            "magic": 30,
             "mp": 128,
-            "st": 15
+            "strength": 15
         }
     },
     "Arachne": {
@@ -984,13 +984,13 @@
             "Sukunda": 45
         },
         "stats": {
-            "ag": 73,
-            "dx": 69,
+            "agility": 73,
+            "dexterity": 69,
             "hp": 409,
-            "lu": 46,
-            "ma": 36,
+            "luck": 46,
+            "magic": 36,
             "mp": 153,
-            "st": 43
+            "strength": 43
         }
     },
     "Arahabaki": {
@@ -1028,13 +1028,13 @@
             "Sea of Chaos": 0
         },
         "stats": {
-            "ag": 63,
-            "dx": 57,
+            "agility": 63,
+            "dexterity": 57,
             "hp": 430,
-            "lu": 75,
-            "ma": 93,
+            "luck": 75,
+            "magic": 93,
             "mp": 376,
-            "st": 45
+            "strength": 45
         }
     },
     "Aramisaki": {
@@ -1071,13 +1071,13 @@
             "Sea of Chaos": 60
         },
         "stats": {
-            "ag": 84,
-            "dx": 56,
+            "agility": 84,
+            "dexterity": 56,
             "hp": 451,
-            "lu": 73,
-            "ma": 94,
+            "luck": 73,
+            "magic": 94,
             "mp": 365,
-            "st": 42
+            "strength": 42
         }
     },
     "Archangel": {
@@ -1114,13 +1114,13 @@
             "Tarukaja": 20
         },
         "stats": {
-            "ag": 22,
-            "dx": 21,
+            "agility": 22,
+            "dexterity": 21,
             "hp": 227,
-            "lu": 26,
-            "ma": 28,
+            "luck": 26,
+            "magic": 28,
             "mp": 121,
-            "st": 33
+            "strength": 33
         }
     },
     "Ares": {
@@ -1157,13 +1157,13 @@
             "Power Punch": 0
         },
         "stats": {
-            "ag": 35,
-            "dx": 40,
+            "agility": 35,
+            "dexterity": 40,
             "hp": 375,
-            "lu": 40,
-            "ma": 24,
+            "luck": 40,
+            "magic": 24,
             "mp": 106,
-            "st": 57
+            "strength": 57
         }
     },
     "Asherah": {
@@ -1201,13 +1201,13 @@
             "Samarecarm": 54
         },
         "stats": {
-            "ag": 45,
-            "dx": 85,
+            "agility": 45,
+            "dexterity": 85,
             "hp": 462,
-            "lu": 57,
-            "ma": 75,
+            "luck": 57,
+            "magic": 75,
             "mp": 293,
-            "st": 50
+            "strength": 50
         }
     },
     "Asura": {
@@ -1244,13 +1244,13 @@
             "Titanomachia": 0
         },
         "stats": {
-            "ag": 45,
-            "dx": 43,
+            "agility": 45,
+            "dexterity": 43,
             "hp": 557,
-            "lu": 63,
-            "ma": 31,
+            "luck": 63,
+            "magic": 31,
             "mp": 113,
-            "st": 73
+            "strength": 73
         }
     },
     "Atropos": {
@@ -1287,13 +1287,13 @@
             "Ziodyne": 48
         },
         "stats": {
-            "ag": 41,
-            "dx": 43,
+            "agility": 41,
+            "dexterity": 43,
             "hp": 358,
-            "lu": 57,
-            "ma": 73,
+            "luck": 57,
+            "magic": 73,
             "mp": 256,
-            "st": 32
+            "strength": 32
         }
     },
     "Attis": {
@@ -1331,13 +1331,13 @@
             "Victory Cry": 76
         },
         "stats": {
-            "ag": 73,
-            "dx": 69,
+            "agility": 73,
+            "dexterity": 69,
             "hp": 698,
-            "lu": 84,
-            "ma": 50,
+            "luck": 84,
+            "magic": 50,
             "mp": 212,
-            "st": 111
+            "strength": 111
         }
     },
     "Azazel": {
@@ -1375,13 +1375,13 @@
             "Samarecarm": 72
         },
         "stats": {
-            "ag": 76,
-            "dx": 54,
+            "agility": 76,
+            "dexterity": 54,
             "hp": 687,
-            "lu": 73,
-            "ma": 113,
+            "luck": 73,
+            "magic": 113,
             "mp": 345,
-            "st": 64
+            "strength": 64
         }
     },
     "Azrael": {
@@ -1419,13 +1419,13 @@
             "Tetrakarn": 79
         },
         "stats": {
-            "ag": 75,
-            "dx": 67,
+            "agility": 75,
+            "dexterity": 67,
             "hp": 482,
-            "lu": 91,
-            "ma": 115,
+            "luck": 91,
+            "magic": 115,
             "mp": 398,
-            "st": 51
+            "strength": 51
         }
     },
     "Azumi": {
@@ -1461,13 +1461,13 @@
             "Posumudi": 20
         },
         "stats": {
-            "ag": 32,
-            "dx": 23,
+            "agility": 32,
+            "dexterity": 23,
             "hp": 152,
-            "lu": 29,
-            "ma": 26,
+            "luck": 29,
+            "magic": 26,
             "mp": 101,
-            "st": 23
+            "strength": 23
         }
     },
     "Baal": {
@@ -1505,13 +1505,13 @@
             "Mist Rush": 0
         },
         "stats": {
-            "ag": 79,
-            "dx": 90,
+            "agility": 79,
+            "dexterity": 90,
             "hp": 616,
-            "lu": 82,
-            "ma": 84,
+            "luck": 82,
+            "magic": 84,
             "mp": 280,
-            "st": 90
+            "strength": 90
         }
     },
     "Bai Suzhen": {
@@ -1548,13 +1548,13 @@
             "Media": 0
         },
         "stats": {
-            "ag": 25,
-            "dx": 23,
+            "agility": 25,
+            "dexterity": 23,
             "hp": 168,
-            "lu": 30,
-            "ma": 37,
+            "luck": 30,
+            "magic": 37,
             "mp": 141,
-            "st": 18
+            "strength": 18
         }
     },
     "Baihu": {
@@ -1591,13 +1591,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 75,
-            "dx": 54,
+            "agility": 75,
+            "dexterity": 54,
             "hp": 627,
-            "lu": 69,
-            "ma": 55,
+            "luck": 69,
+            "magic": 55,
             "mp": 251,
-            "st": 100
+            "strength": 100
         }
     },
     "Baldur": {
@@ -1635,13 +1635,13 @@
             "Head Crush": 0
         },
         "stats": {
-            "ag": 31,
-            "dx": 30,
+            "agility": 31,
+            "dexterity": 30,
             "hp": 311,
-            "lu": 39,
-            "ma": 22,
+            "luck": 39,
+            "magic": 22,
             "mp": 96,
-            "st": 44
+            "strength": 44
         }
     },
     "Balor": {
@@ -1678,13 +1678,13 @@
             "Megaton Press": 0
         },
         "stats": {
-            "ag": 34,
-            "dx": 37,
+            "agility": 34,
+            "dexterity": 37,
             "hp": 402,
-            "lu": 44,
-            "ma": 32,
+            "luck": 44,
+            "magic": 32,
             "mp": 116,
-            "st": 58
+            "strength": 58
         }
     },
     "Baphomet": {
@@ -1721,13 +1721,13 @@
             "Spirit Drain": 0
         },
         "stats": {
-            "ag": 24,
-            "dx": 26,
+            "agility": 24,
+            "dexterity": 26,
             "hp": 291,
-            "lu": 32,
-            "ma": 43,
+            "luck": 32,
+            "magic": 43,
             "mp": 125,
-            "st": 20
+            "strength": 20
         }
     },
     "Barbatos": {
@@ -1765,13 +1765,13 @@
             "Zandyne": 71
         },
         "stats": {
-            "ag": 79,
-            "dx": 104,
+            "agility": 79,
+            "dexterity": 104,
             "hp": 601,
-            "lu": 68,
-            "ma": 54,
+            "luck": 68,
+            "magic": 54,
             "mp": 224,
-            "st": 65
+            "strength": 65
         }
     },
     "Barong": {
@@ -1808,13 +1808,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 87,
-            "dx": 80,
+            "agility": 87,
+            "dexterity": 80,
             "hp": 533,
-            "lu": 85,
-            "ma": 59,
+            "luck": 85,
+            "magic": 59,
             "mp": 320,
-            "st": 80
+            "strength": 80
         }
     },
     "Basilisk": {
@@ -1851,13 +1851,13 @@
             "Resist Ice": 30
         },
         "stats": {
-            "ag": 44,
-            "dx": 31,
+            "agility": 44,
+            "dexterity": 31,
             "hp": 247,
-            "lu": 35,
-            "ma": 29,
+            "luck": 35,
+            "magic": 29,
             "mp": 151,
-            "st": 31
+            "strength": 31
         }
     },
     "Beelzebub": {
@@ -1895,13 +1895,13 @@
             "Riot Gun": 0
         },
         "stats": {
-            "ag": 84,
-            "dx": 89,
+            "agility": 84,
+            "dexterity": 89,
             "hp": 616,
-            "lu": 76,
-            "ma": 85,
+            "luck": 76,
+            "magic": 85,
             "mp": 280,
-            "st": 91
+            "strength": 91
         }
     },
     "Beiji-Weng": {
@@ -1938,13 +1938,13 @@
             "Workaholic": 68
         },
         "stats": {
-            "ag": 81,
-            "dx": 73,
+            "agility": 81,
+            "dexterity": 73,
             "hp": 490,
-            "lu": 79,
-            "ma": 95,
+            "luck": 79,
+            "magic": 95,
             "mp": 377,
-            "st": 45
+            "strength": 45
         }
     },
     "Belial": {
@@ -1981,13 +1981,13 @@
             "Mortal Jihad": 0
         },
         "stats": {
-            "ag": 75,
-            "dx": 84,
+            "agility": 75,
+            "dexterity": 84,
             "hp": 633,
-            "lu": 67,
-            "ma": 88,
+            "luck": 67,
+            "magic": 88,
             "mp": 272,
-            "st": 82
+            "strength": 82
         }
     },
     "Berserker": {
@@ -2024,13 +2024,13 @@
             "Hades Blast": 0
         },
         "stats": {
-            "ag": 64,
-            "dx": 60,
+            "agility": 64,
+            "dexterity": 60,
             "hp": 514,
-            "lu": 74,
-            "ma": 44,
+            "luck": 74,
+            "magic": 44,
             "mp": 237,
-            "st": 107
+            "strength": 107
         }
     },
     "Bifrons": {
@@ -2067,13 +2067,13 @@
             "Resist Dark": 22
         },
         "stats": {
-            "ag": 24,
-            "dx": 22,
+            "agility": 24,
+            "dexterity": 22,
             "hp": 163,
-            "lu": 29,
-            "ma": 36,
+            "luck": 29,
+            "magic": 36,
             "mp": 137,
-            "st": 17
+            "strength": 17
         }
     },
     "Bilwis": {
@@ -2109,13 +2109,13 @@
             "Poison Claw": 0
         },
         "stats": {
-            "ag": 13,
-            "dx": 17,
+            "agility": 13,
+            "dexterity": 17,
             "hp": 126,
-            "lu": 17,
-            "ma": 13,
+            "luck": 17,
+            "magic": 13,
             "mp": 59,
-            "st": 16
+            "strength": 16
         }
     },
     "Bishamonten": {
@@ -2152,13 +2152,13 @@
             "War Cry": 0
         },
         "stats": {
-            "ag": 64,
-            "dx": 78,
+            "agility": 64,
+            "dexterity": 78,
             "hp": 704,
-            "lu": 74,
-            "ma": 37,
+            "luck": 74,
+            "magic": 37,
             "mp": 222,
-            "st": 111
+            "strength": 111
         }
     },
     "Black Frost": {
@@ -2196,13 +2196,13 @@
             "Taunt": 0
         },
         "stats": {
-            "ag": 39,
-            "dx": 40,
+            "agility": 39,
+            "dexterity": 40,
             "hp": 482,
-            "lu": 44,
-            "ma": 44,
+            "luck": 44,
+            "magic": 44,
             "mp": 126,
-            "st": 64
+            "strength": 64
         }
     },
     "Black Maria": {
@@ -2240,13 +2240,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 70,
-            "dx": 64,
+            "agility": 70,
+            "dexterity": 64,
             "hp": 580,
-            "lu": 84,
-            "ma": 113,
+            "luck": 84,
+            "magic": 113,
             "mp": 387,
-            "st": 40
+            "strength": 40
         }
     },
     "Black Rider": {
@@ -2284,13 +2284,13 @@
             "Soul Divide": 0
         },
         "stats": {
-            "ag": 132,
-            "dx": 105,
+            "agility": 132,
+            "dexterity": 105,
             "hp": 687,
-            "lu": 108,
-            "ma": 122,
+            "luck": 108,
+            "magic": 122,
             "mp": 319,
-            "st": 129
+            "strength": 129
         }
     },
     "Botis": {
@@ -2328,13 +2328,13 @@
             "Mist Rush": 84
         },
         "stats": {
-            "ag": 85,
-            "dx": 67,
+            "agility": 85,
+            "dexterity": 67,
             "hp": 536,
-            "lu": 111,
-            "ma": 123,
+            "luck": 111,
+            "magic": 123,
             "mp": 439,
-            "st": 53
+            "strength": 53
         }
     },
     "Brigid": {
@@ -2371,13 +2371,13 @@
             "Mediarama": 0
         },
         "stats": {
-            "ag": 36,
-            "dx": 32,
+            "agility": 36,
+            "dexterity": 32,
             "hp": 256,
-            "lu": 45,
-            "ma": 59,
+            "luck": 45,
+            "magic": 59,
             "mp": 226,
-            "st": 25
+            "strength": 25
         }
     },
     "Cabracan": {
@@ -2414,13 +2414,13 @@
             "Pandemic Bomb": 0
         },
         "stats": {
-            "ag": 29,
-            "dx": 51,
+            "agility": 29,
+            "dexterity": 51,
             "hp": 672,
-            "lu": 66,
-            "ma": 36,
+            "luck": 66,
+            "magic": 36,
             "mp": 134,
-            "st": 90
+            "strength": 90
         }
     },
     "Caladrius": {
@@ -2455,13 +2455,13 @@
             "Posumudi": 6
         },
         "stats": {
-            "ag": 13,
-            "dx": 10,
+            "agility": 13,
+            "dexterity": 10,
             "hp": 71,
-            "lu": 12,
-            "ma": 11,
+            "luck": 12,
+            "magic": 11,
             "mp": 59,
-            "st": 8
+            "strength": 8
         }
     },
     "Camazotz": {
@@ -2498,13 +2498,13 @@
             "Tetanus Cut": 0
         },
         "stats": {
-            "ag": 40,
-            "dx": 29,
+            "agility": 40,
+            "dexterity": 29,
             "hp": 227,
-            "lu": 33,
-            "ma": 27,
+            "luck": 33,
+            "magic": 27,
             "mp": 121,
-            "st": 29
+            "strength": 29
         }
     },
     "Catoblepas": {
@@ -2541,13 +2541,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 53,
-            "dx": 45,
+            "agility": 53,
+            "dexterity": 45,
             "hp": 583,
-            "lu": 64,
-            "ma": 64,
+            "luck": 64,
+            "magic": 64,
             "mp": 196,
-            "st": 80
+            "strength": 80
         }
     },
     "Centaur": {
@@ -2582,13 +2582,13 @@
             "Needle Shot": 5
         },
         "stats": {
-            "ag": 16,
-            "dx": 13,
+            "agility": 16,
+            "dexterity": 13,
             "hp": 111,
-            "lu": 9,
-            "ma": 10,
+            "luck": 9,
+            "magic": 10,
             "mp": 50,
-            "st": 9
+            "strength": 9
         }
     },
     "Cerberus": {
@@ -2625,13 +2625,13 @@
             "War Cry": 71
         },
         "stats": {
-            "ag": 82,
-            "dx": 50,
+            "agility": 82,
+            "dexterity": 50,
             "hp": 726,
-            "lu": 77,
-            "ma": 85,
+            "luck": 77,
+            "magic": 85,
             "mp": 179,
-            "st": 94
+            "strength": 94
         }
     },
     "Cernunnos": {
@@ -2668,13 +2668,13 @@
             "Megidola": 72
         },
         "stats": {
-            "ag": 70,
-            "dx": 58,
+            "agility": 70,
+            "dexterity": 58,
             "hp": 583,
-            "lu": 85,
-            "ma": 107,
+            "luck": 85,
+            "magic": 107,
             "mp": 390,
-            "st": 68
+            "strength": 68
         }
     },
     "Chagrin": {
@@ -2711,13 +2711,13 @@
             "Zio": 0
         },
         "stats": {
-            "ag": 20,
-            "dx": 23,
+            "agility": 20,
+            "dexterity": 23,
             "hp": 154,
-            "lu": 15,
-            "ma": 13,
+            "luck": 15,
+            "magic": 13,
             "mp": 60,
-            "st": 14
+            "strength": 14
         }
     },
     "Chernobog": {
@@ -2754,13 +2754,13 @@
             "Sea of Chaos": 0
         },
         "stats": {
-            "ag": 61,
-            "dx": 56,
+            "agility": 61,
+            "dexterity": 56,
             "hp": 463,
-            "lu": 51,
-            "ma": 71,
+            "luck": 51,
+            "magic": 71,
             "mp": 259,
-            "st": 71
+            "strength": 71
         }
     },
     "Cherub": {
@@ -2797,13 +2797,13 @@
             "Megidola": 0
         },
         "stats": {
-            "ag": 75,
-            "dx": 105,
+            "agility": 75,
+            "dexterity": 105,
             "hp": 666,
-            "lu": 75,
-            "ma": 80,
+            "luck": 75,
+            "magic": 80,
             "mp": 290,
-            "st": 66
+            "strength": 66
         }
     },
     "Chi You": {
@@ -2842,13 +2842,13 @@
             "Mist Rush": 89
         },
         "stats": {
-            "ag": 94,
-            "dx": 75,
+            "agility": 94,
+            "dexterity": 75,
             "hp": 857,
-            "lu": 100,
-            "ma": 74,
+            "luck": 100,
+            "magic": 74,
             "mp": 194,
-            "st": 131
+            "strength": 131
         }
     },
     "Chimera": {
@@ -2885,13 +2885,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 63,
-            "dx": 52,
+            "agility": 63,
+            "dexterity": 52,
             "hp": 512,
-            "lu": 55,
-            "ma": 33,
+            "luck": 55,
+            "magic": 33,
             "mp": 211,
-            "st": 75
+            "strength": 75
         }
     },
     "Chironnupu": {
@@ -2927,13 +2927,13 @@
             "Recarmdra": 27
         },
         "stats": {
-            "ag": 43,
-            "dx": 32,
+            "agility": 43,
+            "dexterity": 32,
             "hp": 258,
-            "lu": 47,
-            "ma": 36,
+            "luck": 47,
+            "magic": 36,
             "mp": 137,
-            "st": 38
+            "strength": 38
         }
     },
     "Chupacabra": {
@@ -2970,13 +2970,13 @@
             "Sukukaja": 0
         },
         "stats": {
-            "ag": 35,
-            "dx": 25,
+            "agility": 35,
+            "dexterity": 25,
             "hp": 200,
-            "lu": 31,
-            "ma": 21,
+            "luck": 31,
+            "magic": 21,
             "mp": 107,
-            "st": 25
+            "strength": 25
         }
     },
     "Churel": {
@@ -3013,13 +3013,13 @@
             "Shibaboo": 0
         },
         "stats": {
-            "ag": 40,
-            "dx": 31,
+            "agility": 40,
+            "dexterity": 31,
             "hp": 230,
-            "lu": 42,
-            "ma": 52,
+            "luck": 42,
+            "magic": 52,
             "mp": 192,
-            "st": 24
+            "strength": 24
         }
     },
     "Cleopatra": {
@@ -3059,13 +3059,13 @@
             "Mediarahan": 0
         },
         "stats": {
-            "ag": 125,
-            "dx": 83,
+            "agility": 125,
+            "dexterity": 83,
             "hp": 616,
-            "lu": 126,
-            "ma": 176,
+            "luck": 126,
+            "magic": 176,
             "mp": 788,
-            "st": 60
+            "strength": 60
         }
     },
     "Clotho": {
@@ -3103,13 +3103,13 @@
             "Workaholic": 37
         },
         "stats": {
-            "ag": 58,
-            "dx": 34,
+            "agility": 58,
+            "dexterity": 34,
             "hp": 333,
-            "lu": 43,
-            "ma": 32,
+            "luck": 43,
+            "magic": 32,
             "mp": 156,
-            "st": 38
+            "strength": 38
         }
     },
     "Corpses": {
@@ -3145,13 +3145,13 @@
             "Mamudo": 36
         },
         "stats": {
-            "ag": 33,
-            "dx": 36,
+            "agility": 33,
+            "dexterity": 36,
             "hp": 470,
-            "lu": 38,
-            "ma": 26,
+            "luck": 38,
+            "magic": 26,
             "mp": 113,
-            "st": 57
+            "strength": 57
         }
     },
     "Cu Chulainn": {
@@ -3190,13 +3190,13 @@
             "Mana Aid": 0
         },
         "stats": {
-            "ag": 46,
-            "dx": 51,
+            "agility": 46,
+            "dexterity": 51,
             "hp": 533,
-            "lu": 41,
-            "ma": 76,
+            "luck": 41,
+            "magic": 76,
             "mp": 239,
-            "st": 81
+            "strength": 81
         }
     },
     "Da Peng": {
@@ -3233,13 +3233,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 80,
-            "dx": 47,
+            "agility": 80,
+            "dexterity": 47,
             "hp": 508,
-            "lu": 64,
-            "ma": 73,
+            "luck": 64,
+            "magic": 73,
             "mp": 208,
-            "st": 70
+            "strength": 70
         }
     },
     "Dakini": {
@@ -3277,13 +3277,13 @@
             "Titanomachia": 0
         },
         "stats": {
-            "ag": 63,
-            "dx": 60,
+            "agility": 63,
+            "dexterity": 60,
             "hp": 605,
-            "lu": 73,
-            "ma": 43,
+            "luck": 73,
+            "magic": 43,
             "mp": 224,
-            "st": 96
+            "strength": 96
         }
     },
     "Dantalion": {
@@ -3321,13 +3321,13 @@
             "Sabbatma": 55
         },
         "stats": {
-            "ag": 54,
-            "dx": 48,
+            "agility": 54,
+            "dexterity": 48,
             "hp": 348,
-            "lu": 65,
-            "ma": 82,
+            "luck": 65,
+            "magic": 82,
             "mp": 288,
-            "st": 37
+            "strength": 37
         }
     },
     "Daphne": {
@@ -3364,13 +3364,13 @@
             "Rakukaja": 0
         },
         "stats": {
-            "ag": 21,
-            "dx": 19,
+            "agility": 21,
+            "dexterity": 19,
             "hp": 140,
-            "lu": 24,
-            "ma": 30,
+            "luck": 24,
+            "magic": 30,
             "mp": 168,
-            "st": 15
+            "strength": 15
         }
     },
     "David": {
@@ -3406,13 +3406,13 @@
             "Soul Drain": 0
         },
         "stats": {
-            "ag": 115,
-            "dx": 77,
+            "agility": 115,
+            "dexterity": 77,
             "hp": 603,
-            "lu": 87,
-            "ma": 143,
+            "luck": 87,
+            "magic": 143,
             "mp": 455,
-            "st": 65
+            "strength": 65
         }
     },
     "Decarabia": {
@@ -3447,13 +3447,13 @@
             "Bufu": 0
         },
         "stats": {
-            "ag": 11,
-            "dx": 10,
+            "agility": 11,
+            "dexterity": 10,
             "hp": 79,
-            "lu": 12,
-            "ma": 15,
+            "luck": 12,
+            "magic": 15,
             "mp": 69,
-            "st": 8
+            "strength": 8
         }
     },
     "Demiurge": {
@@ -3491,13 +3491,13 @@
             "Null Mind": 97
         },
         "stats": {
-            "ag": 110,
-            "dx": 98,
+            "agility": 110,
+            "dexterity": 98,
             "hp": 748,
-            "lu": 82,
-            "ma": 116,
+            "luck": 82,
+            "magic": 116,
             "mp": 320,
-            "st": 116
+            "strength": 116
         }
     },
     "Demonee-Ho": {
@@ -3535,13 +3535,13 @@
             "Smile Charge": 0
         },
         "stats": {
-            "ag": 75,
-            "dx": 71,
+            "agility": 75,
+            "dexterity": 71,
             "hp": 714,
-            "lu": 86,
-            "ma": 51,
+            "luck": 86,
+            "magic": 51,
             "mp": 216,
-            "st": 114
+            "strength": 114
         }
     },
     "Diana": {
@@ -3578,13 +3578,13 @@
             "Madness Needle": 0
         },
         "stats": {
-            "ag": 52,
-            "dx": 72,
+            "agility": 52,
+            "dexterity": 72,
             "hp": 455,
-            "lu": 42,
-            "ma": 47,
+            "luck": 42,
+            "magic": 47,
             "mp": 174,
-            "st": 42
+            "strength": 42
         }
     },
     "Dionysus": {
@@ -3621,13 +3621,13 @@
             "Purple Smoke": 0
         },
         "stats": {
-            "ag": 68,
-            "dx": 44,
+            "agility": 68,
+            "dexterity": 44,
             "hp": 383,
-            "lu": 61,
-            "ma": 39,
+            "luck": 61,
+            "magic": 39,
             "mp": 226,
-            "st": 50
+            "strength": 50
         }
     },
     "Dis": {
@@ -3665,13 +3665,13 @@
             "Posumudi": 30
         },
         "stats": {
-            "ag": 37,
-            "dx": 29,
+            "agility": 37,
+            "dexterity": 29,
             "hp": 193,
-            "lu": 39,
-            "ma": 48,
+            "luck": 39,
+            "magic": 48,
             "mp": 177,
-            "st": 20
+            "strength": 20
         }
     },
     "Dominion": {
@@ -3708,13 +3708,13 @@
             "Samarecarm": 52
         },
         "stats": {
-            "ag": 61,
-            "dx": 47,
+            "agility": 61,
+            "dexterity": 47,
             "hp": 376,
-            "lu": 72,
-            "ma": 85,
+            "luck": 72,
+            "magic": 85,
             "mp": 299,
-            "st": 36
+            "strength": 36
         }
     },
     "Dormarth": {
@@ -3751,13 +3751,13 @@
             "Trafuri": 0
         },
         "stats": {
-            "ag": 68,
-            "dx": 52,
+            "agility": 68,
+            "dexterity": 52,
             "hp": 376,
-            "lu": 76,
-            "ma": 94,
+            "luck": 76,
+            "magic": 94,
             "mp": 341,
-            "st": 40
+            "strength": 40
         }
     },
     "Dwarf": {
@@ -3793,13 +3793,13 @@
             "Head Crush": 10
         },
         "stats": {
-            "ag": 13,
-            "dx": 13,
+            "agility": 13,
+            "dexterity": 13,
             "hp": 143,
-            "lu": 15,
-            "ma": 10,
+            "luck": 15,
+            "magic": 10,
             "mp": 45,
-            "st": 19
+            "strength": 19
         }
     },
     "Dybbuk": {
@@ -3835,13 +3835,13 @@
             "Patra": 12
         },
         "stats": {
-            "ag": 15,
-            "dx": 14,
+            "agility": 15,
+            "dexterity": 14,
             "hp": 107,
-            "lu": 18,
-            "ma": 22,
+            "luck": 18,
+            "magic": 22,
             "mp": 92,
-            "st": 11
+            "strength": 11
         }
     },
     "Dzelarhons": {
@@ -3878,13 +3878,13 @@
             "Maragi": 20
         },
         "stats": {
-            "ag": 23,
-            "dx": 16,
+            "agility": 23,
+            "dexterity": 16,
             "hp": 162,
-            "lu": 31,
-            "ma": 39,
+            "luck": 31,
+            "magic": 39,
             "mp": 152,
-            "st": 16
+            "strength": 16
         }
     },
     "Enku": {
@@ -3920,13 +3920,13 @@
             "Maragion": 39
         },
         "stats": {
-            "ag": 40,
-            "dx": 36,
+            "agility": 40,
+            "dexterity": 36,
             "hp": 264,
-            "lu": 49,
-            "ma": 61,
+            "luck": 49,
+            "magic": 61,
             "mp": 219,
-            "st": 28
+            "strength": 28
         }
     },
     "Erlkonig": {
@@ -3964,13 +3964,13 @@
             "Stun Needles": 0
         },
         "stats": {
-            "ag": 80,
-            "dx": 106,
+            "agility": 80,
+            "dexterity": 106,
             "hp": 659,
-            "lu": 69,
-            "ma": 55,
+            "luck": 69,
+            "magic": 55,
             "mp": 227,
-            "st": 66
+            "strength": 66
         }
     },
     "Erthys": {
@@ -4006,13 +4006,13 @@
             "Life Bonus": 12
         },
         "stats": {
-            "ag": 15,
-            "dx": 19,
+            "agility": 15,
+            "dexterity": 19,
             "hp": 136,
-            "lu": 13,
-            "ma": 14,
+            "luck": 13,
+            "magic": 14,
             "mp": 61,
-            "st": 13
+            "strength": 13
         }
     },
     "Fafnir": {
@@ -4049,13 +4049,13 @@
             "War Cry": 76
         },
         "stats": {
-            "ag": 74,
-            "dx": 70,
+            "agility": 74,
+            "dexterity": 70,
             "hp": 786,
-            "lu": 83,
-            "ma": 44,
+            "luck": 83,
+            "magic": 44,
             "mp": 214,
-            "st": 113
+            "strength": 113
         }
     },
     "Feng Huang": {
@@ -4092,13 +4092,13 @@
             "High Fire Pleroma": 66
         },
         "stats": {
-            "ag": 78,
-            "dx": 51,
+            "agility": 78,
+            "dexterity": 51,
             "hp": 524,
-            "lu": 78,
-            "ma": 86,
+            "luck": 78,
+            "magic": 86,
             "mp": 333,
-            "st": 63
+            "strength": 63
         }
     },
     "Fenrir": {
@@ -4135,13 +4135,13 @@
             "Phys Pleroma": 70
         },
         "stats": {
-            "ag": 97,
-            "dx": 43,
+            "agility": 97,
+            "dexterity": 43,
             "hp": 679,
-            "lu": 86,
-            "ma": 77,
+            "luck": 86,
+            "magic": 77,
             "mp": 253,
-            "st": 83
+            "strength": 83
         }
     },
     "Flaemis": {
@@ -4177,13 +4177,13 @@
             "Pulinpa": 21
         },
         "stats": {
-            "ag": 29,
-            "dx": 28,
+            "agility": 29,
+            "dexterity": 28,
             "hp": 254,
-            "lu": 28,
-            "ma": 17,
+            "luck": 28,
+            "magic": 17,
             "mp": 86,
-            "st": 36
+            "strength": 36
         }
     },
     "Fomorian": {
@@ -4218,13 +4218,13 @@
             "Head Crush": 0
         },
         "stats": {
-            "ag": 9,
-            "dx": 11,
+            "agility": 9,
+            "dexterity": 11,
             "hp": 181,
-            "lu": 13,
-            "ma": 8,
+            "luck": 13,
+            "magic": 8,
             "mp": 30,
-            "st": 19
+            "strength": 19
         }
     },
     "Fortuna": {
@@ -4261,13 +4261,13 @@
             "Zan": 0
         },
         "stats": {
-            "ag": 24,
-            "dx": 17,
+            "agility": 24,
+            "dexterity": 17,
             "hp": 133,
-            "lu": 20,
-            "ma": 17,
+            "luck": 20,
+            "magic": 17,
             "mp": 89,
-            "st": 16
+            "strength": 16
         }
     },
     "Frost Ace": {
@@ -4305,13 +4305,13 @@
             "Purple Smoke": 0
         },
         "stats": {
-            "ag": 62,
-            "dx": 37,
+            "agility": 62,
+            "dexterity": 37,
             "hp": 390,
-            "lu": 52,
-            "ma": 52,
+            "luck": 52,
+            "magic": 52,
             "mp": 230,
-            "st": 52
+            "strength": 52
         }
     },
     "Futotama": {
@@ -4349,13 +4349,13 @@
             "Workaholic": 51
         },
         "stats": {
-            "ag": 61,
-            "dx": 46,
+            "agility": 61,
+            "dexterity": 46,
             "hp": 381,
-            "lu": 67,
-            "ma": 83,
+            "luck": 67,
+            "magic": 83,
             "mp": 325,
-            "st": 35
+            "strength": 35
         }
     },
     "Fuu-Ki": {
@@ -4392,13 +4392,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 71,
-            "dx": 50,
+            "agility": 71,
+            "dexterity": 50,
             "hp": 386,
-            "lu": 63,
-            "ma": 42,
+            "luck": 63,
+            "magic": 42,
             "mp": 204,
-            "st": 50
+            "strength": 50
         }
     },
     "Fuxi": {
@@ -4435,13 +4435,13 @@
             "Zan": 0
         },
         "stats": {
-            "ag": 13,
-            "dx": 16,
+            "agility": 13,
+            "dexterity": 16,
             "hp": 116,
-            "lu": 12,
-            "ma": 10,
+            "luck": 12,
+            "magic": 10,
             "mp": 46,
-            "st": 11
+            "strength": 11
         }
     },
     "Ganesha": {
@@ -4478,13 +4478,13 @@
             "Rakukaja": 0
         },
         "stats": {
-            "ag": 61,
-            "dx": 67,
+            "agility": 61,
+            "dexterity": 67,
             "hp": 731,
-            "lu": 82,
-            "ma": 78,
+            "luck": 82,
+            "magic": 78,
             "mp": 257,
-            "st": 108
+            "strength": 108
         }
     },
     "Garrote": {
@@ -4521,13 +4521,13 @@
             "Poisma": 8
         },
         "stats": {
-            "ag": 16,
-            "dx": 12,
+            "agility": 16,
+            "dexterity": 12,
             "hp": 107,
-            "lu": 15,
-            "ma": 11,
+            "luck": 15,
+            "magic": 11,
             "mp": 59,
-            "st": 12
+            "strength": 12
         }
     },
     "Garuda": {
@@ -4564,13 +4564,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 101,
-            "dx": 71,
+            "agility": 101,
+            "dexterity": 71,
             "hp": 539,
-            "lu": 90,
-            "ma": 60,
+            "luck": 90,
+            "magic": 60,
             "mp": 284,
-            "st": 71
+            "strength": 71
         }
     },
     "Gemori": {
@@ -4607,13 +4607,13 @@
             "Sexy Dance": 0
         },
         "stats": {
-            "ag": 54,
-            "dx": 52,
+            "agility": 54,
+            "dexterity": 52,
             "hp": 386,
-            "lu": 71,
-            "ma": 89,
+            "luck": 71,
+            "magic": 89,
             "mp": 311,
-            "st": 40
+            "strength": 40
         }
     },
     "Ghoul": {
@@ -4650,13 +4650,13 @@
             "Tetanus Cut": 0
         },
         "stats": {
-            "ag": 62,
-            "dx": 42,
+            "agility": 62,
+            "dexterity": 42,
             "hp": 356,
-            "lu": 63,
-            "ma": 57,
+            "luck": 63,
+            "magic": 57,
             "mp": 204,
-            "st": 66
+            "strength": 66
         }
     },
     "Girimehkala": {
@@ -4693,13 +4693,13 @@
             "Titanomachia": 0
         },
         "stats": {
-            "ag": 62,
-            "dx": 59,
+            "agility": 62,
+            "dexterity": 59,
             "hp": 797,
-            "lu": 72,
-            "ma": 42,
+            "luck": 72,
+            "magic": 42,
             "mp": 186,
-            "st": 99
+            "strength": 99
         }
     },
     "Gnome": {
@@ -4735,13 +4735,13 @@
             "Lullaby": 25
         },
         "stats": {
-            "ag": 33,
-            "dx": 26,
+            "agility": 33,
+            "dexterity": 26,
             "hp": 308,
-            "lu": 37,
-            "ma": 20,
+            "luck": 37,
+            "magic": 20,
             "mp": 116,
-            "st": 41
+            "strength": 41
         }
     },
     "Goblin": {
@@ -4776,13 +4776,13 @@
             "Lunge": 4
         },
         "stats": {
-            "ag": 9,
-            "dx": 6,
+            "agility": 9,
+            "dexterity": 6,
             "hp": 101,
-            "lu": 10,
-            "ma": 7,
+            "luck": 10,
+            "magic": 7,
             "mp": 24,
-            "st": 15
+            "strength": 15
         }
     },
     "Gogmagog": {
@@ -4819,13 +4819,13 @@
             "Titanomachia": 63
         },
         "stats": {
-            "ag": 56,
-            "dx": 58,
+            "agility": 56,
+            "dexterity": 58,
             "hp": 788,
-            "lu": 71,
-            "ma": 42,
+            "luck": 71,
+            "magic": 42,
             "mp": 179,
-            "st": 93
+            "strength": 93
         }
     },
     "Gremlin": {
@@ -4861,13 +4861,13 @@
             "Zio": 10
         },
         "stats": {
-            "ag": 16,
-            "dx": 13,
+            "agility": 16,
+            "dexterity": 13,
             "hp": 119,
-            "lu": 14,
-            "ma": 16,
+            "luck": 14,
+            "magic": 16,
             "mp": 56,
-            "st": 11
+            "strength": 11
         }
     },
     "Grendel": {
@@ -4904,13 +4904,13 @@
             "Head Crush": 0
         },
         "stats": {
-            "ag": 42,
-            "dx": 49,
+            "agility": 42,
+            "dexterity": 49,
             "hp": 596,
-            "lu": 44,
-            "ma": 35,
+            "luck": 44,
+            "magic": 35,
             "mp": 152,
-            "st": 86
+            "strength": 86
         }
     },
     "Gryphon": {
@@ -4946,13 +4946,13 @@
             "Oni-Kagura": 0
         },
         "stats": {
-            "ag": 42,
-            "dx": 40,
+            "agility": 42,
+            "dexterity": 40,
             "hp": 442,
-            "lu": 51,
-            "ma": 29,
+            "luck": 51,
+            "magic": 29,
             "mp": 126,
-            "st": 61
+            "strength": 61
         }
     },
     "Gu Huo Niao": {
@@ -4988,13 +4988,13 @@
             "Maragi": 18
         },
         "stats": {
-            "ag": 21,
-            "dx": 19,
+            "agility": 21,
+            "dexterity": 19,
             "hp": 140,
-            "lu": 24,
-            "ma": 30,
+            "luck": 24,
+            "magic": 30,
             "mp": 118,
-            "st": 15
+            "strength": 15
         }
     },
     "Gucumatz": {
@@ -5032,13 +5032,13 @@
             "Wind Breath": 28
         },
         "stats": {
-            "ag": 42,
-            "dx": 30,
+            "agility": 42,
+            "dexterity": 30,
             "hp": 240,
-            "lu": 38,
-            "ma": 26,
+            "luck": 38,
+            "magic": 26,
             "mp": 128,
-            "st": 30
+            "strength": 30
         }
     },
     "Guedhe": {
@@ -5076,13 +5076,13 @@
             "Samarecarm": 64
         },
         "stats": {
-            "ag": 63,
-            "dx": 56,
+            "agility": 63,
+            "dexterity": 56,
             "hp": 404,
-            "lu": 76,
-            "ma": 96,
+            "luck": 76,
+            "magic": 96,
             "mp": 373,
-            "st": 43
+            "strength": 43
         }
     },
     "Gui Xian": {
@@ -5119,13 +5119,13 @@
             "Rakukaja": 61
         },
         "stats": {
-            "ag": 57,
-            "dx": 49,
+            "agility": 57,
+            "dexterity": 49,
             "hp": 650,
-            "lu": 72,
-            "ma": 63,
+            "luck": 72,
+            "magic": 63,
             "mp": 236,
-            "st": 95
+            "strength": 95
         }
     },
     "Gurr": {
@@ -5162,13 +5162,13 @@
             "Wind Breath": 0
         },
         "stats": {
-            "ag": 62,
-            "dx": 44,
+            "agility": 62,
+            "dexterity": 44,
             "hp": 340,
-            "lu": 55,
-            "ma": 37,
+            "luck": 55,
+            "magic": 37,
             "mp": 180,
-            "st": 44
+            "strength": 44
         }
     },
     "Hachiman": {
@@ -5206,13 +5206,13 @@
             "Tetrakarn": 0
         },
         "stats": {
-            "ag": 74,
-            "dx": 70,
+            "agility": 74,
+            "dexterity": 70,
             "hp": 726,
-            "lu": 97,
-            "ma": 50,
+            "luck": 97,
+            "magic": 50,
             "mp": 244,
-            "st": 111
+            "strength": 111
         }
     },
     "Hagen": {
@@ -5250,13 +5250,13 @@
             "Loyalty Slash": 0
         },
         "stats": {
-            "ag": 67,
-            "dx": 54,
+            "agility": 67,
+            "dexterity": 54,
             "hp": 615,
-            "lu": 90,
-            "ma": 39,
+            "luck": 90,
+            "magic": 39,
             "mp": 121,
-            "st": 86
+            "strength": 86
         }
     },
     "Hairy Jack": {
@@ -5293,13 +5293,13 @@
             "Sukunda": 0
         },
         "stats": {
-            "ag": 38,
-            "dx": 32,
+            "agility": 38,
+            "dexterity": 32,
             "hp": 328,
-            "lu": 38,
-            "ma": 23,
+            "luck": 38,
+            "magic": 23,
             "mp": 81,
-            "st": 50
+            "strength": 50
         }
     },
     "Halphas": {
@@ -5336,13 +5336,13 @@
             "Tarukaja": 0
         },
         "stats": {
-            "ag": 37,
-            "dx": 28,
+            "agility": 37,
+            "dexterity": 28,
             "hp": 256,
-            "lu": 30,
-            "ma": 26,
+            "luck": 30,
+            "magic": 26,
             "mp": 118,
-            "st": 33
+            "strength": 33
         }
     },
     "Hamsa": {
@@ -5379,13 +5379,13 @@
             "Zio": 0
         },
         "stats": {
-            "ag": 20,
-            "dx": 15,
+            "agility": 20,
+            "dexterity": 15,
             "hp": 137,
-            "lu": 18,
-            "ma": 13,
+            "luck": 18,
+            "magic": 13,
             "mp": 75,
-            "st": 15
+            "strength": 15
         }
     },
     "Hanuman": {
@@ -5422,13 +5422,13 @@
             "Rakunda": 67
         },
         "stats": {
-            "ag": 66,
-            "dx": 62,
+            "agility": 66,
+            "dexterity": 62,
             "hp": 630,
-            "lu": 76,
-            "ma": 45,
+            "luck": 76,
+            "magic": 45,
             "mp": 212,
-            "st": 100
+            "strength": 100
         }
     },
     "Haoma": {
@@ -5465,13 +5465,13 @@
             "Tetraja": 56
         },
         "stats": {
-            "ag": 60,
-            "dx": 81,
+            "agility": 60,
+            "dexterity": 81,
             "hp": 486,
-            "lu": 55,
-            "ma": 68,
+            "luck": 55,
+            "magic": 68,
             "mp": 251,
-            "st": 42
+            "strength": 42
         }
     },
     "Hare of Inaba": {
@@ -5509,13 +5509,13 @@
             "Trafuri": 39
         },
         "stats": {
-            "ag": 57,
-            "dx": 40,
+            "agility": 57,
+            "dexterity": 40,
             "hp": 313,
-            "lu": 51,
-            "ma": 34,
+            "luck": 51,
+            "magic": 34,
             "mp": 167,
-            "st": 40
+            "strength": 40
         }
     },
     "Hariti": {
@@ -5552,13 +5552,13 @@
             "Recarm": 37
         },
         "stats": {
-            "ag": 44,
-            "dx": 35,
+            "agility": 44,
+            "dexterity": 35,
             "hp": 252,
-            "lu": 46,
-            "ma": 68,
+            "luck": 46,
+            "magic": 68,
             "mp": 259,
-            "st": 27
+            "strength": 27
         }
     },
     "Harpy": {
@@ -5596,13 +5596,13 @@
             "Zanma": 0
         },
         "stats": {
-            "ag": 53,
-            "dx": 38,
+            "agility": 53,
+            "dexterity": 38,
             "hp": 293,
-            "lu": 47,
-            "ma": 32,
+            "luck": 47,
+            "magic": 32,
             "mp": 156,
-            "st": 38
+            "strength": 38
         }
     },
     "Hathor": {
@@ -5640,13 +5640,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 35,
-            "dx": 22,
+            "agility": 35,
+            "dexterity": 22,
             "hp": 200,
-            "lu": 28,
-            "ma": 26,
+            "luck": 28,
+            "magic": 26,
             "mp": 127,
-            "st": 22
+            "strength": 22
         }
     },
     "Heimdall": {
@@ -5684,13 +5684,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 79,
-            "dx": 74,
+            "agility": 79,
+            "dexterity": 74,
             "hp": 574,
-            "lu": 82,
-            "ma": 94,
+            "luck": 82,
+            "magic": 94,
             "mp": 301,
-            "st": 74
+            "strength": 74
         }
     },
     "Hekatoncheires": {
@@ -5727,13 +5727,13 @@
             "Panic Voice": 0
         },
         "stats": {
-            "ag": 67,
-            "dx": 64,
+            "agility": 67,
+            "dexterity": 64,
             "hp": 647,
-            "lu": 78,
-            "ma": 46,
+            "luck": 78,
+            "magic": 46,
             "mp": 196,
-            "st": 103
+            "strength": 103
         }
     },
     "Hel": {
@@ -5771,13 +5771,13 @@
             "Sabbatma": 44
         },
         "stats": {
-            "ag": 45,
-            "dx": 40,
+            "agility": 45,
+            "dexterity": 40,
             "hp": 352,
-            "lu": 54,
-            "ma": 68,
+            "luck": 54,
+            "magic": 68,
             "mp": 214,
-            "st": 31
+            "strength": 31
         }
     },
     "Heqet": {
@@ -5814,13 +5814,13 @@
             "Zio": 0
         },
         "stats": {
-            "ag": 21,
-            "dx": 18,
+            "agility": 21,
+            "dexterity": 18,
             "hp": 154,
-            "lu": 17,
-            "ma": 19,
+            "luck": 17,
+            "magic": 19,
             "mp": 72,
-            "st": 20
+            "strength": 20
         }
     },
     "High Pixie": {
@@ -5857,13 +5857,13 @@
             "Mazionga": 0
         },
         "stats": {
-            "ag": 36,
-            "dx": 32,
+            "agility": 36,
+            "dexterity": 32,
             "hp": 213,
-            "lu": 39,
-            "ma": 48,
+            "luck": 39,
+            "magic": 48,
             "mp": 207,
-            "st": 23
+            "strength": 23
         }
     },
     "Hitokoto-Nushi": {
@@ -5900,13 +5900,13 @@
             "Tetraja": 51
         },
         "stats": {
-            "ag": 60,
-            "dx": 48,
+            "agility": 60,
+            "dexterity": 48,
             "hp": 375,
-            "lu": 64,
-            "ma": 86,
+            "luck": 64,
+            "magic": 86,
             "mp": 339,
-            "st": 38
+            "strength": 38
         }
     },
     "Hooligan": {
@@ -5942,13 +5942,13 @@
             "Toxic Sting": 11
         },
         "stats": {
-            "ag": 17,
-            "dx": 22,
+            "agility": 17,
+            "dexterity": 22,
             "hp": 180,
-            "lu": 15,
-            "ma": 13,
+            "luck": 15,
+            "magic": 13,
             "mp": 57,
-            "st": 15
+            "strength": 15
         }
     },
     "Horkos": {
@@ -5985,13 +5985,13 @@
             "Megaton Press": 28
         },
         "stats": {
-            "ag": 27,
-            "dx": 26,
+            "agility": 27,
+            "dexterity": 26,
             "hp": 364,
-            "lu": 34,
-            "ma": 19,
+            "luck": 34,
+            "magic": 19,
             "mp": 91,
-            "st": 44
+            "strength": 44
         }
     },
     "Hresvelgr": {
@@ -6028,13 +6028,13 @@
             "Wind Breath": 0
         },
         "stats": {
-            "ag": 98,
-            "dx": 69,
+            "agility": 98,
+            "dexterity": 69,
             "hp": 526,
-            "lu": 87,
-            "ma": 83,
+            "luck": 87,
+            "magic": 83,
             "mp": 278,
-            "st": 59
+            "strength": 59
         }
     },
     "Hsing-Hsing": {
@@ -6072,13 +6072,13 @@
             "Taunt": 49
         },
         "stats": {
-            "ag": 70,
-            "dx": 44,
+            "agility": 70,
+            "dexterity": 44,
             "hp": 360,
-            "lu": 62,
-            "ma": 32,
+            "luck": 62,
+            "magic": 32,
             "mp": 171,
-            "st": 72
+            "strength": 72
         }
     },
     "Hua Po": {
@@ -6115,13 +6115,13 @@
             "Posumudi": 14
         },
         "stats": {
-            "ag": 20,
-            "dx": 17,
+            "agility": 20,
+            "dexterity": 17,
             "hp": 143,
-            "lu": 18,
-            "ma": 27,
+            "luck": 18,
+            "magic": 27,
             "mp": 101,
-            "st": 12
+            "strength": 12
         }
     },
     "Huang Di": {
@@ -6160,13 +6160,13 @@
             "Victory Cry": 88
         },
         "stats": {
-            "ag": 94,
-            "dx": 84,
+            "agility": 94,
+            "dexterity": 84,
             "hp": 695,
-            "lu": 99,
-            "ma": 107,
+            "luck": 99,
+            "magic": 107,
             "mp": 322,
-            "st": 84
+            "strength": 84
         }
     },
     "Huang Long": {
@@ -6203,13 +6203,13 @@
             "Victory Cry": 0
         },
         "stats": {
-            "ag": 93,
-            "dx": 79,
+            "agility": 93,
+            "dexterity": 79,
             "hp": 609,
-            "lu": 80,
-            "ma": 83,
+            "luck": 80,
+            "magic": 83,
             "mp": 277,
-            "st": 85
+            "strength": 85
         }
     },
     "Huoniao": {
@@ -6246,13 +6246,13 @@
             "Sukukaja": 0
         },
         "stats": {
-            "ag": 65,
-            "dx": 58,
+            "agility": 65,
+            "dexterity": 58,
             "hp": 415,
-            "lu": 78,
-            "ma": 99,
+            "luck": 78,
+            "magic": 99,
             "mp": 343,
-            "st": 44
+            "strength": 44
         }
     },
     "Ictinike": {
@@ -6289,13 +6289,13 @@
             "Scratch Dance": 19
         },
         "stats": {
-            "ag": 24,
-            "dx": 24,
+            "agility": 24,
+            "dexterity": 24,
             "hp": 247,
-            "lu": 24,
-            "ma": 14,
+            "luck": 24,
+            "magic": 14,
             "mp": 71,
-            "st": 31
+            "strength": 31
         }
     },
     "Illuyanka": {
@@ -6332,13 +6332,13 @@
             "Megaton Press": 0
         },
         "stats": {
-            "ag": 40,
-            "dx": 53,
+            "agility": 40,
+            "dexterity": 53,
             "hp": 592,
-            "lu": 64,
-            "ma": 64,
+            "luck": 64,
+            "magic": 64,
             "mp": 179,
-            "st": 60
+            "strength": 60
         }
     },
     "Inanna": {
@@ -6377,13 +6377,13 @@
             "Raging Tempest": 0
         },
         "stats": {
-            "ag": 98,
-            "dx": 88,
+            "agility": 98,
+            "dexterity": 88,
             "hp": 570,
-            "lu": 121,
-            "ma": 150,
+            "luck": 121,
+            "magic": 150,
             "mp": 562,
-            "st": 68
+            "strength": 68
         }
     },
     "Incubus": {
@@ -6420,13 +6420,13 @@
             "Zanma": 24
         },
         "stats": {
-            "ag": 31,
-            "dx": 40,
+            "agility": 31,
+            "dexterity": 40,
             "hp": 247,
-            "lu": 27,
-            "ma": 22,
+            "luck": 27,
+            "magic": 22,
             "mp": 93,
-            "st": 26
+            "strength": 26
         }
     },
     "Inferno": {
@@ -6463,13 +6463,13 @@
             "Maragion": 34
         },
         "stats": {
-            "ag": 34,
-            "dx": 28,
+            "agility": 34,
+            "dexterity": 28,
             "hp": 325,
-            "lu": 39,
-            "ma": 46,
+            "luck": 39,
+            "magic": 46,
             "mp": 188,
-            "st": 24
+            "strength": 24
         }
     },
     "Inti": {
@@ -6506,13 +6506,13 @@
             "Maragion": 0
         },
         "stats": {
-            "ag": 44,
-            "dx": 33,
+            "agility": 44,
+            "dexterity": 33,
             "hp": 261,
-            "lu": 51,
-            "ma": 55,
+            "luck": 51,
+            "magic": 55,
             "mp": 231,
-            "st": 26
+            "strength": 26
         }
     },
     "Inugami": {
@@ -6549,13 +6549,13 @@
             "Rakunda": 0
         },
         "stats": {
-            "ag": 33,
-            "dx": 24,
+            "agility": 33,
+            "dexterity": 24,
             "hp": 193,
-            "lu": 30,
-            "ma": 21,
+            "luck": 30,
+            "magic": 21,
             "mp": 104,
-            "st": 24
+            "strength": 24
         }
     },
     "Ippon-Datara": {
@@ -6591,13 +6591,13 @@
             "Oni-Kagura": 17
         },
         "stats": {
-            "ag": 21,
-            "dx": 20,
+            "agility": 21,
+            "dexterity": 20,
             "hp": 230,
-            "lu": 23,
-            "ma": 15,
+            "luck": 23,
+            "magic": 15,
             "mp": 55,
-            "st": 33
+            "strength": 33
         }
     },
     "Ishtar": {
@@ -6634,13 +6634,13 @@
             "Samarecarm": 47
         },
         "stats": {
-            "ag": 46,
-            "dx": 40,
+            "agility": 46,
+            "dexterity": 40,
             "hp": 337,
-            "lu": 57,
-            "ma": 90,
+            "luck": 57,
+            "magic": 90,
             "mp": 317,
-            "st": 29
+            "strength": 29
         }
     },
     "Isis": {
@@ -6677,13 +6677,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 87,
-            "dx": 57,
+            "agility": 87,
+            "dexterity": 57,
             "hp": 493,
-            "lu": 79,
-            "ma": 80,
+            "luck": 79,
+            "magic": 80,
             "mp": 309,
-            "st": 56
+            "strength": 56
         }
     },
     "Israfel": {
@@ -6721,13 +6721,13 @@
             "Panic Voice": 0
         },
         "stats": {
-            "ag": 83,
-            "dx": 60,
+            "agility": 83,
+            "dexterity": 60,
             "hp": 532,
-            "lu": 85,
-            "ma": 108,
+            "luck": 85,
+            "magic": 108,
             "mp": 356,
-            "st": 46
+            "strength": 46
         }
     },
     "Itsumade": {
@@ -6764,13 +6764,13 @@
             "Rakunda": 21
         },
         "stats": {
-            "ag": 32,
-            "dx": 23,
+            "agility": 32,
+            "dexterity": 23,
             "hp": 187,
-            "lu": 29,
-            "ma": 20,
+            "luck": 29,
+            "magic": 20,
             "mp": 101,
-            "st": 23
+            "strength": 23
         }
     },
     "Ixtab": {
@@ -6807,13 +6807,13 @@
             "Samarecarm": 77
         },
         "stats": {
-            "ag": 78,
-            "dx": 80,
+            "agility": 78,
+            "dexterity": 80,
             "hp": 545,
-            "lu": 82,
-            "ma": 90,
+            "luck": 82,
+            "magic": 90,
             "mp": 320,
-            "st": 72
+            "strength": 72
         }
     },
     "Izanami": {
@@ -6851,13 +6851,13 @@
             "Spring of Life": 83
         },
         "stats": {
-            "ag": 80,
-            "dx": 60,
+            "agility": 80,
+            "dexterity": 60,
             "hp": 448,
-            "lu": 100,
-            "ma": 140,
+            "luck": 100,
+            "magic": 140,
             "mp": 463,
-            "st": 50
+            "strength": 50
         }
     },
     "Jack Frost": {
@@ -6894,13 +6894,13 @@
             "Mabufu": 0
         },
         "stats": {
-            "ag": 24,
-            "dx": 22,
+            "agility": 24,
+            "dexterity": 22,
             "hp": 163,
-            "lu": 29,
-            "ma": 36,
+            "luck": 29,
+            "magic": 36,
             "mp": 137,
-            "st": 17
+            "strength": 17
         }
     },
     "Jack the Ripper": {
@@ -6936,13 +6936,13 @@
             "Tetanus Cut": 0
         },
         "stats": {
-            "ag": 16,
-            "dx": 12,
+            "agility": 16,
+            "dexterity": 12,
             "hp": 107,
-            "lu": 15,
-            "ma": 11,
+            "luck": 15,
+            "magic": 11,
             "mp": 59,
-            "st": 12
+            "strength": 12
         }
     },
     "Jarilo": {
@@ -6979,13 +6979,13 @@
             "Trafuri": 62
         },
         "stats": {
-            "ag": 71,
-            "dx": 93,
+            "agility": 71,
+            "dexterity": 93,
             "hp": 559,
-            "lu": 61,
-            "ma": 48,
+            "luck": 61,
+            "magic": 48,
             "mp": 201,
-            "st": 78
+            "strength": 78
         }
     },
     "Jeanne D'Arc": {
@@ -7023,13 +7023,13 @@
             "Silent Prayer": 0
         },
         "stats": {
-            "ag": 54,
-            "dx": 39,
+            "agility": 54,
+            "dexterity": 39,
             "hp": 361,
-            "lu": 53,
-            "ma": 66,
+            "luck": 53,
+            "magic": 66,
             "mp": 282,
-            "st": 50
+            "strength": 50
         }
     },
     "Jikokuten": {
@@ -7066,13 +7066,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 71,
-            "dx": 79,
+            "agility": 71,
+            "dexterity": 79,
             "hp": 628,
-            "lu": 68,
-            "ma": 62,
+            "luck": 68,
+            "magic": 62,
             "mp": 276,
-            "st": 84
+            "strength": 84
         }
     },
     "Jueyuan": {
@@ -7108,13 +7108,13 @@
             "Posumudi": 27
         },
         "stats": {
-            "ag": 34,
-            "dx": 34,
+            "agility": 34,
+            "dexterity": 34,
             "hp": 245,
-            "lu": 29,
-            "ma": 29,
+            "luck": 29,
+            "magic": 29,
             "mp": 113,
-            "st": 34
+            "strength": 34
         }
     },
     "Kabuso": {
@@ -7150,13 +7150,13 @@
             "Poison Claw": 7
         },
         "stats": {
-            "ag": 12,
-            "dx": 11,
+            "agility": 12,
+            "dexterity": 11,
             "hp": 84,
-            "lu": 13,
-            "ma": 16,
+            "luck": 13,
+            "magic": 16,
             "mp": 73,
-            "st": 9
+            "strength": 9
         }
     },
     "Kaiming Shou": {
@@ -7193,13 +7193,13 @@
             "Resist Phys": 42
         },
         "stats": {
-            "ag": 52,
-            "dx": 38,
+            "agility": 52,
+            "dexterity": 38,
             "hp": 462,
-            "lu": 59,
-            "ma": 27,
+            "luck": 59,
+            "magic": 27,
             "mp": 176,
-            "st": 66
+            "strength": 66
         }
     },
     "Kaiwan": {
@@ -7235,13 +7235,13 @@
             "Sukukaja": 0
         },
         "stats": {
-            "ag": 58,
-            "dx": 41,
+            "agility": 58,
+            "dexterity": 41,
             "hp": 350,
-            "lu": 52,
-            "ma": 35,
+            "luck": 52,
+            "magic": 35,
             "mp": 170,
-            "st": 41
+            "strength": 41
         }
     },
     "Kali": {
@@ -7278,13 +7278,13 @@
             "Phys Pleroma": 77
         },
         "stats": {
-            "ag": 74,
-            "dx": 70,
+            "agility": 74,
+            "dexterity": 70,
             "hp": 706,
-            "lu": 85,
-            "ma": 50,
+            "luck": 85,
+            "magic": 50,
             "mp": 214,
-            "st": 113
+            "strength": 113
         }
     },
     "Kama": {
@@ -7321,13 +7321,13 @@
             "Madness Needle": 0
         },
         "stats": {
-            "ag": 101,
-            "dx": 71,
+            "agility": 101,
+            "dexterity": 71,
             "hp": 539,
-            "lu": 90,
-            "ma": 60,
+            "luck": 90,
+            "magic": 60,
             "mp": 284,
-            "st": 71
+            "strength": 71
         }
     },
     "Kamapua'a": {
@@ -7364,13 +7364,13 @@
             "Tarunda": 25
         },
         "stats": {
-            "ag": 29,
-            "dx": 26,
+            "agility": 29,
+            "dexterity": 26,
             "hp": 299,
-            "lu": 28,
-            "ma": 17,
+            "luck": 28,
+            "magic": 17,
             "mp": 103,
-            "st": 46
+            "strength": 46
         }
     },
     "Kanbari": {
@@ -7407,13 +7407,13 @@
             "Pandemic Bomb": 0
         },
         "stats": {
-            "ag": 35,
-            "dx": 50,
+            "agility": 35,
+            "dexterity": 50,
             "hp": 278,
-            "lu": 35,
-            "ma": 24,
+            "luck": 35,
+            "magic": 24,
             "mp": 105,
-            "st": 29
+            "strength": 29
         }
     },
     "Kangiten": {
@@ -7450,13 +7450,13 @@
             "Samarecarm": 0
         },
         "stats": {
-            "ag": 78,
-            "dx": 70,
+            "agility": 78,
+            "dexterity": 70,
             "hp": 499,
-            "lu": 95,
-            "ma": 120,
+            "luck": 95,
+            "magic": 120,
             "mp": 411,
-            "st": 53
+            "strength": 53
         }
     },
     "Kanseiteikun": {
@@ -7494,13 +7494,13 @@
             "Phys Pleroma": 69
         },
         "stats": {
-            "ag": 81,
-            "dx": 67,
+            "agility": 81,
+            "dexterity": 67,
             "hp": 669,
-            "lu": 84,
-            "ma": 59,
+            "luck": 84,
+            "magic": 59,
             "mp": 241,
-            "st": 107
+            "strength": 107
         }
     },
     "Karasu Tengu": {
@@ -7538,13 +7538,13 @@
             "Sukukaja": 26
         },
         "stats": {
-            "ag": 39,
-            "dx": 28,
+            "agility": 39,
+            "dexterity": 28,
             "hp": 220,
-            "lu": 35,
-            "ma": 24,
+            "luck": 35,
+            "magic": 24,
             "mp": 118,
-            "st": 28
+            "strength": 28
         }
     },
     "Kartikeya": {
@@ -7581,13 +7581,13 @@
             "High Gun Pleroma": 81
         },
         "stats": {
-            "ag": 109,
-            "dx": 81,
+            "agility": 109,
+            "dexterity": 81,
             "hp": 629,
-            "lu": 97,
-            "ma": 54,
+            "luck": 97,
+            "magic": 54,
             "mp": 325,
-            "st": 66
+            "strength": 66
         }
     },
     "Kaso": {
@@ -7623,13 +7623,13 @@
             "Sukukaja": 0
         },
         "stats": {
-            "ag": 22,
-            "dx": 14,
+            "agility": 22,
+            "dexterity": 14,
             "hp": 107,
-            "lu": 13,
-            "ma": 19,
+            "luck": 13,
+            "magic": 19,
             "mp": 92,
-            "st": 11
+            "strength": 11
         }
     },
     "Katakirauwa": {
@@ -7665,13 +7665,13 @@
             "Lunge": 2
         },
         "stats": {
-            "ag": 9,
-            "dx": 6,
+            "agility": 9,
+            "dexterity": 6,
             "hp": 70,
-            "lu": 7,
-            "ma": 6,
+            "luck": 7,
+            "magic": 6,
             "mp": 34,
-            "st": 7
+            "strength": 7
         }
     },
     "Kazfiel": {
@@ -7709,13 +7709,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 114,
-            "dx": 65,
+            "agility": 114,
+            "dexterity": 65,
             "hp": 586,
-            "lu": 96,
-            "ma": 87,
+            "luck": 96,
+            "magic": 87,
             "mp": 268,
-            "st": 105
+            "strength": 105
         }
     },
     "Kelpie": {
@@ -7750,13 +7750,13 @@
             "Trafuri": 37
         },
         "stats": {
-            "ag": 50,
-            "dx": 39,
+            "agility": 50,
+            "dexterity": 39,
             "hp": 322,
-            "lu": 42,
-            "ma": 39,
+            "luck": 42,
+            "magic": 39,
             "mp": 144,
-            "st": 42
+            "strength": 42
         }
     },
     "Kikimora": {
@@ -7793,13 +7793,13 @@
             "Rakunda": 0
         },
         "stats": {
-            "ag": 31,
-            "dx": 28,
+            "agility": 31,
+            "dexterity": 28,
             "hp": 208,
-            "lu": 38,
-            "ma": 47,
+            "luck": 38,
+            "magic": 47,
             "mp": 173,
-            "st": 22
+            "strength": 22
         }
     },
     "Kikuri-Hime": {
@@ -7837,13 +7837,13 @@
             "Tetraja": 39
         },
         "stats": {
-            "ag": 39,
-            "dx": 35,
+            "agility": 39,
+            "dexterity": 35,
             "hp": 252,
-            "lu": 43,
-            "ma": 58,
+            "luck": 43,
+            "magic": 58,
             "mp": 239,
-            "st": 27
+            "strength": 27
         }
     },
     "Kin-Ki": {
@@ -7880,13 +7880,13 @@
             "Retaliate": 46
         },
         "stats": {
-            "ag": 45,
-            "dx": 38,
+            "agility": 45,
+            "dexterity": 38,
             "hp": 537,
-            "lu": 52,
-            "ma": 28,
+            "luck": 52,
+            "magic": 28,
             "mp": 133,
-            "st": 76
+            "strength": 76
         }
     },
     "King Frost": {
@@ -7925,13 +7925,13 @@
             "Megaton Press": 32
         },
         "stats": {
-            "ag": 33,
-            "dx": 30,
+            "agility": 33,
+            "dexterity": 30,
             "hp": 319,
-            "lu": 48,
-            "ma": 58,
+            "luck": 48,
+            "magic": 58,
             "mp": 233,
-            "st": 23
+            "strength": 23
         }
     },
     "Kingu": {
@@ -7968,13 +7968,13 @@
             "Zanma": 0
         },
         "stats": {
-            "ag": 58,
-            "dx": 41,
+            "agility": 58,
+            "dexterity": 41,
             "hp": 320,
-            "lu": 52,
-            "ma": 35,
+            "luck": 52,
+            "magic": 35,
             "mp": 170,
-            "st": 41
+            "strength": 41
         }
     },
     "Kinmamon": {
@@ -8010,13 +8010,13 @@
             "Null Mind": 0
         },
         "stats": {
-            "ag": 91,
-            "dx": 51,
+            "agility": 91,
+            "dexterity": 51,
             "hp": 603,
-            "lu": 79,
-            "ma": 73,
+            "luck": 79,
+            "magic": 73,
             "mp": 220,
-            "st": 41
+            "strength": 41
         }
     },
     "Knocker": {
@@ -8052,13 +8052,13 @@
             "Zanma": 0
         },
         "stats": {
-            "ag": 23,
-            "dx": 323,
+            "agility": 23,
+            "dexterity": 323,
             "hp": 182,
-            "lu": 23,
-            "ma": 23,
+            "luck": 23,
+            "magic": 23,
             "mp": 85,
-            "st": 23
+            "strength": 23
         }
     },
     "Koppa Tengu": {
@@ -8094,13 +8094,13 @@
             "Zanma": 0
         },
         "stats": {
-            "ag": 23,
-            "dx": 30,
+            "agility": 23,
+            "dexterity": 30,
             "hp": 171,
-            "lu": 21,
-            "ma": 17,
+            "luck": 21,
+            "magic": 17,
             "mp": 133,
-            "st": 20
+            "strength": 20
         }
     },
     "Koumokuten": {
@@ -8137,13 +8137,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 55,
-            "dx": 58,
+            "agility": 55,
+            "dexterity": 58,
             "hp": 710,
-            "lu": 65,
-            "ma": 64,
+            "luck": 65,
+            "magic": 64,
             "mp": 176,
-            "st": 105
+            "strength": 105
         }
     },
     "Kresnik": {
@@ -8182,13 +8182,13 @@
             "Sukunda": 57
         },
         "stats": {
-            "ag": 65,
-            "dx": 83,
+            "agility": 65,
+            "dexterity": 83,
             "hp": 601,
-            "lu": 54,
-            "ma": 65,
+            "luck": 54,
+            "magic": 65,
             "mp": 167,
-            "st": 54
+            "strength": 54
         }
     },
     "Krishna": {
@@ -8228,13 +8228,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 113,
-            "dx": 89,
+            "agility": 113,
+            "dexterity": 89,
             "hp": 632,
-            "lu": 123,
-            "ma": 133,
+            "luck": 123,
+            "magic": 133,
             "mp": 495,
-            "st": 88
+            "strength": 88
         }
     },
     "Kuda": {
@@ -8271,13 +8271,13 @@
             "Tetanus Cut": 0
         },
         "stats": {
-            "ag": 42,
-            "dx": 30,
+            "agility": 42,
+            "dexterity": 30,
             "hp": 240,
-            "lu": 38,
-            "ma": 26,
+            "luck": 38,
+            "magic": 26,
             "mp": 128,
-            "st": 30
+            "strength": 30
         }
     },
     "Kudlak": {
@@ -8314,13 +8314,13 @@
             "Tarukaja": 0
         },
         "stats": {
-            "ag": 73,
-            "dx": 72,
+            "agility": 73,
+            "dexterity": 72,
             "hp": 605,
-            "lu": 66,
-            "ma": 81,
+            "luck": 66,
+            "magic": 81,
             "mp": 239,
-            "st": 75
+            "strength": 75
         }
     },
     "Kukunochi": {
@@ -8356,13 +8356,13 @@
             "Tetrakarn": 0
         },
         "stats": {
-            "ag": 51,
-            "dx": 42,
+            "agility": 51,
+            "dexterity": 42,
             "hp": 347,
-            "lu": 68,
-            "ma": 69,
+            "luck": 68,
+            "magic": 69,
             "mp": 297,
-            "st": 35
+            "strength": 35
         }
     },
     "Kurama Tengu": {
@@ -8399,13 +8399,13 @@
             "Zandyne": 45
         },
         "stats": {
-            "ag": 63,
-            "dx": 42,
+            "agility": 63,
+            "dexterity": 42,
             "hp": 376,
-            "lu": 51,
-            "ma": 48,
+            "luck": 51,
+            "magic": 48,
             "mp": 213,
-            "st": 41
+            "strength": 41
         }
     },
     "Kushinada-Hime": {
@@ -8443,13 +8443,13 @@
             "Silent Prayer": 43
         },
         "stats": {
-            "ag": 57,
-            "dx": 39,
+            "agility": 57,
+            "dexterity": 39,
             "hp": 275,
-            "lu": 50,
-            "ma": 68,
+            "luck": 50,
+            "magic": 68,
             "mp": 328,
-            "st": 30
+            "strength": 30
         }
     },
     "Kwancha": {
@@ -8486,13 +8486,13 @@
             "Poison Claw": 0
         },
         "stats": {
-            "ag": 26,
-            "dx": 23,
+            "agility": 26,
+            "dexterity": 23,
             "hp": 174,
-            "lu": 31,
-            "ma": 38,
+            "luck": 31,
+            "magic": 38,
             "mp": 145,
-            "st": 18
+            "strength": 18
         }
     },
     "Lachesis": {
@@ -8528,13 +8528,13 @@
             "Rakukaja": 0
         },
         "stats": {
-            "ag": 52,
-            "dx": 45,
+            "agility": 52,
+            "dexterity": 45,
             "hp": 350,
-            "lu": 42,
-            "ma": 44,
+            "luck": 42,
+            "magic": 44,
             "mp": 200,
-            "st": 50
+            "strength": 50
         }
     },
     "Lailah": {
@@ -8572,13 +8572,13 @@
             "Samarecarm": 56
         },
         "stats": {
-            "ag": 55,
-            "dx": 49,
+            "agility": 55,
+            "dexterity": 49,
             "hp": 353,
-            "lu": 66,
-            "ma": 93,
+            "luck": 66,
+            "magic": 93,
             "mp": 342,
-            "st": 38
+            "strength": 38
         }
     },
     "Lakshmi": {
@@ -8615,13 +8615,13 @@
             "Sexy Dance": 78
         },
         "stats": {
-            "ag": 75,
-            "dx": 67,
+            "agility": 75,
+            "dexterity": 67,
             "hp": 482,
-            "lu": 91,
-            "ma": 115,
+            "luck": 91,
+            "magic": 115,
             "mp": 398,
-            "st": 51
+            "strength": 51
         }
     },
     "Lanling Wang": {
@@ -8658,13 +8658,13 @@
             "Resist Phys": 44
         },
         "stats": {
-            "ag": 61,
-            "dx": 50,
+            "agility": 61,
+            "dexterity": 50,
             "hp": 538,
-            "lu": 58,
-            "ma": 35,
+            "luck": 58,
+            "magic": 35,
             "mp": 198,
-            "st": 79
+            "strength": 79
         }
     },
     "Leanan Sidhe": {
@@ -8701,13 +8701,13 @@
             "Media": 21
         },
         "stats": {
-            "ag": 14,
-            "dx": 13,
+            "agility": 14,
+            "dexterity": 13,
             "hp": 101,
-            "lu": 17,
-            "ma": 20,
+            "luck": 17,
+            "magic": 20,
             "mp": 86,
-            "st": 11
+            "strength": 11
         }
     },
     "Legion": {
@@ -8743,13 +8743,13 @@
             "Zan": 6
         },
         "stats": {
-            "ag": 11,
-            "dx": 13,
+            "agility": 11,
+            "dexterity": 13,
             "hp": 101,
-            "lu": 10,
-            "ma": 8,
+            "luck": 10,
+            "magic": 8,
             "mp": 40,
-            "st": 9
+            "strength": 9
         }
     },
     "Lham Dearg": {
@@ -8785,13 +8785,13 @@
             "Power Punch": 0
         },
         "stats": {
-            "ag": 26,
-            "dx": 25,
+            "agility": 26,
+            "dexterity": 25,
             "hp": 261,
-            "lu": 30,
-            "ma": 18,
+            "luck": 30,
+            "magic": 18,
             "mp": 80,
-            "st": 38
+            "strength": 38
         }
     },
     "Lilim": {
@@ -8828,13 +8828,13 @@
             "Spirit Drain": 0
         },
         "stats": {
-            "ag": 36,
-            "dx": 32,
+            "agility": 36,
+            "dexterity": 32,
             "hp": 236,
-            "lu": 43,
-            "ma": 54,
+            "luck": 43,
+            "magic": 54,
             "mp": 196,
-            "st": 25
+            "strength": 25
         }
     },
     "Loki": {
@@ -8873,13 +8873,13 @@
             "Ziodyne": 60
         },
         "stats": {
-            "ag": 63,
-            "dx": 53,
+            "agility": 63,
+            "dexterity": 53,
             "hp": 416,
-            "lu": 83,
-            "ma": 103,
+            "luck": 83,
+            "magic": 103,
             "mp": 401,
-            "st": 43
+            "strength": 43
         }
     },
     "Long": {
@@ -8916,13 +8916,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 89,
-            "dx": 61,
+            "agility": 89,
+            "dexterity": 61,
             "hp": 536,
-            "lu": 73,
-            "ma": 73,
+            "luck": 73,
+            "magic": 73,
             "mp": 296,
-            "st": 70
+            "strength": 70
         }
     },
     "Lord Nandou": {
@@ -8959,13 +8959,13 @@
             "Samarecarm": 50
         },
         "stats": {
-            "ag": 54,
-            "dx": 47,
+            "agility": 54,
+            "dexterity": 47,
             "hp": 529,
-            "lu": 60,
-            "ma": 49,
+            "luck": 60,
+            "magic": 49,
             "mp": 196,
-            "st": 75
+            "strength": 75
         }
     },
     "Lorelei": {
@@ -9002,13 +9002,13 @@
             "Panic Voice": 53
         },
         "stats": {
-            "ag": 53,
-            "dx": 52,
+            "agility": 53,
+            "dexterity": 52,
             "hp": 366,
-            "lu": 71,
-            "ma": 94,
+            "luck": 71,
+            "magic": 94,
             "mp": 341,
-            "st": 40
+            "strength": 40
         }
     },
     "Lucifer": {
@@ -9045,13 +9045,13 @@
             "Myriad Arrows": 0
         },
         "stats": {
-            "ag": 110,
-            "dx": 145,
+            "agility": 110,
+            "dexterity": 145,
             "hp": 968,
-            "lu": 116,
-            "ma": 111,
+            "luck": 116,
+            "magic": 111,
             "mp": 435,
-            "st": 150
+            "strength": 150
         }
     },
     "Lucifuge": {
@@ -9089,13 +9089,13 @@
             "Mazandyne": 75
         },
         "stats": {
-            "ag": 72,
-            "dx": 64,
+            "agility": 72,
+            "dexterity": 64,
             "hp": 460,
-            "lu": 87,
-            "ma": 110,
+            "luck": 87,
+            "magic": 110,
             "mp": 379,
-            "st": 49
+            "strength": 49
         }
     },
     "Macabre": {
@@ -9132,13 +9132,13 @@
             "Pandemic Bomb": 0
         },
         "stats": {
-            "ag": 77,
-            "dx": 44,
+            "agility": 77,
+            "dexterity": 44,
             "hp": 374,
-            "lu": 64,
-            "ma": 32,
+            "luck": 64,
+            "magic": 32,
             "mp": 289,
-            "st": 71
+            "strength": 71
         }
     },
     "Mad Gasser": {
@@ -9175,13 +9175,13 @@
             "Poison Breath": 0
         },
         "stats": {
-            "ag": 55,
-            "dx": 39,
+            "agility": 55,
+            "dexterity": 39,
             "hp": 306,
-            "lu": 49,
-            "ma": 33,
+            "luck": 49,
+            "magic": 33,
             "mp": 163,
-            "st": 39
+            "strength": 39
         }
     },
     "Mahamayuri": {
@@ -9218,13 +9218,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 63,
-            "dx": 79,
+            "agility": 63,
+            "dexterity": 79,
             "hp": 506,
-            "lu": 80,
-            "ma": 98,
+            "luck": 80,
+            "magic": 98,
             "mp": 381,
-            "st": 51
+            "strength": 51
         }
     },
     "Maitreya": {
@@ -9263,13 +9263,13 @@
             "Makajamaon": 0
         },
         "stats": {
-            "ag": 94,
-            "dx": 94,
+            "agility": 94,
+            "dexterity": 94,
             "hp": 844,
-            "lu": 95,
-            "ma": 119,
+            "luck": 95,
+            "magic": 119,
             "mp": 272,
-            "st": 95
+            "strength": 95
         }
     },
     "Makami": {
@@ -9306,13 +9306,13 @@
             "Workaholic": 35
         },
         "stats": {
-            "ag": 50,
-            "dx": 41,
+            "agility": 50,
+            "dexterity": 41,
             "hp": 320,
-            "lu": 45,
-            "ma": 35,
+            "luck": 45,
+            "magic": 35,
             "mp": 169,
-            "st": 36
+            "strength": 36
         }
     },
     "Makara": {
@@ -9348,13 +9348,13 @@
             "Tarunda": 17
         },
         "stats": {
-            "ag": 21,
-            "dx": 18,
+            "agility": 21,
+            "dexterity": 18,
             "hp": 154,
-            "lu": 19,
-            "ma": 22,
+            "luck": 19,
+            "magic": 22,
             "mp": 72,
-            "st": 18
+            "strength": 18
         }
     },
     "Mamedanuki": {
@@ -9390,13 +9390,13 @@
             "Pulinpa": 0
         },
         "stats": {
-            "ag": 19,
-            "dx": 14,
+            "agility": 19,
+            "dexterity": 14,
             "hp": 120,
-            "lu": 17,
-            "ma": 12,
+            "luck": 17,
+            "magic": 12,
             "mp": 65,
-            "st": 14
+            "strength": 14
         }
     },
     "Mandrake": {
@@ -9432,13 +9432,13 @@
             "Shibaboo": 0
         },
         "stats": {
-            "ag": 13,
-            "dx": 8,
+            "agility": 13,
+            "dexterity": 8,
             "hp": 92,
-            "lu": 16,
-            "ma": 8,
+            "luck": 16,
+            "magic": 8,
             "mp": 49,
-            "st": 9
+            "strength": 9
         }
     },
     "Manticore": {
@@ -9475,13 +9475,13 @@
             "Toxic Sting": 0
         },
         "stats": {
-            "ag": 73,
-            "dx": 47,
+            "agility": 73,
+            "dexterity": 47,
             "hp": 360,
-            "lu": 59,
-            "ma": 39,
+            "luck": 59,
+            "magic": 39,
             "mp": 191,
-            "st": 67
+            "strength": 67
         }
     },
     "Mara": {
@@ -9520,13 +9520,13 @@
             "Repel Phys": 95
         },
         "stats": {
-            "ag": 90,
-            "dx": 70,
+            "agility": 90,
+            "dexterity": 70,
             "hp": 899,
-            "lu": 110,
-            "ma": 55,
+            "luck": 110,
+            "magic": 55,
             "mp": 215,
-            "st": 155
+            "strength": 155
         }
     },
     "Marishiten": {
@@ -9563,13 +9563,13 @@
             "Myriad Arrows": 0
         },
         "stats": {
-            "ag": 81,
-            "dx": 82,
+            "agility": 81,
+            "dexterity": 82,
             "hp": 588,
-            "lu": 78,
-            "ma": 80,
+            "luck": 78,
+            "magic": 80,
             "mp": 267,
-            "st": 84
+            "strength": 84
         }
     },
     "Mastema": {
@@ -9608,13 +9608,13 @@
             "Smile Charge": 0
         },
         "stats": {
-            "ag": 90,
-            "dx": 80,
+            "agility": 90,
+            "dexterity": 80,
             "hp": 802,
-            "lu": 109,
-            "ma": 138,
+            "luck": 109,
+            "magic": 138,
             "mp": 470,
-            "st": 61
+            "strength": 61
         }
     },
     "Master Therion": {
@@ -9651,13 +9651,13 @@
             "Makajamaon": 0
         },
         "stats": {
-            "ag": 65,
-            "dx": 68,
+            "agility": 65,
+            "dexterity": 68,
             "hp": 490,
-            "lu": 67,
-            "ma": 71,
+            "luck": 67,
+            "magic": 71,
             "mp": 223,
-            "st": 64
+            "strength": 64
         }
     },
     "Matador": {
@@ -9695,13 +9695,13 @@
             "Soul Drain": 0
         },
         "stats": {
-            "ag": 107,
-            "dx": 89,
+            "agility": 107,
+            "dexterity": 89,
             "hp": 814,
-            "lu": 109,
-            "ma": 81,
+            "luck": 109,
+            "magic": 81,
             "mp": 334,
-            "st": 133
+            "strength": 133
         }
     },
     "Maya": {
@@ -9739,13 +9739,13 @@
             "Sexy Dance": 78
         },
         "stats": {
-            "ag": 75,
-            "dx": 67,
+            "agility": 75,
+            "dexterity": 67,
             "hp": 722,
-            "lu": 91,
-            "ma": 115,
+            "luck": 91,
+            "magic": 115,
             "mp": 398,
-            "st": 51
+            "strength": 51
         }
     },
     "Mayahuel": {
@@ -9782,13 +9782,13 @@
             "Media": 0
         },
         "stats": {
-            "ag": 39,
-            "dx": 36,
+            "agility": 39,
+            "dexterity": 36,
             "hp": 261,
-            "lu": 47,
-            "ma": 55,
+            "luck": 47,
+            "magic": 55,
             "mp": 231,
-            "st": 28
+            "strength": 28
         }
     },
     "Medusa": {
@@ -9827,13 +9827,13 @@
             "Ziodyne": 42
         },
         "stats": {
-            "ag": 54,
-            "dx": 69,
+            "agility": 54,
+            "dexterity": 69,
             "hp": 420,
-            "lu": 46,
-            "ma": 57,
+            "luck": 46,
+            "magic": 57,
             "mp": 189,
-            "st": 39
+            "strength": 39
         }
     },
     "Melchom": {
@@ -9870,13 +9870,13 @@
             "Tarukaja": 15
         },
         "stats": {
-            "ag": 24,
-            "dx": 18,
+            "agility": 24,
+            "dexterity": 18,
             "hp": 147,
-            "lu": 22,
-            "ma": 15,
+            "luck": 22,
+            "magic": 15,
             "mp": 80,
-            "st": 18
+            "strength": 18
         }
     },
     "Mephisto": {
@@ -9914,13 +9914,13 @@
             "Mamudoon": 0
         },
         "stats": {
-            "ag": 113,
-            "dx": 105,
+            "agility": 113,
+            "dexterity": 105,
             "hp": 968,
-            "lu": 116,
-            "ma": 155,
+            "luck": 116,
+            "magic": 155,
             "mp": 435,
-            "st": 150
+            "strength": 150
         }
     },
     "Merkabah": {
@@ -9957,13 +9957,13 @@
             "Thunder Reign": 0
         },
         "stats": {
-            "ag": 115,
-            "dx": 155,
+            "agility": 115,
+            "dexterity": 155,
             "hp": 926,
-            "lu": 111,
-            "ma": 140,
+            "luck": 111,
+            "magic": 140,
             "mp": 403,
-            "st": 117
+            "strength": 117
         }
     },
     "Mermaid": {
@@ -10001,13 +10001,13 @@
             "Rakukaja": 17
         },
         "stats": {
-            "ag": 20,
-            "dx": 18,
+            "agility": 20,
+            "dexterity": 18,
             "hp": 135,
-            "lu": 23,
-            "ma": 29,
+            "luck": 23,
+            "magic": 29,
             "mp": 114,
-            "st": 14
+            "strength": 14
         }
     },
     "Metatron": {
@@ -10045,13 +10045,13 @@
             "Megidolaon": 0
         },
         "stats": {
-            "ag": 93,
-            "dx": 128,
+            "agility": 93,
+            "dexterity": 128,
             "hp": 1149,
-            "lu": 93,
-            "ma": 143,
+            "luck": 93,
+            "magic": 143,
             "mp": 390,
-            "st": 128
+            "strength": 128
         }
     },
     "Mishaguji": {
@@ -10088,13 +10088,13 @@
             "Rakunda": 0
         },
         "stats": {
-            "ag": 44,
-            "dx": 63,
+            "agility": 44,
+            "dexterity": 63,
             "hp": 355,
-            "lu": 36,
-            "ma": 31,
+            "luck": 36,
+            "magic": 31,
             "mp": 134,
-            "st": 37
+            "strength": 37
         }
     },
     "Mitra-Buddha": {
@@ -10133,13 +10133,13 @@
             "Tetrabreak": 0
         },
         "stats": {
-            "ag": 107,
-            "dx": 107,
+            "agility": 107,
+            "dexterity": 107,
             "hp": 955,
-            "lu": 108,
-            "ma": 132,
+            "luck": 108,
+            "magic": 132,
             "mp": 333,
-            "st": 108
+            "strength": 108
         }
     },
     "Mithras": {
@@ -10176,13 +10176,13 @@
             "Rakunda": 22
         },
         "stats": {
-            "ag": 25,
-            "dx": 24,
+            "agility": 25,
+            "dexterity": 24,
             "hp": 272,
-            "lu": 29,
-            "ma": 24,
+            "luck": 29,
+            "magic": 24,
             "mp": 108,
-            "st": 37
+            "strength": 37
         }
     },
     "Moh Shuvuu": {
@@ -10219,13 +10219,13 @@
             "Zan": 0
         },
         "stats": {
-            "ag": 17,
-            "dx": 15,
+            "agility": 17,
+            "dexterity": 15,
             "hp": 110,
-            "lu": 23,
-            "ma": 30,
+            "luck": 23,
+            "magic": 30,
             "mp": 126,
-            "st": 10
+            "strength": 10
         }
     },
     "Mokoi": {
@@ -10262,13 +10262,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 31,
-            "dx": 20,
+            "agility": 31,
+            "dexterity": 20,
             "hp": 180,
-            "lu": 27,
-            "ma": 22,
+            "luck": 27,
+            "magic": 22,
             "mp": 97,
-            "st": 22
+            "strength": 22
         }
     },
     "Momunofu": {
@@ -10305,13 +10305,13 @@
             "Oni-Kagura": 0
         },
         "stats": {
-            "ag": 29,
-            "dx": 27,
+            "agility": 29,
+            "dexterity": 27,
             "hp": 286,
-            "lu": 33,
-            "ma": 20,
+            "luck": 33,
+            "magic": 20,
             "mp": 88,
-            "st": 43
+            "strength": 43
         }
     },
     "Morax": {
@@ -10348,13 +10348,13 @@
             "Oni-Kagura": 0
         },
         "stats": {
-            "ag": 19,
-            "dx": 20,
+            "agility": 19,
+            "dexterity": 20,
             "hp": 214,
-            "lu": 21,
-            "ma": 16,
+            "luck": 21,
+            "magic": 16,
             "mp": 60,
-            "st": 29
+            "strength": 29
         }
     },
     "Mot": {
@@ -10391,13 +10391,13 @@
             "Null Phys": 91
         },
         "stats": {
-            "ag": 83,
-            "dx": 64,
+            "agility": 83,
+            "dexterity": 64,
             "hp": 701,
-            "lu": 118,
-            "ma": 138,
+            "luck": 118,
+            "magic": 138,
             "mp": 466,
-            "st": 57
+            "strength": 57
         }
     },
     "Mother Harlot": {
@@ -10434,13 +10434,13 @@
             "Soul Drain": 0
         },
         "stats": {
-            "ag": 109,
-            "dx": 88,
+            "agility": 109,
+            "dexterity": 88,
             "hp": 805,
-            "lu": 134,
-            "ma": 164,
+            "luck": 134,
+            "magic": 164,
             "mp": 523,
-            "st": 82
+            "strength": 82
         }
     },
     "Mothman": {
@@ -10476,13 +10476,13 @@
             "Shibaboo": 0
         },
         "stats": {
-            "ag": 22,
-            "dx": 16,
+            "agility": 22,
+            "dexterity": 16,
             "hp": 133,
-            "lu": 20,
-            "ma": 14,
+            "luck": 20,
+            "magic": 14,
             "mp": 73,
-            "st": 16
+            "strength": 16
         }
     },
     "Mou-Ryo": {
@@ -10519,13 +10519,13 @@
             "Spirit Drain": 0
         },
         "stats": {
-            "ag": 27,
-            "dx": 24,
+            "agility": 27,
+            "dexterity": 24,
             "hp": 180,
-            "lu": 32,
-            "ma": 40,
+            "luck": 32,
+            "magic": 40,
             "mp": 150,
-            "st": 19
+            "strength": 19
         }
     },
     "Murmur": {
@@ -10561,13 +10561,13 @@
             "Mudoon": 0
         },
         "stats": {
-            "ag": 79,
-            "dx": 69,
+            "agility": 79,
+            "dexterity": 69,
             "hp": 554,
-            "lu": 64,
-            "ma": 69,
+            "luck": 64,
+            "magic": 69,
             "mp": 215,
-            "st": 84
+            "strength": 84
         }
     },
     "Mushussu": {
@@ -10603,13 +10603,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 68,
-            "dx": 40,
+            "agility": 68,
+            "dexterity": 40,
             "hp": 373,
-            "lu": 56,
-            "ma": 59,
+            "luck": 56,
+            "magic": 59,
             "mp": 197,
-            "st": 48
+            "strength": 48
         }
     },
     "Myrmecolion": {
@@ -10646,13 +10646,13 @@
             "Wind Breath": 31
         },
         "stats": {
-            "ag": 37,
-            "dx": 48,
+            "agility": 37,
+            "dexterity": 48,
             "hp": 293,
-            "lu": 32,
-            "ma": 26,
+            "luck": 32,
+            "magic": 26,
             "mp": 110,
-            "st": 31
+            "strength": 31
         }
     },
     "Nadja": {
@@ -10688,13 +10688,13 @@
             "Zan": 0
         },
         "stats": {
-            "ag": 9,
-            "dx": 15,
+            "agility": 9,
+            "dexterity": 15,
             "hp": 97,
-            "lu": 12,
-            "ma": 15,
+            "luck": 12,
+            "magic": 15,
             "mp": 63,
-            "st": 9
+            "strength": 9
         }
     },
     "Naga": {
@@ -10731,13 +10731,13 @@
             "Tarukaja": 20
         },
         "stats": {
-            "ag": 26,
-            "dx": 22,
+            "agility": 26,
+            "dexterity": 22,
             "hp": 206,
-            "lu": 27,
-            "ma": 17,
+            "luck": 27,
+            "magic": 17,
             "mp": 73,
-            "st": 34
+            "strength": 34
         }
     },
     "Napaea": {
@@ -10775,13 +10775,13 @@
             "Zanma": 15
         },
         "stats": {
-            "ag": 22,
-            "dx": 13,
+            "agility": 22,
+            "dexterity": 13,
             "hp": 130,
-            "lu": 15,
-            "ma": 19,
+            "luck": 15,
+            "magic": 19,
             "mp": 113,
-            "st": 11
+            "strength": 11
         }
     },
     "Narcissus": {
@@ -10818,13 +10818,13 @@
             "Wind Breath": 0
         },
         "stats": {
-            "ag": 32,
-            "dx": 29,
+            "agility": 32,
+            "dexterity": 29,
             "hp": 213,
-            "lu": 45,
-            "ma": 51,
+            "luck": 45,
+            "magic": 51,
             "mp": 227,
-            "st": 23
+            "strength": 23
         }
     },
     "Nata Taishi": {
@@ -10861,13 +10861,13 @@
             "Oni-Kagura": 24
         },
         "stats": {
-            "ag": 32,
-            "dx": 21,
+            "agility": 32,
+            "dexterity": 21,
             "hp": 239,
-            "lu": 34,
-            "ma": 19,
+            "luck": 34,
+            "magic": 19,
             "mp": 83,
-            "st": 40
+            "strength": 40
         }
     },
     "Nebiros": {
@@ -10904,13 +10904,13 @@
             "Sabbatma": 0
         },
         "stats": {
-            "ag": 48,
-            "dx": 43,
+            "agility": 48,
+            "dexterity": 43,
             "hp": 308,
-            "lu": 57,
-            "ma": 72,
+            "luck": 57,
+            "magic": 72,
             "mp": 256,
-            "st": 33
+            "strength": 33
         }
     },
     "Nekomata": {
@@ -10947,13 +10947,13 @@
             "Pulinpa": 0
         },
         "stats": {
-            "ag": 53,
-            "dx": 38,
+            "agility": 53,
+            "dexterity": 38,
             "hp": 293,
-            "lu": 47,
-            "ma": 32,
+            "luck": 47,
+            "magic": 32,
             "mp": 156,
-            "st": 38
+            "strength": 38
         }
     },
     "Nergal": {
@@ -10990,13 +10990,13 @@
             "Pandemic Bomb": 0
         },
         "stats": {
-            "ag": 76,
-            "dx": 83,
+            "agility": 76,
+            "dexterity": 83,
             "hp": 786,
-            "lu": 97,
-            "ma": 51,
+            "luck": 97,
+            "magic": 51,
             "mp": 246,
-            "st": 123
+            "strength": 123
         }
     },
     "Niddhoggr": {
@@ -11033,13 +11033,13 @@
             "Poison Breath": 0
         },
         "stats": {
-            "ag": 66,
-            "dx": 92,
+            "agility": 66,
+            "dexterity": 92,
             "hp": 682,
-            "lu": 52,
-            "ma": 63,
+            "luck": 52,
+            "magic": 63,
             "mp": 198,
-            "st": 69
+            "strength": 69
         }
     },
     "Night Stalker": {
@@ -11075,13 +11075,13 @@
             "Dormina": 0
         },
         "stats": {
-            "ag": 36,
-            "dx": 26,
+            "agility": 36,
+            "dexterity": 26,
             "hp": 207,
-            "lu": 32,
-            "ma": 22,
+            "luck": 32,
+            "magic": 22,
             "mp": 110,
-            "st": 26
+            "strength": 26
         }
     },
     "Norn": {
@@ -11119,13 +11119,13 @@
             "Samarecarm": 70
         },
         "stats": {
-            "ag": 68,
-            "dx": 48,
+            "agility": 68,
+            "dexterity": 48,
             "hp": 522,
-            "lu": 83,
-            "ma": 96,
+            "luck": 83,
+            "magic": 96,
             "mp": 345,
-            "st": 75
+            "strength": 75
         }
     },
     "Nozuchi": {
@@ -11162,13 +11162,13 @@
             "Resist Fire": 24
         },
         "stats": {
-            "ag": 26,
-            "dx": 26,
+            "agility": 26,
+            "dexterity": 26,
             "hp": 369,
-            "lu": 26,
-            "ma": 23,
+            "luck": 26,
+            "magic": 23,
             "mp": 103,
-            "st": 25
+            "strength": 25
         }
     },
     "Nue": {
@@ -11205,13 +11205,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 39,
-            "dx": 34,
+            "agility": 39,
+            "dexterity": 34,
             "hp": 404,
-            "lu": 48,
-            "ma": 36,
+            "luck": 48,
+            "magic": 36,
             "mp": 124,
-            "st": 62
+            "strength": 62
         }
     },
     "Obariyon": {
@@ -11247,13 +11247,13 @@
             "Sukunda": 19
         },
         "stats": {
-            "ag": 31,
-            "dx": 22,
+            "agility": 31,
+            "dexterity": 22,
             "hp": 180,
-            "lu": 28,
-            "ma": 19,
+            "luck": 28,
+            "magic": 19,
             "mp": 97,
-            "st": 22
+            "strength": 22
         }
     },
     "Oberon": {
@@ -11290,13 +11290,13 @@
             "Sexy Dance": 0
         },
         "stats": {
-            "ag": 79,
-            "dx": 59,
+            "agility": 79,
+            "dexterity": 59,
             "hp": 439,
-            "lu": 85,
-            "ma": 85,
+            "luck": 85,
+            "magic": 85,
             "mp": 428,
-            "st": 51
+            "strength": 51
         }
     },
     "Odin": {
@@ -11335,13 +11335,13 @@
             "Thunder Reign": 0
         },
         "stats": {
-            "ag": 96,
-            "dx": 81,
+            "agility": 96,
+            "dexterity": 81,
             "hp": 728,
-            "lu": 89,
-            "ma": 126,
+            "luck": 89,
+            "magic": 126,
             "mp": 312,
-            "st": 130
+            "strength": 130
         }
     },
     "Ogre": {
@@ -11377,13 +11377,13 @@
             "Mortal Jihad": 0
         },
         "stats": {
-            "ag": 47,
-            "dx": 44,
+            "agility": 47,
+            "dexterity": 44,
             "hp": 524,
-            "lu": 54,
-            "ma": 32,
+            "luck": 54,
+            "magic": 32,
             "mp": 99,
-            "st": 71
+            "strength": 71
         }
     },
     "Ogun": {
@@ -11420,13 +11420,13 @@
             "Tathlum Shot": 0
         },
         "stats": {
-            "ag": 32,
-            "dx": 46,
+            "agility": 32,
+            "dexterity": 46,
             "hp": 255,
-            "lu": 28,
-            "ma": 17,
+            "luck": 28,
+            "magic": 17,
             "mp": 97,
-            "st": 36
+            "strength": 36
         }
     },
     "Okiku-Mushi": {
@@ -11463,13 +11463,13 @@
             "Tathlum Shot": 0
         },
         "stats": {
-            "ag": 37,
-            "dx": 58,
+            "agility": 37,
+            "dexterity": 58,
             "hp": 332,
-            "lu": 37,
-            "ma": 29,
+            "luck": 37,
+            "magic": 29,
             "mp": 155,
-            "st": 35
+            "strength": 35
         }
     },
     "Okuninushi": {
@@ -11507,13 +11507,13 @@
             "Media": 32
         },
         "stats": {
-            "ag": 38,
-            "dx": 42,
+            "agility": 38,
+            "dexterity": 42,
             "hp": 378,
-            "lu": 38,
-            "ma": 23,
+            "luck": 38,
+            "magic": 23,
             "mp": 101,
-            "st": 50
+            "strength": 50
         }
     },
     "Omoteotl": {
@@ -11550,13 +11550,13 @@
             "Recarmdra": 0
         },
         "stats": {
-            "ag": 93,
-            "dx": 51,
+            "agility": 93,
+            "dexterity": 51,
             "hp": 493,
-            "lu": 75,
-            "ma": 83,
+            "luck": 75,
+            "magic": 83,
             "mp": 319,
-            "st": 49
+            "strength": 49
         }
     },
     "Ongyo-Ki": {
@@ -11595,13 +11595,13 @@
             "Tetanus Cut": 0
         },
         "stats": {
-            "ag": 76,
-            "dx": 72,
+            "agility": 76,
+            "dexterity": 72,
             "hp": 731,
-            "lu": 89,
-            "ma": 52,
+            "luck": 89,
+            "magic": 52,
             "mp": 222,
-            "st": 117
+            "strength": 117
         }
     },
     "Oni": {
@@ -11636,13 +11636,13 @@
             "Head Crush": 0
         },
         "stats": {
-            "ag": 15,
-            "dx": 17,
+            "agility": 15,
+            "dexterity": 17,
             "hp": 245,
-            "lu": 20,
-            "ma": 10,
+            "luck": 20,
+            "magic": 10,
             "mp": 58,
-            "st": 30
+            "strength": 30
         }
     },
     "Onmoraki": {
@@ -11677,13 +11677,13 @@
             "Mana Bonus": 6
         },
         "stats": {
-            "ag": 12,
-            "dx": 15,
+            "agility": 12,
+            "dexterity": 15,
             "hp": 98,
-            "lu": 11,
-            "ma": 10,
+            "luck": 11,
+            "magic": 10,
             "mp": 53,
-            "st": 9
+            "strength": 9
         }
     },
     "Orcus": {
@@ -11719,13 +11719,13 @@
             "War Cry": 51
         },
         "stats": {
-            "ag": 31,
-            "dx": 46,
+            "agility": 31,
+            "dexterity": 46,
             "hp": 501,
-            "lu": 62,
-            "ma": 78,
+            "luck": 62,
+            "magic": 78,
             "mp": 275,
-            "st": 70
+            "strength": 70
         }
     },
     "Orias": {
@@ -11762,13 +11762,13 @@
             "Pandemic Bomb": 0
         },
         "stats": {
-            "ag": 49,
-            "dx": 44,
+            "agility": 49,
+            "dexterity": 44,
             "hp": 329,
-            "lu": 39,
-            "ma": 46,
+            "luck": 39,
+            "magic": 46,
             "mp": 121,
-            "st": 47
+            "strength": 47
         }
     },
     "Orochi": {
@@ -11806,13 +11806,13 @@
             "Recarmdra": 53
         },
         "stats": {
-            "ag": 59,
-            "dx": 50,
+            "agility": 59,
+            "dexterity": 50,
             "hp": 554,
-            "lu": 67,
-            "ma": 38,
+            "luck": 67,
+            "magic": 38,
             "mp": 204,
-            "st": 86
+            "strength": 86
         }
     },
     "Orthrus": {
@@ -11849,13 +11849,13 @@
             "Nihil Claw": 0
         },
         "stats": {
-            "ag": 71,
-            "dx": 42,
+            "agility": 71,
+            "dexterity": 42,
             "hp": 553,
-            "lu": 46,
-            "ma": 62,
+            "luck": 46,
+            "magic": 62,
             "mp": 156,
-            "st": 80
+            "strength": 80
         }
     },
     "Ose": {
@@ -11893,13 +11893,13 @@
             "Retaliate": 35
         },
         "stats": {
-            "ag": 40,
-            "dx": 33,
+            "agility": 40,
+            "dexterity": 33,
             "hp": 345,
-            "lu": 40,
-            "ma": 24,
+            "luck": 40,
+            "magic": 24,
             "mp": 106,
-            "st": 52
+            "strength": 52
         }
     },
     "Osiris": {
@@ -11936,13 +11936,13 @@
             "Mudoon": 0
         },
         "stats": {
-            "ag": 67,
-            "dx": 56,
+            "agility": 67,
+            "dexterity": 56,
             "hp": 494,
-            "lu": 61,
-            "ma": 72,
+            "luck": 61,
+            "magic": 72,
             "mp": 258,
-            "st": 64
+            "strength": 64
         }
     },
     "Oumitsunu": {
@@ -11979,13 +11979,13 @@
             "Titanomachia": 67
         },
         "stats": {
-            "ag": 65,
-            "dx": 61,
+            "agility": 65,
+            "dexterity": 61,
             "hp": 659,
-            "lu": 75,
-            "ma": 44,
+            "luck": 75,
+            "magic": 44,
             "mp": 244,
-            "st": 97
+            "strength": 97
         }
     },
     "Ouroboros": {
@@ -12022,13 +12022,13 @@
             "Spring of Life": 0
         },
         "stats": {
-            "ag": 55,
-            "dx": 53,
+            "agility": 55,
+            "dexterity": 53,
             "hp": 392,
-            "lu": 48,
-            "ma": 52,
+            "luck": 48,
+            "magic": 52,
             "mp": 179,
-            "st": 57
+            "strength": 57
         }
     },
     "Pabilsag": {
@@ -12064,13 +12064,13 @@
             "Toxic Sting": 0
         },
         "stats": {
-            "ag": 32,
-            "dx": 41,
+            "agility": 32,
+            "dexterity": 41,
             "hp": 255,
-            "lu": 28,
-            "ma": 22,
+            "luck": 28,
+            "magic": 22,
             "mp": 97,
-            "st": 26
+            "strength": 26
         }
     },
     "Pachacamac": {
@@ -12106,13 +12106,13 @@
             "Tetrakarn": 0
         },
         "stats": {
-            "ag": 44,
-            "dx": 43,
+            "agility": 44,
+            "dexterity": 43,
             "hp": 314,
-            "lu": 65,
-            "ma": 73,
+            "luck": 65,
+            "magic": 73,
             "mp": 260,
-            "st": 28
+            "strength": 28
         }
     },
     "Pale Rider": {
@@ -12150,13 +12150,13 @@
             "Soul Drain": 0
         },
         "stats": {
-            "ag": 115,
-            "dx": 108,
+            "agility": 115,
+            "dexterity": 108,
             "hp": 773,
-            "lu": 112,
-            "ma": 141,
+            "luck": 112,
+            "magic": 141,
             "mp": 355,
-            "st": 118
+            "strength": 118
         }
     },
     "Pales": {
@@ -12193,13 +12193,13 @@
             "Pandemic Bomb": 0
         },
         "stats": {
-            "ag": 102,
-            "dx": 65,
+            "agility": 102,
+            "dexterity": 65,
             "hp": 646,
-            "lu": 91,
-            "ma": 60,
+            "luck": 91,
+            "magic": 60,
             "mp": 288,
-            "st": 107
+            "strength": 107
         }
     },
     "Pallas Athena": {
@@ -12236,13 +12236,13 @@
             "Mortal Jihad": 0
         },
         "stats": {
-            "ag": 67,
-            "dx": 49,
+            "agility": 67,
+            "dexterity": 49,
             "hp": 544,
-            "lu": 75,
-            "ma": 36,
+            "luck": 75,
+            "magic": 36,
             "mp": 224,
-            "st": 79
+            "strength": 79
         }
     },
     "Parvati": {
@@ -12279,13 +12279,13 @@
             "Rakukaja": 0
         },
         "stats": {
-            "ag": 33,
-            "dx": 26,
+            "agility": 33,
+            "dexterity": 26,
             "hp": 191,
-            "lu": 34,
-            "ma": 43,
+            "luck": 34,
+            "magic": 43,
             "mp": 210,
-            "st": 20
+            "strength": 20
         }
     },
     "Patrimpas": {
@@ -12322,13 +12322,13 @@
             "Wind Breath": 0
         },
         "stats": {
-            "ag": 29,
-            "dx": 22,
+            "agility": 29,
+            "dexterity": 22,
             "hp": 163,
-            "lu": 24,
-            "ma": 36,
+            "luck": 24,
+            "magic": 36,
             "mp": 137,
-            "st": 17
+            "strength": 17
         }
     },
     "Patriot": {
@@ -12366,13 +12366,13 @@
             "Taunt": 0
         },
         "stats": {
-            "ag": 54,
-            "dx": 71,
+            "agility": 54,
+            "dexterity": 71,
             "hp": 416,
-            "lu": 47,
-            "ma": 37,
+            "luck": 47,
+            "magic": 37,
             "mp": 156,
-            "st": 44
+            "strength": 44
         }
     },
     "Peallaidh": {
@@ -12409,13 +12409,13 @@
             "Pulinpa": 0
         },
         "stats": {
-            "ag": 21,
-            "dx": 19,
+            "agility": 21,
+            "dexterity": 19,
             "hp": 206,
-            "lu": 25,
-            "ma": 31,
+            "luck": 25,
+            "magic": 31,
             "mp": 114,
-            "st": 15
+            "strength": 15
         }
     },
     "Pele": {
@@ -12452,13 +12452,13 @@
             "Posumudi": 0
         },
         "stats": {
-            "ag": 11,
-            "dx": 11,
+            "agility": 11,
+            "dexterity": 11,
             "hp": 105,
-            "lu": 15,
-            "ma": 20,
+            "luck": 15,
+            "magic": 20,
             "mp": 82,
-            "st": 10
+            "strength": 10
         }
     },
     "Pendragon": {
@@ -12495,13 +12495,13 @@
             "Titanomachia": 0
         },
         "stats": {
-            "ag": 66,
-            "dx": 62,
+            "agility": 66,
+            "dexterity": 62,
             "hp": 710,
-            "lu": 76,
-            "ma": 45,
+            "luck": 76,
+            "magic": 45,
             "mp": 192,
-            "st": 100
+            "strength": 100
         }
     },
     "Peri": {
@@ -12538,13 +12538,13 @@
             "Mediarama": 64
         },
         "stats": {
-            "ag": 66,
-            "dx": 65,
+            "agility": 66,
+            "dexterity": 65,
             "hp": 517,
-            "lu": 77,
-            "ma": 81,
+            "luck": 77,
+            "magic": 81,
             "mp": 261,
-            "st": 63
+            "strength": 63
         }
     },
     "Persephone": {
@@ -12580,13 +12580,13 @@
             "Mamudoon": 58
         },
         "stats": {
-            "ag": 53,
-            "dx": 51,
+            "agility": 53,
+            "dexterity": 51,
             "hp": 370,
-            "lu": 69,
-            "ma": 87,
+            "luck": 69,
+            "magic": 87,
             "mp": 306,
-            "st": 39
+            "strength": 39
         }
     },
     "Phoenix": {
@@ -12623,13 +12623,13 @@
             "Recarm": 0
         },
         "stats": {
-            "ag": 39,
-            "dx": 28,
+            "agility": 39,
+            "dexterity": 28,
             "hp": 250,
-            "lu": 40,
-            "ma": 24,
+            "luck": 40,
+            "magic": 24,
             "mp": 138,
-            "st": 28
+            "strength": 28
         }
     },
     "Pisaca": {
@@ -12667,13 +12667,13 @@
             "Tarukaja": 56
         },
         "stats": {
-            "ag": 78,
-            "dx": 55,
+            "agility": 78,
+            "dexterity": 55,
             "hp": 459,
-            "lu": 69,
-            "ma": 46,
+            "luck": 69,
+            "magic": 46,
             "mp": 222,
-            "st": 70
+            "strength": 70
         }
     },
     "Pixie": {
@@ -12710,13 +12710,13 @@
             "Zio": 0
         },
         "stats": {
-            "ag": 22,
-            "dx": 13,
+            "agility": 22,
+            "dexterity": 13,
             "hp": 101,
-            "lu": 15,
-            "ma": 19,
+            "luck": 15,
+            "magic": 19,
             "mp": 86,
-            "st": 11
+            "strength": 11
         }
     },
     "Poltergeist": {
@@ -12753,13 +12753,13 @@
             "Tathlum Shot": 0
         },
         "stats": {
-            "ag": 25,
-            "dx": 23,
+            "agility": 25,
+            "dexterity": 23,
             "hp": 157,
-            "lu": 28,
-            "ma": 32,
+            "luck": 28,
+            "magic": 32,
             "mp": 132,
-            "st": 15
+            "strength": 15
         }
     },
     "Porewit": {
@@ -12794,13 +12794,13 @@
             "Lunge": 8
         },
         "stats": {
-            "ag": 14,
-            "dx": 14,
+            "agility": 14,
+            "dexterity": 14,
             "hp": 112,
-            "lu": 11,
-            "ma": 11,
+            "luck": 11,
+            "magic": 11,
             "mp": 53,
-            "st": 15
+            "strength": 15
         }
     },
     "Power": {
@@ -12837,13 +12837,13 @@
             "Megido": 35
         },
         "stats": {
-            "ag": 26,
-            "dx": 34,
+            "agility": 26,
+            "dexterity": 34,
             "hp": 403,
-            "lu": 36,
-            "ma": 43,
+            "luck": 36,
+            "magic": 43,
             "mp": 128,
-            "st": 54
+            "strength": 54
         }
     },
     "Preta": {
@@ -12880,13 +12880,13 @@
             "Mudo": 13
         },
         "stats": {
-            "ag": 17,
-            "dx": 17,
+            "agility": 17,
+            "dexterity": 17,
             "hp": 140,
-            "lu": 17,
-            "ma": 17,
+            "luck": 17,
+            "magic": 17,
             "mp": 66,
-            "st": 17
+            "strength": 17
         }
     },
     "Principality": {
@@ -12924,13 +12924,13 @@
             "Tarunda": 27
         },
         "stats": {
-            "ag": 30,
-            "dx": 27,
+            "agility": 30,
+            "dexterity": 27,
             "hp": 226,
-            "lu": 38,
-            "ma": 54,
+            "luck": 38,
+            "magic": 54,
             "mp": 184,
-            "st": 21
+            "strength": 21
         }
     },
     "Prometheus": {
@@ -12968,13 +12968,13 @@
             "Workaholic": 43
         },
         "stats": {
-            "ag": 27,
-            "dx": 38,
+            "agility": 27,
+            "dexterity": 38,
             "hp": 425,
-            "lu": 51,
-            "ma": 66,
+            "luck": 51,
+            "magic": 66,
             "mp": 228,
-            "st": 54
+            "strength": 54
         }
     },
     "Pyro Jack": {
@@ -13011,13 +13011,13 @@
             "Maragi": 0
         },
         "stats": {
-            "ag": 29,
-            "dx": 26,
+            "agility": 29,
+            "dexterity": 26,
             "hp": 191,
-            "lu": 34,
-            "ma": 43,
+            "luck": 34,
+            "magic": 43,
             "mp": 160,
-            "st": 20
+            "strength": 20
         }
     },
     "Python": {
@@ -13054,13 +13054,13 @@
             "Pandemic Bomb": 71
         },
         "stats": {
-            "ag": 98,
-            "dx": 59,
+            "agility": 98,
+            "dexterity": 59,
             "hp": 566,
-            "lu": 79,
-            "ma": 85,
+            "luck": 79,
+            "magic": 85,
             "mp": 288,
-            "st": 59
+            "strength": 59
         }
     },
     "Qing Niugai": {
@@ -13097,13 +13097,13 @@
             "Silent Prayer": 32
         },
         "stats": {
-            "ag": 29,
-            "dx": 29,
+            "agility": 29,
+            "dexterity": 29,
             "hp": 390,
-            "lu": 37,
-            "ma": 21,
+            "luck": 37,
+            "magic": 21,
             "mp": 98,
-            "st": 48
+            "strength": 48
         }
     },
     "Queen Mab": {
@@ -13140,13 +13140,13 @@
             "Sexy Dance": 0
         },
         "stats": {
-            "ag": 87,
-            "dx": 56,
+            "agility": 87,
+            "dexterity": 56,
             "hp": 596,
-            "lu": 77,
-            "ma": 76,
+            "luck": 77,
+            "magic": 76,
             "mp": 246,
-            "st": 61
+            "strength": 61
         }
     },
     "Quetzalcoatl": {
@@ -13184,13 +13184,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 76,
-            "dx": 68,
+            "agility": 76,
+            "dexterity": 68,
             "hp": 622,
-            "lu": 69,
-            "ma": 85,
+            "luck": 69,
+            "magic": 85,
             "mp": 282,
-            "st": 79
+            "strength": 79
         }
     },
     "Quicksilver": {
@@ -13225,13 +13225,13 @@
             "Shock": 26
         },
         "stats": {
-            "ag": 40,
-            "dx": 29,
+            "agility": 40,
+            "dexterity": 29,
             "hp": 227,
-            "lu": 36,
-            "ma": 24,
+            "luck": 36,
+            "magic": 24,
             "mp": 121,
-            "st": 29
+            "strength": 29
         }
     },
     "Raijuu": {
@@ -13268,13 +13268,13 @@
             "Tarukaja": 34
         },
         "stats": {
-            "ag": 50,
-            "dx": 36,
+            "agility": 50,
+            "dexterity": 36,
             "hp": 280,
-            "lu": 45,
-            "ma": 30,
+            "luck": 45,
+            "magic": 30,
             "mp": 149,
-            "st": 36
+            "strength": 36
         }
     },
     "Rakshasa": {
@@ -13312,13 +13312,13 @@
             "Head Crush": 0
         },
         "stats": {
-            "ag": 45,
-            "dx": 38,
+            "agility": 45,
+            "dexterity": 38,
             "hp": 355,
-            "lu": 50,
-            "ma": 28,
+            "luck": 50,
+            "magic": 28,
             "mp": 121,
-            "st": 59
+            "strength": 59
         }
     },
     "Rama": {
@@ -13355,13 +13355,13 @@
             "Megidolaon": 76
         },
         "stats": {
-            "ag": 73,
-            "dx": 69,
+            "agility": 73,
+            "dexterity": 69,
             "hp": 698,
-            "lu": 87,
-            "ma": 50,
+            "luck": 87,
+            "magic": 50,
             "mp": 212,
-            "st": 111
+            "strength": 111
         }
     },
     "Rangda": {
@@ -13398,13 +13398,13 @@
             "Recarmdra": 70
         },
         "stats": {
-            "ag": 77,
-            "dx": 45,
+            "agility": 77,
+            "dexterity": 45,
             "hp": 562,
-            "lu": 82,
-            "ma": 89,
+            "luck": 82,
+            "magic": 89,
             "mp": 356,
-            "st": 64
+            "strength": 64
         }
     },
     "Red Rider": {
@@ -13442,13 +13442,13 @@
             "Trisagion": 92
         },
         "stats": {
-            "ag": 98,
-            "dx": 90,
+            "agility": 98,
+            "dexterity": 90,
             "hp": 870,
-            "lu": 116,
-            "ma": 103,
+            "luck": 116,
+            "magic": 103,
             "mp": 263,
-            "st": 152
+            "strength": 152
         }
     },
     "Rukh": {
@@ -13485,13 +13485,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 56,
-            "dx": 85,
+            "agility": 56,
+            "dexterity": 85,
             "hp": 532,
-            "lu": 48,
-            "ma": 38,
+            "luck": 48,
+            "magic": 38,
             "mp": 162,
-            "st": 46
+            "strength": 46
         }
     },
     "Salamander": {
@@ -13527,13 +13527,13 @@
             "Panic Voice": 37
         },
         "stats": {
-            "ag": 42,
-            "dx": 42,
+            "agility": 42,
+            "dexterity": 42,
             "hp": 345,
-            "lu": 42,
-            "ma": 49,
+            "luck": 42,
+            "magic": 49,
             "mp": 164,
-            "st": 49
+            "strength": 49
         }
     },
     "Samael": {
@@ -13571,13 +13571,13 @@
             "Shivering Taboo": 0
         },
         "stats": {
-            "ag": 94,
-            "dx": 72,
+            "agility": 94,
+            "dexterity": 72,
             "hp": 704,
-            "lu": 110,
-            "ma": 137,
+            "luck": 110,
+            "magic": 137,
             "mp": 446,
-            "st": 64
+            "strength": 64
         }
     },
     "Samyaza": {
@@ -13615,13 +13615,13 @@
             "True Ziodyne": 0
         },
         "stats": {
-            "ag": 75,
-            "dx": 67,
+            "agility": 75,
+            "dexterity": 67,
             "hp": 476,
-            "lu": 90,
-            "ma": 114,
+            "luck": 90,
+            "magic": 114,
             "mp": 392,
-            "st": 51
+            "strength": 51
         }
     },
     "Sandman": {
@@ -13657,13 +13657,13 @@
             "Zan": 0
         },
         "stats": {
-            "ag": 20,
-            "dx": 15,
+            "agility": 20,
+            "dexterity": 15,
             "hp": 127,
-            "lu": 18,
-            "ma": 13,
+            "luck": 18,
+            "magic": 13,
             "mp": 70,
-            "st": 15
+            "strength": 15
         }
     },
     "Sarasvati": {
@@ -13700,13 +13700,13 @@
             "Rakunda": 0
         },
         "stats": {
-            "ag": 49,
-            "dx": 44,
+            "agility": 49,
+            "dexterity": 44,
             "hp": 320,
-            "lu": 60,
-            "ma": 75,
+            "luck": 60,
+            "magic": 75,
             "mp": 264,
-            "st": 34
+            "strength": 34
         }
     },
     "Satan": {
@@ -13744,13 +13744,13 @@
             "Trisagion": 0
         },
         "stats": {
-            "ag": 138,
-            "dx": 116,
+            "agility": 138,
+            "dexterity": 116,
             "hp": 1253,
-            "lu": 123,
-            "ma": 191,
+            "luck": 123,
+            "magic": 191,
             "mp": 722,
-            "st": 178
+            "strength": 178
         }
     },
     "Scathach": {
@@ -13787,13 +13787,13 @@
             "Oni-Kagura": 0
         },
         "stats": {
-            "ag": 46,
-            "dx": 49,
+            "agility": 46,
+            "dexterity": 49,
             "hp": 404,
-            "lu": 48,
-            "ma": 34,
+            "luck": 48,
+            "magic": 34,
             "mp": 154,
-            "st": 62
+            "strength": 62
         }
     },
     "Sedna": {
@@ -13830,13 +13830,13 @@
             "Posumudi": 28
         },
         "stats": {
-            "ag": 30,
-            "dx": 29,
+            "agility": 30,
+            "dexterity": 29,
             "hp": 353,
-            "lu": 45,
-            "ma": 21,
+            "luck": 45,
+            "magic": 21,
             "mp": 93,
-            "st": 45
+            "strength": 45
         }
     },
     "Senri": {
@@ -13873,13 +13873,13 @@
             "Zanma": 0
         },
         "stats": {
-            "ag": 30,
-            "dx": 27,
+            "agility": 30,
+            "dexterity": 27,
             "hp": 196,
-            "lu": 35,
-            "ma": 44,
+            "luck": 35,
+            "magic": 44,
             "mp": 164,
-            "st": 21
+            "strength": 21
         }
     },
     "Seraph": {
@@ -13917,13 +13917,13 @@
             "Trisagion": 0
         },
         "stats": {
-            "ag": 91,
-            "dx": 111,
+            "agility": 91,
+            "dexterity": 111,
             "hp": 827,
-            "lu": 110,
-            "ma": 139,
+            "luck": 110,
+            "magic": 139,
             "mp": 475,
-            "st": 62
+            "strength": 62
         }
     },
     "Setanta": {
@@ -13960,13 +13960,13 @@
             "Purple Smoke": 37
         },
         "stats": {
-            "ag": 43,
-            "dx": 36,
+            "agility": 43,
+            "dexterity": 36,
             "hp": 340,
-            "lu": 43,
-            "ma": 26,
+            "luck": 43,
+            "magic": 26,
             "mp": 113,
-            "st": 57
+            "strength": 57
         }
     },
     "Seth": {
@@ -14005,13 +14005,13 @@
             "Zandyne": 0
         },
         "stats": {
-            "ag": 75,
-            "dx": 79,
+            "agility": 75,
+            "dexterity": 79,
             "hp": 798,
-            "lu": 94,
-            "ma": 51,
+            "luck": 94,
+            "magic": 51,
             "mp": 307,
-            "st": 122
+            "strength": 122
         }
     },
     "Shan Xiao": {
@@ -14047,13 +14047,13 @@
             "Poison Claw": 13
         },
         "stats": {
-            "ag": 22,
-            "dx": 16,
+            "agility": 22,
+            "dexterity": 16,
             "hp": 133,
-            "lu": 20,
-            "ma": 14,
+            "luck": 20,
+            "magic": 14,
             "mp": 73,
-            "st": 16
+            "strength": 16
         }
     },
     "Shax": {
@@ -14090,13 +14090,13 @@
             "Will of Wind": 77
         },
         "stats": {
-            "ag": 85,
-            "dx": 65,
+            "agility": 85,
+            "dexterity": 65,
             "hp": 515,
-            "lu": 86,
-            "ma": 97,
+            "luck": 86,
+            "magic": 97,
             "mp": 395,
-            "st": 71
+            "strength": 71
         }
     },
     "Shiisaa": {
@@ -14132,13 +14132,13 @@
             "Shibaboo": 0
         },
         "stats": {
-            "ag": 25,
-            "dx": 22,
+            "agility": 25,
+            "dexterity": 22,
             "hp": 173,
-            "lu": 23,
-            "ma": 15,
+            "luck": 23,
+            "magic": 15,
             "mp": 83,
-            "st": 22
+            "strength": 22
         }
     },
     "Shikome": {
@@ -14174,13 +14174,13 @@
             "Tarunda": 25
         },
         "stats": {
-            "ag": 31,
-            "dx": 40,
+            "agility": 31,
+            "dexterity": 40,
             "hp": 247,
-            "lu": 27,
-            "ma": 22,
+            "luck": 27,
+            "magic": 22,
             "mp": 93,
-            "st": 26
+            "strength": 26
         }
     },
     "Shiva": {
@@ -14219,13 +14219,13 @@
             "Victory Cry": 96
         },
         "stats": {
-            "ag": 100,
-            "dx": 92,
+            "agility": 100,
+            "dexterity": 92,
             "hp": 887,
-            "lu": 96,
-            "ma": 68,
+            "luck": 96,
+            "magic": 68,
             "mp": 358,
-            "st": 155
+            "strength": 155
         }
     },
     "Shiwanna": {
@@ -14262,13 +14262,13 @@
             "Spring of Life": 40
         },
         "stats": {
-            "ag": 48,
-            "dx": 42,
+            "agility": 48,
+            "dexterity": 42,
             "hp": 329,
-            "lu": 43,
-            "ma": 47,
+            "luck": 43,
+            "magic": 47,
             "mp": 131,
-            "st": 44
+            "strength": 44
         }
     },
     "Siegfried": {
@@ -14306,13 +14306,13 @@
             "Life Aid": 0
         },
         "stats": {
-            "ag": 70,
-            "dx": 64,
+            "agility": 70,
+            "dexterity": 64,
             "hp": 747,
-            "lu": 82,
-            "ma": 44,
+            "luck": 82,
+            "magic": 44,
             "mp": 161,
-            "st": 105
+            "strength": 105
         }
     },
     "Silky": {
@@ -14349,13 +14349,13 @@
             "Posumudi": 45
         },
         "stats": {
-            "ag": 51,
-            "dx": 44,
+            "agility": 51,
+            "dexterity": 44,
             "hp": 317,
-            "lu": 61,
-            "ma": 73,
+            "luck": 61,
+            "magic": 73,
             "mp": 267,
-            "st": 27
+            "strength": 27
         }
     },
     "Skadi": {
@@ -14392,13 +14392,13 @@
             "Mamudoon": 74
         },
         "stats": {
-            "ag": 79,
-            "dx": 68,
+            "agility": 79,
+            "dexterity": 68,
             "hp": 480,
-            "lu": 93,
-            "ma": 115,
+            "luck": 93,
+            "magic": 115,
             "mp": 409,
-            "st": 52
+            "strength": 52
         }
     },
     "Skogsra": {
@@ -14434,13 +14434,13 @@
             "Wind Breath": 0
         },
         "stats": {
-            "ag": 39,
-            "dx": 29,
+            "agility": 39,
+            "dexterity": 29,
             "hp": 224,
-            "lu": 38,
-            "ma": 51,
+            "luck": 38,
+            "magic": 51,
             "mp": 188,
-            "st": 24
+            "strength": 24
         }
     },
     "Sleipnir": {
@@ -14477,13 +14477,13 @@
             "Samarecarm": 56
         },
         "stats": {
-            "ag": 79,
-            "dx": 54,
+            "agility": 79,
+            "dexterity": 54,
             "hp": 506,
-            "lu": 83,
-            "ma": 75,
+            "luck": 83,
+            "magic": 75,
             "mp": 285,
-            "st": 51
+            "strength": 51
         }
     },
     "Slime": {
@@ -14519,13 +14519,13 @@
             "Lunge": 4
         },
         "stats": {
-            "ag": 9,
-            "dx": 8,
+            "agility": 9,
+            "dexterity": 8,
             "hp": 35,
-            "lu": 8,
-            "ma": 7,
+            "luck": 8,
+            "magic": 7,
             "mp": 37,
-            "st": 8
+            "strength": 8
         }
     },
     "Sphinx": {
@@ -14562,13 +14562,13 @@
             "Mediarama": 0
         },
         "stats": {
-            "ag": 70,
-            "dx": 63,
+            "agility": 70,
+            "dexterity": 63,
             "hp": 578,
-            "lu": 85,
-            "ma": 107,
+            "luck": 85,
+            "magic": 107,
             "mp": 400,
-            "st": 48
+            "strength": 48
         }
     },
     "Spriggan": {
@@ -14606,13 +14606,13 @@
             "Resist Light": 17
         },
         "stats": {
-            "ag": 15,
-            "dx": 17,
+            "agility": 15,
+            "dexterity": 17,
             "hp": 304,
-            "lu": 21,
-            "ma": 8,
+            "luck": 21,
+            "magic": 8,
             "mp": 50,
-            "st": 29
+            "strength": 29
         }
     },
     "Sraosha": {
@@ -14651,13 +14651,13 @@
             "Judgment Light": 0
         },
         "stats": {
-            "ag": 92,
-            "dx": 100,
+            "agility": 92,
+            "dexterity": 100,
             "hp": 532,
-            "lu": 101,
-            "ma": 113,
+            "luck": 101,
+            "magic": 113,
             "mp": 498,
-            "st": 62
+            "strength": 62
         }
     },
     "Stonka": {
@@ -14694,13 +14694,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 41,
-            "dx": 30,
+            "agility": 41,
+            "dexterity": 30,
             "hp": 233,
-            "lu": 37,
-            "ma": 25,
+            "luck": 37,
+            "magic": 25,
             "mp": 125,
-            "st": 30
+            "strength": 30
         }
     },
     "Strigoii": {
@@ -14736,13 +14736,13 @@
             "Poison Claw": 0
         },
         "stats": {
-            "ag": 15,
-            "dx": 12,
+            "agility": 15,
+            "dexterity": 12,
             "hp": 81,
-            "lu": 14,
-            "ma": 10,
+            "luck": 14,
+            "magic": 10,
             "mp": 55,
-            "st": 12
+            "strength": 12
         }
     },
     "Strix": {
@@ -14779,13 +14779,13 @@
             "Tarunda": 19
         },
         "stats": {
-            "ag": 22,
-            "dx": 28,
+            "agility": 22,
+            "dexterity": 28,
             "hp": 182,
-            "lu": 13,
-            "ma": 25,
+            "luck": 13,
+            "magic": 25,
             "mp": 85,
-            "st": 27
+            "strength": 27
         }
     },
     "Succubus": {
@@ -14822,13 +14822,13 @@
             "Sukunda": 0
         },
         "stats": {
-            "ag": 47,
-            "dx": 42,
+            "agility": 47,
+            "dexterity": 42,
             "hp": 303,
-            "lu": 56,
-            "ma": 71,
+            "luck": 56,
+            "magic": 71,
             "mp": 251,
-            "st": 32
+            "strength": 32
         }
     },
     "Sudama": {
@@ -14863,13 +14863,13 @@
             "Zio": 0
         },
         "stats": {
-            "ag": 10,
-            "dx": 8,
+            "agility": 10,
+            "dexterity": 8,
             "hp": 84,
-            "lu": 9,
-            "ma": 10,
+            "luck": 9,
+            "magic": 10,
             "mp": 40,
-            "st": 8
+            "strength": 8
         }
     },
     "Sui-Ki": {
@@ -14906,13 +14906,13 @@
             "Rakukaja": 0
         },
         "stats": {
-            "ag": 55,
-            "dx": 49,
+            "agility": 55,
+            "dexterity": 49,
             "hp": 333,
-            "lu": 71,
-            "ma": 83,
+            "luck": 71,
+            "magic": 83,
             "mp": 322,
-            "st": 30
+            "strength": 30
         }
     },
     "Sukuna-Hikona": {
@@ -14950,13 +14950,13 @@
             "Needlestorm": 0
         },
         "stats": {
-            "ag": 46,
-            "dx": 44,
+            "agility": 46,
+            "dexterity": 44,
             "hp": 351,
-            "lu": 56,
-            "ma": 55,
+            "luck": 56,
+            "magic": 55,
             "mp": 188,
-            "st": 52
+            "strength": 52
         }
     },
     "Suparna": {
@@ -14993,13 +14993,13 @@
             "Spirit Drain": 17
         },
         "stats": {
-            "ag": 27,
-            "dx": 24,
+            "agility": 27,
+            "dexterity": 24,
             "hp": 170,
-            "lu": 24,
-            "ma": 17,
+            "luck": 24,
+            "magic": 17,
             "mp": 96,
-            "st": 22
+            "strength": 22
         }
     },
     "Surt": {
@@ -15037,13 +15037,13 @@
             "Ragnarok": 82
         },
         "stats": {
-            "ag": 61,
-            "dx": 79,
+            "agility": 61,
+            "dexterity": 79,
             "hp": 756,
-            "lu": 91,
-            "ma": 94,
+            "luck": 91,
+            "magic": 94,
             "mp": 309,
-            "st": 120
+            "strength": 120
         }
     },
     "Susano-o": {
@@ -15081,13 +15081,13 @@
             "Mist Rush": 0
         },
         "stats": {
-            "ag": 79,
-            "dx": 82,
+            "agility": 79,
+            "dexterity": 82,
             "hp": 870,
-            "lu": 96,
-            "ma": 69,
+            "luck": 96,
+            "magic": 69,
             "mp": 200,
-            "st": 132
+            "strength": 132
         }
     },
     "Sylph": {
@@ -15123,13 +15123,13 @@
             "Mana Gain": 32
         },
         "stats": {
-            "ag": 44,
-            "dx": 38,
+            "agility": 44,
+            "dexterity": 38,
             "hp": 267,
-            "lu": 46,
-            "ma": 27,
+            "luck": 46,
+            "magic": 27,
             "mp": 161,
-            "st": 31
+            "strength": 31
         }
     },
     "Take-Mikazuchi": {
@@ -15166,13 +15166,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 74,
-            "dx": 53,
+            "agility": 74,
+            "dexterity": 53,
             "hp": 608,
-            "lu": 64,
-            "ma": 38,
+            "luck": 64,
+            "magic": 38,
             "mp": 214,
-            "st": 97
+            "strength": 97
         }
     },
     "Take-Minakata": {
@@ -15209,13 +15209,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 29,
-            "dx": 24,
+            "agility": 29,
+            "dexterity": 24,
             "hp": 282,
-            "lu": 29,
-            "ma": 18,
+            "luck": 29,
+            "magic": 18,
             "mp": 78,
-            "st": 41
+            "strength": 41
         }
     },
     "Tam Lin": {
@@ -15252,13 +15252,13 @@
             "Heat Wave": 16
         },
         "stats": {
-            "ag": 18,
-            "dx": 17,
+            "agility": 18,
+            "dexterity": 17,
             "hp": 185,
-            "lu": 20,
-            "ma": 13,
+            "luck": 20,
+            "magic": 13,
             "mp": 58,
-            "st": 26
+            "strength": 26
         }
     },
     "Tangata Manu": {
@@ -15295,13 +15295,13 @@
             "Mazan": 23
         },
         "stats": {
-            "ag": 36,
-            "dx": 37,
+            "agility": 36,
+            "dexterity": 37,
             "hp": 239,
-            "lu": 23,
-            "ma": 19,
+            "luck": 23,
+            "magic": 19,
             "mp": 90,
-            "st": 25
+            "strength": 25
         }
     },
     "Taotie": {
@@ -15338,13 +15338,13 @@
             "Spirit Drain": 0
         },
         "stats": {
-            "ag": 63,
-            "dx": 68,
+            "agility": 63,
+            "dexterity": 68,
             "hp": 469,
-            "lu": 61,
-            "ma": 64,
+            "luck": 61,
+            "magic": 64,
             "mp": 214,
-            "st": 64
+            "strength": 64
         }
     },
     "Taowu": {
@@ -15381,13 +15381,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 91,
-            "dx": 64,
+            "agility": 91,
+            "dexterity": 64,
             "hp": 572,
-            "lu": 81,
-            "ma": 77,
+            "luck": 81,
+            "magic": 77,
             "mp": 257,
-            "st": 79
+            "strength": 79
         }
     },
     "Taraka": {
@@ -15424,13 +15424,13 @@
             "Tetanus Cut": 0
         },
         "stats": {
-            "ag": 63,
-            "dx": 54,
+            "agility": 63,
+            "dexterity": 54,
             "hp": 586,
-            "lu": 69,
-            "ma": 39,
+            "luck": 69,
+            "magic": 39,
             "mp": 166,
-            "st": 83
+            "strength": 83
         }
     },
     "Tattooed Man": {
@@ -15467,13 +15467,13 @@
             "Taunt": 0
         },
         "stats": {
-            "ag": 25,
-            "dx": 29,
+            "agility": 25,
+            "dexterity": 29,
             "hp": 303,
-            "lu": 40,
-            "ma": 21,
+            "luck": 40,
+            "magic": 21,
             "mp": 93,
-            "st": 45
+            "strength": 45
         }
     },
     "Tenkai": {
@@ -15511,13 +15511,13 @@
             "Mahamaon": 0
         },
         "stats": {
-            "ag": 78,
-            "dx": 67,
+            "agility": 78,
+            "dexterity": 67,
             "hp": 482,
-            "lu": 91,
-            "ma": 115,
+            "luck": 91,
+            "magic": 115,
             "mp": 398,
-            "st": 51
+            "strength": 51
         }
     },
     "Tezcatlipoca": {
@@ -15554,13 +15554,13 @@
             "Trisagion": 0
         },
         "stats": {
-            "ag": 115,
-            "dx": 73,
+            "agility": 115,
+            "dexterity": 73,
             "hp": 460,
-            "lu": 90,
-            "ma": 124,
+            "luck": 90,
+            "magic": 124,
             "mp": 410,
-            "st": 49
+            "strength": 49
         }
     },
     "Thor": {
@@ -15598,13 +15598,13 @@
             "Ziodyne": 0
         },
         "stats": {
-            "ag": 78,
-            "dx": 74,
+            "agility": 78,
+            "dexterity": 74,
             "hp": 746,
-            "lu": 91,
-            "ma": 53,
+            "luck": 91,
+            "magic": 53,
             "mp": 227,
-            "st": 120
+            "strength": 120
         }
     },
     "Thoth": {
@@ -15642,13 +15642,13 @@
             "Resist Gun": 31
         },
         "stats": {
-            "ag": 33,
-            "dx": 30,
+            "agility": 33,
+            "dexterity": 30,
             "hp": 249,
-            "lu": 40,
-            "ma": 57,
+            "luck": 40,
+            "magic": 57,
             "mp": 203,
-            "st": 28
+            "strength": 28
         }
     },
     "Throne": {
@@ -15685,13 +15685,13 @@
             "Mediarama": 64
         },
         "stats": {
-            "ag": 74,
-            "dx": 68,
+            "agility": 74,
+            "dexterity": 68,
             "hp": 517,
-            "lu": 68,
-            "ma": 65,
+            "luck": 68,
+            "magic": 65,
             "mp": 256,
-            "st": 60
+            "strength": 60
         }
     },
     "Thunderbird": {
@@ -15728,13 +15728,13 @@
             "Ziodyne": 45
         },
         "stats": {
-            "ag": 77,
-            "dx": 46,
+            "agility": 77,
+            "dexterity": 46,
             "hp": 340,
-            "lu": 45,
-            "ma": 68,
+            "luck": 45,
+            "magic": 68,
             "mp": 230,
-            "st": 28
+            "strength": 28
         }
     },
     "Tiamat": {
@@ -15771,13 +15771,13 @@
             "Silent Prayer": 57
         },
         "stats": {
-            "ag": 56,
-            "dx": 50,
+            "agility": 56,
+            "dexterity": 50,
             "hp": 359,
-            "lu": 67,
-            "ma": 85,
+            "luck": 67,
+            "magic": 85,
             "mp": 296,
-            "st": 38
+            "strength": 38
         }
     },
     "Titan": {
@@ -15814,13 +15814,13 @@
             "Retaliate": 40
         },
         "stats": {
-            "ag": 39,
-            "dx": 37,
+            "agility": 39,
+            "dexterity": 37,
             "hp": 387,
-            "lu": 45,
-            "ma": 27,
+            "luck": 45,
+            "magic": 27,
             "mp": 119,
-            "st": 59
+            "strength": 59
         }
     },
     "Titania": {
@@ -15858,13 +15858,13 @@
             "Mediarahan": 0
         },
         "stats": {
-            "ag": 66,
-            "dx": 45,
+            "agility": 66,
+            "dexterity": 45,
             "hp": 473,
-            "lu": 93,
-            "ma": 119,
+            "luck": 93,
+            "magic": 119,
             "mp": 426,
-            "st": 42
+            "strength": 42
         }
     },
     "Tlaloc": {
@@ -15901,13 +15901,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 41,
-            "dx": 37,
+            "agility": 41,
+            "dexterity": 37,
             "hp": 269,
-            "lu": 50,
-            "ma": 62,
+            "luck": 50,
+            "magic": 62,
             "mp": 224,
-            "st": 29
+            "strength": 29
         }
     },
     "Tlaltecuhtli": {
@@ -15944,13 +15944,13 @@
             "Rakukaja": 47
         },
         "stats": {
-            "ag": 52,
-            "dx": 46,
+            "agility": 52,
+            "dexterity": 46,
             "hp": 408,
-            "lu": 58,
-            "ma": 83,
+            "luck": 58,
+            "magic": 83,
             "mp": 276,
-            "st": 35
+            "strength": 35
         }
     },
     "Tlazolteotl": {
@@ -15987,13 +15987,13 @@
             "Recarmdra": 59
         },
         "stats": {
-            "ag": 51,
-            "dx": 60,
+            "agility": 51,
+            "dexterity": 60,
             "hp": 315,
-            "lu": 72,
-            "ma": 78,
+            "luck": 72,
+            "magic": 78,
             "mp": 306,
-            "st": 54
+            "strength": 54
         }
     },
     "Tokisada": {
@@ -16030,13 +16030,13 @@
             "Smile Charge": 81
         },
         "stats": {
-            "ag": 78,
-            "dx": 70,
+            "agility": 78,
+            "dexterity": 70,
             "hp": 499,
-            "lu": 95,
-            "ma": 120,
+            "luck": 95,
+            "magic": 120,
             "mp": 411,
-            "st": 53
+            "strength": 53
         }
     },
     "Tonatiuh": {
@@ -16073,13 +16073,13 @@
             "Megido": 0
         },
         "stats": {
-            "ag": 45,
-            "dx": 48,
+            "agility": 45,
+            "dexterity": 48,
             "hp": 372,
-            "lu": 43,
-            "ma": 43,
+            "luck": 43,
+            "magic": 43,
             "mp": 148,
-            "st": 50
+            "strength": 50
         }
     },
     "Toubyou": {
@@ -16116,13 +16116,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 19,
-            "dx": 22,
+            "agility": 19,
+            "dexterity": 22,
             "hp": 161,
-            "lu": 18,
-            "ma": 20,
+            "luck": 18,
+            "magic": 20,
             "mp": 75,
-            "st": 21
+            "strength": 21
         }
     },
     "Trumpeter": {
@@ -16159,13 +16159,13 @@
             "Soul Drain": 0
         },
         "stats": {
-            "ag": 116,
-            "dx": 103,
+            "agility": 116,
+            "dexterity": 103,
             "hp": 624,
-            "lu": 115,
-            "ma": 158,
+            "luck": 115,
+            "magic": 158,
             "mp": 549,
-            "st": 73
+            "strength": 73
         }
     },
     "Tsuchigumo": {
@@ -16202,13 +16202,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 35,
-            "dx": 37,
+            "agility": 35,
+            "dexterity": 37,
             "hp": 280,
-            "lu": 37,
-            "ma": 38,
+            "luck": 37,
+            "magic": 38,
             "mp": 129,
-            "st": 38
+            "strength": 38
         }
     },
     "Tuofei": {
@@ -16245,13 +16245,13 @@
             "Media": 0
         },
         "stats": {
-            "ag": 46,
-            "dx": 33,
+            "agility": 46,
+            "dexterity": 33,
             "hp": 260,
-            "lu": 41,
-            "ma": 28,
+            "luck": 41,
+            "magic": 28,
             "mp": 169,
-            "st": 33
+            "strength": 33
         }
     },
     "Tzitzimitl": {
@@ -16288,13 +16288,13 @@
             "Makajamaon": 0
         },
         "stats": {
-            "ag": 74,
-            "dx": 66,
+            "agility": 74,
+            "dexterity": 66,
             "hp": 647,
-            "lu": 89,
-            "ma": 113,
+            "luck": 89,
+            "magic": 113,
             "mp": 372,
-            "st": 50
+            "strength": 50
         }
     },
     "Ubu": {
@@ -16331,13 +16331,13 @@
             "Toxic Sting": 0
         },
         "stats": {
-            "ag": 29,
-            "dx": 40,
+            "agility": 29,
+            "dexterity": 40,
             "hp": 201,
-            "lu": 25,
-            "ma": 20,
+            "luck": 25,
+            "magic": 20,
             "mp": 88,
-            "st": 24
+            "strength": 24
         }
     },
     "Ukano Mitama": {
@@ -16374,13 +16374,13 @@
             "Tetrakarn": 55
         },
         "stats": {
-            "ag": 83,
-            "dx": 34,
+            "agility": 83,
+            "dexterity": 34,
             "hp": 615,
-            "lu": 73,
-            "ma": 24,
+            "luck": 73,
+            "magic": 24,
             "mp": 350,
-            "st": 34
+            "strength": 34
         }
     },
     "Undine": {
@@ -16416,13 +16416,13 @@
             "Poison Breath": 33
         },
         "stats": {
-            "ag": 41,
-            "dx": 31,
+            "agility": 41,
+            "dexterity": 31,
             "hp": 300,
-            "lu": 37,
-            "ma": 52,
+            "luck": 37,
+            "magic": 52,
             "mp": 192,
-            "st": 24
+            "strength": 24
         }
     },
     "Valkyrie": {
@@ -16459,13 +16459,13 @@
             "Mortal Jihad": 45
         },
         "stats": {
-            "ag": 45,
-            "dx": 53,
+            "agility": 45,
+            "dexterity": 53,
             "hp": 367,
-            "lu": 52,
-            "ma": 31,
+            "luck": 52,
+            "magic": 31,
             "mp": 133,
-            "st": 68
+            "strength": 68
         }
     },
     "Vasuki": {
@@ -16503,13 +16503,13 @@
             "Shivering Taboo": 91
         },
         "stats": {
-            "ag": 109,
-            "dx": 92,
+            "agility": 109,
+            "dexterity": 92,
             "hp": 619,
-            "lu": 82,
-            "ma": 118,
+            "luck": 82,
+            "magic": 118,
             "mp": 318,
-            "st": 102
+            "strength": 102
         }
     },
     "Vetala": {
@@ -16546,13 +16546,13 @@
             "Life Surge": 76
         },
         "stats": {
-            "ag": 70,
-            "dx": 87,
+            "agility": 70,
+            "dexterity": 87,
             "hp": 581,
-            "lu": 68,
-            "ma": 86,
+            "luck": 68,
+            "magic": 86,
             "mp": 264,
-            "st": 89
+            "strength": 89
         }
     },
     "Victor": {
@@ -16589,13 +16589,13 @@
             "Makarakarn": 62
         },
         "stats": {
-            "ag": 74,
-            "dx": 93,
+            "agility": 74,
+            "dexterity": 93,
             "hp": 559,
-            "lu": 64,
-            "ma": 55,
+            "luck": 64,
+            "magic": 55,
             "mp": 231,
-            "st": 58
+            "strength": 58
         }
     },
     "Vidofnir": {
@@ -16632,13 +16632,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 47,
-            "dx": 38,
+            "agility": 47,
+            "dexterity": 38,
             "hp": 261,
-            "lu": 44,
-            "ma": 55,
+            "luck": 44,
+            "magic": 55,
             "mp": 231,
-            "st": 26
+            "strength": 26
         }
     },
     "Virtue": {
@@ -16675,13 +16675,13 @@
             "Tetraja": 42
         },
         "stats": {
-            "ag": 53,
-            "dx": 39,
+            "agility": 53,
+            "dexterity": 39,
             "hp": 310,
-            "lu": 62,
-            "ma": 69,
+            "luck": 62,
+            "magic": 69,
             "mp": 262,
-            "st": 30
+            "strength": 30
         }
     },
     "Vivian": {
@@ -16719,13 +16719,13 @@
             "Sukukaja": 0
         },
         "stats": {
-            "ag": 49,
-            "dx": 47,
+            "agility": 49,
+            "dexterity": 47,
             "hp": 382,
-            "lu": 64,
-            "ma": 82,
+            "luck": 64,
+            "magic": 82,
             "mp": 303,
-            "st": 36
+            "strength": 36
         }
     },
     "Vodyanik": {
@@ -16761,13 +16761,13 @@
             "Zio": 0
         },
         "stats": {
-            "ag": 13,
-            "dx": 12,
+            "agility": 13,
+            "dexterity": 12,
             "hp": 96,
-            "lu": 16,
-            "ma": 19,
+            "luck": 16,
+            "magic": 19,
             "mp": 82,
-            "st": 10
+            "strength": 10
         }
     },
     "Vouivre": {
@@ -16804,13 +16804,13 @@
             "Zionga": 0
         },
         "stats": {
-            "ag": 44,
-            "dx": 26,
+            "agility": 44,
+            "dexterity": 26,
             "hp": 247,
-            "lu": 39,
-            "ma": 27,
+            "luck": 39,
+            "magic": 27,
             "mp": 111,
-            "st": 38
+            "strength": 38
         }
     },
     "Wendigo": {
@@ -16847,13 +16847,13 @@
             "Poison Breath": 31
         },
         "stats": {
-            "ag": 33,
-            "dx": 27,
+            "agility": 33,
+            "dexterity": 27,
             "hp": 328,
-            "lu": 33,
-            "ma": 38,
+            "luck": 33,
+            "magic": 38,
             "mp": 61,
-            "st": 45
+            "strength": 45
         }
     },
     "White Rider": {
@@ -16892,13 +16892,13 @@
             "Thunder Reign": 90
         },
         "stats": {
-            "ag": 116,
-            "dx": 145,
+            "agility": 116,
+            "dexterity": 145,
             "hp": 770,
-            "lu": 104,
-            "ma": 86,
+            "luck": 104,
+            "magic": 86,
             "mp": 302,
-            "st": 93
+            "strength": 93
         }
     },
     "Wicker Man": {
@@ -16935,13 +16935,13 @@
             "Resist Elec": 40
         },
         "stats": {
-            "ag": 44,
-            "dx": 44,
+            "agility": 44,
+            "dexterity": 44,
             "hp": 329,
-            "lu": 42,
-            "ma": 43,
+            "luck": 42,
+            "magic": 43,
             "mp": 151,
-            "st": 47
+            "strength": 47
         }
     },
     "Wild Hunt": {
@@ -16978,13 +16978,13 @@
             "Mana Surge": 54
         },
         "stats": {
-            "ag": 58,
-            "dx": 82,
+            "agility": 58,
+            "dexterity": 82,
             "hp": 478,
-            "lu": 54,
-            "ma": 43,
+            "luck": 54,
+            "magic": 43,
             "mp": 209,
-            "st": 51
+            "strength": 51
         }
     },
     "Wu Kong": {
@@ -17022,13 +17022,13 @@
             "Taunt": 0
         },
         "stats": {
-            "ag": 59,
-            "dx": 64,
+            "agility": 59,
+            "dexterity": 64,
             "hp": 675,
-            "lu": 69,
-            "ma": 41,
+            "luck": 69,
+            "magic": 41,
             "mp": 179,
-            "st": 103
+            "strength": 103
         }
     },
     "Xi Wangmu": {
@@ -17066,13 +17066,13 @@
             "Myriad Arrows": 0
         },
         "stats": {
-            "ag": 77,
-            "dx": 65,
+            "agility": 77,
+            "dexterity": 65,
             "hp": 543,
-            "lu": 102,
-            "ma": 123,
+            "luck": 102,
+            "magic": 123,
             "mp": 436,
-            "st": 48
+            "strength": 48
         }
     },
     "Xiuhtecuhtli": {
@@ -17108,13 +17108,13 @@
             "Grand Tack": 50
         },
         "stats": {
-            "ag": 38,
-            "dx": 34,
+            "agility": 38,
+            "dexterity": 34,
             "hp": 420,
-            "lu": 55,
-            "ma": 75,
+            "luck": 55,
+            "magic": 75,
             "mp": 264,
-            "st": 54
+            "strength": 54
         }
     },
     "Yaksha": {
@@ -17151,13 +17151,13 @@
             "Tetrakarn": 0
         },
         "stats": {
-            "ag": 80,
-            "dx": 74,
+            "agility": 80,
+            "dexterity": 74,
             "hp": 560,
-            "lu": 73,
-            "ma": 89,
+            "luck": 73,
+            "magic": 89,
             "mp": 255,
-            "st": 78
+            "strength": 78
         }
     },
     "Yamawaro": {
@@ -17194,13 +17194,13 @@
             "Tarukaja": 0
         },
         "stats": {
-            "ag": 32,
-            "dx": 31,
+            "agility": 32,
+            "dexterity": 31,
             "hp": 415,
-            "lu": 40,
-            "ma": 22,
+            "luck": 40,
+            "magic": 22,
             "mp": 106,
-            "st": 52
+            "strength": 52
         }
     },
     "Yatagarasu": {
@@ -17237,13 +17237,13 @@
             "Maragion": 0
         },
         "stats": {
-            "ag": 81,
-            "dx": 62,
+            "agility": 81,
+            "dexterity": 62,
             "hp": 504,
-            "lu": 68,
-            "ma": 62,
+            "luck": 68,
+            "magic": 62,
             "mp": 225,
-            "st": 68
+            "strength": 68
         }
     },
     "Yggdrasil": {
@@ -17280,13 +17280,13 @@
             "Tetrakarn": 67
         },
         "stats": {
-            "ag": 72,
-            "dx": 100,
+            "agility": 72,
+            "dexterity": 100,
             "hp": 600,
-            "lu": 79,
-            "ma": 48,
+            "luck": 79,
+            "magic": 48,
             "mp": 263,
-            "st": 71
+            "strength": 71
         }
     },
     "Ym": {
@@ -17323,13 +17323,13 @@
             "Sea of Chaos": 67
         },
         "stats": {
-            "ag": 65,
-            "dx": 58,
+            "agility": 65,
+            "dexterity": 58,
             "hp": 515,
-            "lu": 78,
-            "ma": 99,
+            "luck": 78,
+            "magic": 99,
             "mp": 343,
-            "st": 44
+            "strength": 44
         }
     },
     "Yomotsu-Ikusa": {
@@ -17366,13 +17366,13 @@
             "Tathlum Shot": 0
         },
         "stats": {
-            "ag": 45,
-            "dx": 62,
+            "agility": 45,
+            "dexterity": 62,
             "hp": 325,
-            "lu": 39,
-            "ma": 31,
+            "luck": 39,
+            "magic": 31,
             "mp": 164,
-            "st": 37
+            "strength": 37
         }
     },
     "Yoshitsune": {
@@ -17410,13 +17410,13 @@
             "Light Mana Aid": 37
         },
         "stats": {
-            "ag": 42,
-            "dx": 46,
+            "agility": 42,
+            "dexterity": 46,
             "hp": 435,
-            "lu": 35,
-            "ma": 37,
+            "luck": 35,
+            "magic": 37,
             "mp": 85,
-            "st": 52
+            "strength": 52
         }
     },
     "Yuki Jyorou": {
@@ -17453,13 +17453,13 @@
             "Mamudo": 0
         },
         "stats": {
-            "ag": 33,
-            "dx": 30,
+            "agility": 33,
+            "dexterity": 30,
             "hp": 199,
-            "lu": 40,
-            "ma": 53,
+            "luck": 40,
+            "magic": 53,
             "mp": 183,
-            "st": 23
+            "strength": 23
         }
     },
     "Yurlungur": {
@@ -17496,13 +17496,13 @@
             "Resist Force": 31
         },
         "stats": {
-            "ag": 37,
-            "dx": 48,
+            "agility": 37,
+            "dexterity": 48,
             "hp": 293,
-            "lu": 32,
-            "ma": 26,
+            "luck": 32,
+            "magic": 26,
             "mp": 110,
-            "st": 31
+            "strength": 31
         }
     },
     "Zaccoum": {
@@ -17539,13 +17539,13 @@
             "Poison Breath": 0
         },
         "stats": {
-            "ag": 47,
-            "dx": 39,
+            "agility": 47,
+            "dexterity": 39,
             "hp": 280,
-            "lu": 52,
-            "ma": 65,
+            "luck": 52,
+            "magic": 65,
             "mp": 232,
-            "st": 30
+            "strength": 30
         }
     },
     "Zhen": {
@@ -17582,13 +17582,13 @@
             "Sukunda": 32
         },
         "stats": {
-            "ag": 48,
-            "dx": 34,
+            "agility": 48,
+            "dexterity": 34,
             "hp": 266,
-            "lu": 43,
-            "ma": 29,
+            "luck": 43,
+            "magic": 29,
             "mp": 142,
-            "st": 34
+            "strength": 34
         }
     },
     "Zhong Kui": {
@@ -17626,13 +17626,13 @@
             "Rakunda": 51
         },
         "stats": {
-            "ag": 52,
-            "dx": 50,
+            "agility": 52,
+            "dexterity": 50,
             "hp": 596,
-            "lu": 74,
-            "ma": 38,
+            "luck": 74,
+            "magic": 38,
             "mp": 182,
-            "st": 85
+            "strength": 85
         }
     },
     "Zhu Tun She": {
@@ -17667,13 +17667,13 @@
             "Lunge": 0
         },
         "stats": {
-            "ag": 16,
-            "dx": 12,
+            "agility": 16,
+            "dexterity": 12,
             "hp": 143,
-            "lu": 14,
-            "ma": 8,
+            "luck": 14,
+            "magic": 8,
             "mp": 45,
-            "st": 20
+            "strength": 20
         }
     },
     "Zhu Yin": {
@@ -17710,13 +17710,13 @@
             "Rakukaja": 0
         },
         "stats": {
-            "ag": 43,
-            "dx": 38,
+            "agility": 43,
+            "dexterity": 38,
             "hp": 628,
-            "lu": 70,
-            "ma": 58,
+            "luck": 70,
+            "magic": 58,
             "mp": 196,
-            "st": 79
+            "strength": 79
         }
     },
     "Zombie Cop": {
@@ -17752,13 +17752,13 @@
             "Rapid Needle": 0
         },
         "stats": {
-            "ag": 24,
-            "dx": 31,
+            "agility": 24,
+            "dexterity": 31,
             "hp": 201,
-            "lu": 21,
-            "ma": 17,
+            "luck": 21,
+            "magic": 17,
             "mp": 77,
-            "st": 20
+            "strength": 20
         }
     },
     "Zouchouten": {
@@ -17795,13 +17795,13 @@
             "Sukunda": 56
         },
         "stats": {
-            "ag": 56,
-            "dx": 35,
+            "agility": 56,
+            "dexterity": 35,
             "hp": 429,
-            "lu": 52,
-            "ma": 95,
+            "luck": 52,
+            "magic": 95,
             "mp": 336,
-            "st": 78
+            "strength": 78
         }
     }
 }
