@@ -1,0 +1,22 @@
+[
+  {
+    "pk": 1,
+    "model": "compendium.affinity",
+    "fields": {
+      "physical": "Jack Frost",
+      "fire": 15,
+      "race": "Fairy",
+      "flavor_text": "HEE-HOOOO!!"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "compendium.demon",
+    "fields": {
+      "name": "King Frost",
+      "base_level": 37,
+      "race": "Tyrant",
+      "flavor_text": "HEE-HOOOO HOOOOs!!"
+    }
+  }
+]

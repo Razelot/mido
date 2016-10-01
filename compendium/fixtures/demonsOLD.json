@@ -1,0 +1,12 @@
+[
+  {
+    "model": "compendium.demon",
+    "pk": 1,
+      "fields": {
+      "name": "Jack Frost",
+      "base_level": 15,
+      "race": "Fairy",
+      "flavor_text": "HEEEE HOOO!!!!"
+    }
+  }
+]
