@@ -20,62 +20,70 @@ class Demon(models.Model):
     #flavor_text = models.TextField()
 
     def __str__(self):
-        return self.name
+        return (self.race + ", " + self.name + ", " + str(self.level))
 
 class Resistance(models.Model):
 
     demon = models.OneToOneField(Demon, default = 0)
 
     phys = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     gun = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     fire = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     ice = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     force = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     elec = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     light = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     dark = models.CharField(
-        max_length = 2,
+        max_length = 10,
         choices = RESISTANCES,
         default = NEUTRAL,
     )
 
     def __str__(self):
-        return self.demon.name
+        return (self.demon.name
+        + ": phys: " + self.phys
+        + ", gun: " + self.gun
+        + ", fire: " + self.fire
+        + ", ice: " + self.ice
+        + ", force: " + self.force
+        + ", elec: " + self.elec
+        + ", dark: " + self.dark
+        + ", light: " + self.light)
 
 class Affinity(models.Model):
     demon = models.OneToOneField(Demon, default = 0)
@@ -125,7 +133,7 @@ class Affinity(models.Model):
         validators=[MaxValueValidator(9), MinValueValidator(-9)]
     )
 
-    healing = models.IntegerField(
+    heal = models.IntegerField(
         default=0,
         validators=[MaxValueValidator(9), MinValueValidator(-9)]
     )
@@ -139,3 +147,18 @@ class Affinity(models.Model):
         default=0,
         validators=[MaxValueValidator(9), MinValueValidator(-9)]
     )
+
+    def __str__(self):
+        return (self.demon.name
+        + ": phys: " + str(self.phys)
+        + ", gun: " + str(self.gun)
+        + ", fire: " + str(self.fire)
+        + ", ice: " + str(self.ice)
+        + ", force: " + str(self.force)
+        + ", elec: " + str(self.elec)
+        + ", dark: " + str(self.dark)
+        + ", light: " + str(self.light)
+        + ", almighty: " + str(self.almighty)
+        + ", heal: " + str(self.heal)
+        + ", ailment: " + str(self.ailment)
+        + ", support: " + str(self.support))

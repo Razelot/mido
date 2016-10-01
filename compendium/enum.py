@@ -1,8 +1,6 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-                            CONSTANTS FOR RACES
+                                RACES
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-# RACES
 
 DEITY = 'Deity'
 AMATSU = 'Amatsu'
@@ -103,23 +101,21 @@ RACES = (
 )
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-                            CONSTANTS FOR RESISTANCES
+                            RESISTANCES
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-# RESISTANCES
-
 NEUTRAL = '-'
-WEAK = 'Wk'
-RESIST = 'Rs'
-NULL = 'Nu'
-DRAIN = 'Dr'
-REFLECT = 'Rf'
+WEAK = 'weak'
+RESIST = 'resist'
+NULL = 'null'
+DRAIN = 'drain'
+REPEL = 'repel'
 
 RESISTANCES = (
     (NEUTRAL, '-'),
-    (WEAK, 'Weak'),
-    (RESIST, 'Resist'),
-    (NULL, 'Null'),
-    (DRAIN, 'Drain'),
-    (REFLECT, 'Repel'),
+    (WEAK, 'weak'),
+    (RESIST, 'resist'),
+    (NULL, 'null'),
+    (DRAIN, 'drain'),
+    (REPEL, 'repel'),
 )
