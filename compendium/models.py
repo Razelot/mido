@@ -6,7 +6,7 @@ from compendium.enum import *
 
 class Demon(models.Model):
 
-    name = models.CharField(max_length = 50)
+    name = models.CharField(max_length = 50, primary_key=True)
     level = models.IntegerField(
         default=1,
         validators=[MaxValueValidator(100), MinValueValidator(1)])
@@ -15,10 +15,15 @@ class Demon(models.Model):
     max_length = 10,
     choices = RACES)
 
+    #skills = models.ManyToManyField(Skill, through='DemonSkill')
+
     #flavor_text = models.TextField()
 
     def __str__(self):
         return (self.race + ", " + self.name + ", " + str(self.level))
+
+    class Meta:
+        ordering = ('race', 'level', )
 
 class Stats(models.Model):
 
@@ -69,9 +74,12 @@ class Stats(models.Model):
         + ", agi: " + str(self.agility)
         + ", luk: " + str(self.luck))
 
+    class Meta:
+        ordering = ('demon', )
+
 class Resistances(models.Model):
 
-    demon = models.OneToOneField(Demon, default = 0)
+    demon = models.OneToOneField(Demon, null=False)
 
     phys = models.CharField(
         max_length = 10,
@@ -132,9 +140,12 @@ class Resistances(models.Model):
         + ", dark: " + self.dark
         + ", light: " + self.light)
 
+    class Meta:
+        ordering = ('demon', )
+
 class Affinities(models.Model):
 
-    demon = models.OneToOneField(Demon, default = 0)
+    demon = models.OneToOneField(Demon, null=False)
 
     phys = models.IntegerField(
         default=0,
@@ -200,7 +211,9 @@ class Affinities(models.Model):
         + ", support: " + str(self.support))
 
 class Skill(models.Model):
-    name = models.CharField(max_length = 50)
+    name = models.CharField(max_length = 50, primary_key=True)
+    demons = models.ManyToManyField(Demon, through='DemonSkill')
+
 
     affinity = models.CharField(
         max_length = 10,
@@ -237,3 +250,23 @@ class Skill(models.Model):
 
     def __str__(self):
         return (self.affinity + ", " + self.name)
+
+    class Meta:
+        ordering = ('affinity', 'rank', )
+
+class DemonSkill(models.Model):
+    demon = models.ForeignKey(Demon, on_delete=models.CASCADE)
+    skill = models.ForeignKey(Skill, on_delete = models.CASCADE)
+    level = models.IntegerField(
+        default=1,
+        validators=[MaxValueValidator(100), MinValueValidator(0)])
+
+    def __str__(self):
+        if self.level >0:
+            return (self.skill.name + " (" + str(self.level) + ")")
+        else:
+            return (self.skill.name + " (Innate)")
+
+    class Meta:
+        ordering = ('demon', )
+        unique_together = (("demon", "skill"),)

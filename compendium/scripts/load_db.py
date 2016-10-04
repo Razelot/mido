@@ -39,19 +39,6 @@ def load_demons():
         resistances.save()
 
         # Set demon affinities
-        phys_afn = demons[demon]['affinities']['phys']
-        gun_afn = demons[demon]['affinities']['gun']
-        fire_afn = demons[demon]['affinities']['fire']
-        ice_afn = demons[demon]['affinities']['ice']
-        force_afn = demons[demon]['affinities']['force']
-        elec_afn = demons[demon]['affinities']['elec']
-        light_afn = demons[demon]['affinities']['light']
-        dark_afn = demons[demon]['affinities']['dark']
-        almighty_afn = demons[demon]['affinities']['almighty']
-        heal_afn = demons[demon]['affinities']['heal']
-        ailment_afn = demons[demon]['affinities']['ailment']
-        support_afn = demons[demon]['affinities']['support']
-
         affinities = Affinities(
             demon = new_demon,
             phys = demons[demon]['affinities']['phys'],
@@ -84,16 +71,27 @@ def load_skills():
             unique_cost=skills[skill]['unique_cost'],
             rank=skills[skill]['rank'])
 
+        # Include description if exists
         if 'description' in skills[skill]:
             new_skill.description = skills[skill]['description']
 
         new_skill.save()
 
         # Create demon-skill mapping
-        for demon in skill[skills][demon]:
-            #TODO
+        for demon in skills[skill]["demons"]:
+            the_demon = Demon.objects.get(name=demon)
+            demon_skill = DemonSkill(
+                demon = the_demon,
+                skill = new_skill,
+                level = skills[skill]["demons"][demon])
+            demon_skill.save()
 
 def run():
-    print("hello")
-    #load_demons()
+    print("Resetting Database...")
+    Demon.objects.all().delete()
+    Skill.objects.all().delete()
+    print("Loading Demons...")
+    load_demons()
+    print("Loading Skills...")
     load_skills()
+    print("Complete.")
