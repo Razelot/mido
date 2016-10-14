@@ -8,11 +8,11 @@
     <th>Level</th>
   </tr>
   {% for demon in object_list %}
-  <tr><a href="/demons/{{demon.pk}}">
+  <tr class='clickable-row' data-href='/demons/{{demon.pk}}'>
     <td> {{demon.race}} </td>
     <td> {{ demon.name }} </td>
     <td> {{ demon.level }} </td>
-  </a></tr>
+  </tr>
   {% endfor %}
 </table>
 {% endblock %}

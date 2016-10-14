@@ -20,7 +20,7 @@ nav {
   text-align: center;
   width: 100%;
   background: var(--black);
-  border-bottom:solid var(--white);
+  border-bottom:solid var(--orange);
   border-width: thin;
 }
 
@@ -103,9 +103,19 @@ tr{background-color: var(--white);
   border-width: thin;
   border-radius: 3px;
 }
-tr:hover { background: var(--green); }
+tr:hover {
+  cursor: hand;
+  cursor: pointer;
+  background: var(--green);
+}
 
 th {
     background-color: var(--orange);
     color: var(--black);
+}
+
+#content {
+
+  margin-top: 25px;
+
 }
