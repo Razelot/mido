@@ -22,6 +22,8 @@
 		<ul>
 			<li><a href="/demons">Demons</a>
 				<ul>
+					{% block races %}
+					{% endblock %}
 					<li>Jaki</li>
 					<li>Fairy</li>
 					<li>Element</li>
@@ -39,7 +41,7 @@
 		</ul>
 	</nav>
 
-	<div id="content" class="container center">
+	<div class="container center content">
 
 		{% block content %}
 		{% endblock %}

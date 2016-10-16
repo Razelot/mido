@@ -10,18 +10,23 @@ html, body {
   height:100%
 }
 
-body{
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 13px;
+body {
+
   background-color: var(--gray)
+
+}
+
+body h1 h2 h3 h4 h5 h6{
+  font-family: 'Raleway|Lato', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 13px;
 }
 
 nav {
-  text-align: center;
+  /*text-align: center;*/
   width: 100%;
   background: var(--black);
   border-bottom:solid var(--orange);
-  border-width: thin;
+  /*border-width: thin;*/
 }
 
 nav a {
@@ -34,9 +39,7 @@ ul {
   margin: 0;
   padding: 15px 4px 17px 0;
   list-style: none;
-  /*-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
-  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);*/
+
 }
 ul li {
   font: bold 12px/18px sans-serif;
@@ -46,10 +49,7 @@ ul li {
   padding: 15px 20px;
 
   cursor: pointer;
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  -ms-transition: all 0.2s;
-  -o-transition: all 0.2s;
+
   transition: all 0.2s;
 }
 ul li:hover { background: var(--orange); }
@@ -65,11 +65,9 @@ ul li ul {
   display: none;
   opacity: 0;
   visibility: hidden;
-  -webkit-transiton: opacity 0.2s;
-  -moz-transition: opacity 0.2s;
-  -ms-transition: opacity 0.2s;
-  -o-transition: opacity 0.2s;
-  -transition: opacity 0.2s;
+
+  transition: opacity 0.2s;
+
 }
 ul li ul li {
   background: var(--white);
@@ -87,35 +85,116 @@ ul li:hover ul {
   visibility: visible;
 }
 
+
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: inherit;
 }
 
 th, td {
+    border-style: none solid solid none;
+    border-width: thin;
     text-align: left;
     padding: 8px;
 }
 
-tr{background-color: var(--white);
+th {
+  border-color: var(--black);
+
+  background-color: var(--orange);
+  color: var(--black);
+}
+
+tr.demons{
+  background-color: var(--white);
   border-color: var(--black);
   border-style: none solid solid none;
   border-width: thin;
   border-radius: 3px;
 }
-tr:hover {
+tr.demons:hover {
   cursor: hand;
   cursor: pointer;
   background: var(--green);
 }
 
-th {
-    background-color: var(--orange);
-    color: var(--black);
+tr.ailments{
+  text-align: center;
+  background-color: var(--orange);
+  border-color: var(--black);
+  border-style: none solid solid none;
+  border-width: thin;
+  border-radius: 3px;
 }
 
-#content {
+tr.ailments td{
+  text-align: center;
+}
 
+
+.card {
+
+  min-height: 500px;
+  min-width: 300px;
+  background-color: var(--white);
+  /*position: relative;*/
+  /*padding: 0px;*/
+}
+
+.card {
+  width:auto;
+  margin: 0 auto; /* Added */
+     float: none; /* Added */
+     margin-bottom: 10px; /* Added */
+     font-size: 13px;
+     border-color: var(--black);
+     border-style: none solid solid none;
+     /*border-width: thin;*/
+     border-radius: 3px;
+}
+
+.card-header {
+  min-height:10px;
+  background-color: var(--black);
+  width: auto;
+  margin: 0;
+
+  border-bottom:solid var(--orange);
+  /*border-width: thin;*/
+
+  /*display: inline-block;
+   */
+   vertical-align: middle;
+   /*float: none;*/
+   color: var(--white);
+}
+
+.card-block{
+  padding: 20px;
+  margin: 30px;
+  float: top;
+  text-align: center;
+  min-width: inherit;
+  background-color: var(--green);
+
+  color: var(--black);
+}
+
+.card-title{
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.content{
   margin-top: 25px;
 
+}
+
+img.demon {
+   position: absolute;
+   clip: rect(0px,300px,300px,0px);
+}
+
+.frame{
+  border:2px solid #021a40;
 }
