@@ -1,4 +1,5 @@
 {% extends "compendium/header.html" %}
+{% load staticfiles %}
 
 {% block content %}
 
@@ -8,34 +9,72 @@
     <h4 class="card-title col-xs-8">{{demon.name}}</h4>
   </div>
   <!-- <div class="card-block"> -->
-    <div class="container row">
-      {% load staticfiles %}
+    <div class="container">
 
-      <table class="col-xs-2">
-        <tr>
-          <th><img src="{% static 'compendium/img/types/phys.png' %}" class="responsive-img"></th>
-          <th><img src="{% static 'compendium/img/types/gun.png' %}" class="responsive-img"></th>
-          <th><img src="{% static 'compendium/img/types/fire.png' %}" class="responsive-img"></th>
-          <th><img src="{% static 'compendium/img/types/ice.png' %}" class="responsive-img"></th>
-          <th><img src="{% static 'compendium/img/types/elec.png' %}" class="responsive-img"></th>
-          <th><img src="{% static 'compendium/img/types/force.png' %}" class="responsive-img"></th>
-          <th><img src="{% static 'compendium/img/types/light.png' %}" class="responsive-img"></th>
-          <th><img src="{% static 'compendium/img/types/dark.png' %}" class="responsive-img"></th>
-        </tr>
-        <tr class="ailments">
-          <td> {{ demon.resistances.phys }} </td>
-          <td> {{ demon.resistances.gun }} </td>
-          <td> {{ demon.resistances.fire }} </td>
-          <td> {{ demon.resistances.ice }} </td>
-          <td> {{ demon.resistances.elec }} </td>
-          <td> {{ demon.resistances.force }} </td>
-          <td> {{ demon.resistances.light }} </td>
-          <td> {{ demon.resistances.dark }} </td>
-        </tr>
-    </table>
-    <div class="frame offset-md-2 col-md-4">
-      <img class="demon" src="{% static 'compendium/img/demons' %}/{{demon.name}}.png" class="responsive-img">
+      <div class="row">
+
+      <div class="col-xs-2">
+        <div class="row">
+          Health{{demon.stats.hp}}
+          {% widthratio demon.stats.strength 2 1 %}
+        </div>
+
+        <div class="row">
+          <table>
+            <tr>
+              <th><img src="{% static 'compendium/img/types/phys.png' %}"></th>
+              <th><img src="{% static 'compendium/img/types/gun.png' %}"></th>
+              <th><img src="{% static 'compendium/img/types/fire.png' %}"></th>
+              <th><img src="{% static 'compendium/img/types/ice.png' %}"></th>
+              <th><img src="{% static 'compendium/img/types/elec.png' %}"></th>
+              <th><img src="{% static 'compendium/img/types/force.png' %}"></th>
+              <th><img src="{% static 'compendium/img/types/light.png' %}"></th>
+              <th><img src="{% static 'compendium/img/types/dark.png' %}"></th>
+            </tr>
+            <tr class="ailments">
+              <td> {{ demon.resistances.phys }} </td>
+              <td> {{ demon.resistances.gun }} </td>
+              <td> {{ demon.resistances.fire }} </td>
+              <td> {{ demon.resistances.ice }} </td>
+              <td> {{ demon.resistances.elec }} </td>
+              <td> {{ demon.resistances.force }} </td>
+              <td> {{ demon.resistances.light }} </td>
+              <td> {{ demon.resistances.dark }} </td>
+            </tr>
+          </table>
+        </div>
+
+
+        <div class="row">
+          <div id="str" class="bar"></div>
+
+          <script>
+          var str;
+          var dex;
+          var mag;
+          var agi;
+          var luk;
+
+          loadStatBar(str,"#str", {{demon.stats.strength}})
+          loadStatBar(str,"#str", {{demon.stats.dexterity}})
+          loadStatBar(str,"#str", {{demon.stats.agility}})
+          loadStatBar(str,"#str", {{demon.stats.magic}})
+          loadStatBar(str,"#str", {{demon.stats.luck}})
+          </script>
+        </div>
+
+
+      </div>
+
+
+
+    <div class="col-md-3">
     </div>
+
+    <div class="frame col-md-4">
+      <img class="demon img-responsive" src="{% static 'compendium/img/demons' %}/{{demon.name}}.png" class="img-responsive">
+    </div>
+  </div>
 
   </div>
       <!-- <h3>{{ demon.level }}</h3>
