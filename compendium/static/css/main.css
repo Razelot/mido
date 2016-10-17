@@ -2,6 +2,8 @@
   --black:#000000;
   --gray:#888888;
   --white:#e1dce2;
+  --white2:#ffffff;
+  --yellow:#FFEB39;
   --green:#73b246;
   --orange:#c47e18;
 }
@@ -16,7 +18,7 @@ body {
 
 }
 
-body h1 h2 h3 h4 h5 h6{
+body, h1, h2, h3, h4, h5, h6{
   font-family: 'Raleway|Lato', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 13px;
 }
@@ -131,11 +133,29 @@ tr.ailments td{
   text-align: center;
 }
 
+@media all and (max-width: 500px) { /* screen size until 500px */
+  tr.ailments td{
+    font-size: 0.8em; /* 0.8x default size */
+  }
+}
+
+.border-black{
+  border-color: var(--black);
+  border-style: none solid solid none;
+  border-width: thin;
+  border-radius: 3px;
+}
+
+.border-gray{
+  border-color: var(--gray);
+  border-style: none solid solid none;
+  border-width: thin;
+  border-radius: 3px;
+}
 
 .card {
-
   min-height: 500px;
-  min-width: 300px;
+  /*min-width: 300px;*/
   background-color: var(--white);
   /*position: relative;*/
   /*padding: 0px;*/
@@ -144,13 +164,13 @@ tr.ailments td{
 .card {
   width:auto;
   margin: 0 auto; /* Added */
-     float: none; /* Added */
-     margin-bottom: 10px; /* Added */
-     font-size: 13px;
-     border-color: var(--black);
-     border-style: none solid solid none;
-     /*border-width: thin;*/
-     border-radius: 3px;
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  font-size: 13px;
+  border-color: var(--black);
+  border-style: none solid solid none;
+  /*border-width: thin;*/
+  border-radius: 3px;
 }
 
 .card-header {
@@ -190,33 +210,117 @@ tr.ailments td{
 
 }
 
-img.demon {
+.img-demon {
    position: absolute;
    clip: rect(0px,300px,300px,0px);
    max-width: none;
+   /*width: inherit;
+   height: inherit;*/
+   object-fit: contain;
 }
 
 .frame{
   padding: 0;
-  height: 300px;
-  width: 300px;
-  border:2px solid var(--black);
+  width: 20vw;
+  height: 20vw;
+  /*width: 300px;
+  height: 300px;*/
+  float:right;
+  /*border:2px solid var(--black);*/
+  margin-top: 50px;
+  margin-right: 125px;
+}
+
+.stat-label{
+  padding-top: 3px;
+  padding-right: 5px;
+  text-align: right;
+  font-size: 16px;
+  color: var(--orange);
+  background-color: var(--black);
+  width: 50px;
+  margin: 0;
+}
+
+.stat-val{
+  text-align: center;;
+  font-size: 18px;
+  color: var(--black);
+  font-weight: bold;
+  width: 50px;
+  margin-top: 7px;
+}
+
+.bar{
+  /*max-width: 400px;*/
+  margin-top: 14px;
+  padding: 0;
 }
 
 
 
-
-
-
-.graph {
-  width: 500px; /* width and height are arbitrary, just make sure the #bar styles are changed accordingly */
-  height: 40px;
-  border: 1px solid #888;
-  background: rgb(168,168,168);
-  position: relative;
+.hp-label, .mp-label{
+  font-size: 14px;
+  font-weight: bold;
+  background-color: var(--black);
+  /*padding-bottom: 8px;*/
+  margin-left: 20px;
+  width: 35px;
 }
-#bar {
-  height: 39; /* Not 30px because the 1px top-border brings it up to 30px to match #graph */
-  background: rgb(255,197,120);
-  border-top: 1px solid #fceabb;
+
+.hp-label{
+  color: var(--yellow);
+}
+
+.mp-label{
+  color: var(--green);
+}
+
+.pbar{
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  color: var(--white);
+  background-color: var(--black);
+
+  /*margin-left: 10px;*/
+}
+
+.hp{
+  color: var(--yellow);
+}
+
+.mp{
+  color: var(--green);
+}
+
+.stat{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: var(--white2);
+  padding-bottom: 10px;
+  max-width: 500px;
+}
+
+.resistances{
+  /*margin-top: 20px;*/
+  margin-bottom: 20px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.level{
+  font-size: 18px;
+  color: var(--black);
+  font-weight: bold;
+  text-align: right;
+  padding-right: 15px;
+  width: 100px;
+  background-color: var(--white2);
+}
+
+.stats{
+  margin-top: 10px;
+  margin-bottom: 20px
 }

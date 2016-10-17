@@ -9,17 +9,27 @@
     <h4 class="card-title col-xs-8">{{demon.name}}</h4>
   </div>
   <!-- <div class="card-block"> -->
-    <div class="container">
+  <div class="container">
 
+    <div class="row level border-black stats">
+      <div class="stat-label border-black col-xs-2">Lv</div>
+      {{demon.level}}
+    </div>
+
+    <div class="row stats">
+      <div class="hp-label col-xs-2">HP</div>
+      <div id="hp" class="pbar black-border col-sm-3">{{demon.stats.hp}}</div>
+      <div class="mp-label col-xs-2">MP</div>
+      <div id="mp" class="pbar black-border col-sm-3">{{demon.stats.mp}}</div>
+
+      <!-- Health{{demon.stats.hp}}
+      {% widthratio demon.stats.strength 2 1 %} -->
+    </div>
       <div class="row">
 
-      <div class="col-xs-2">
-        <div class="row">
-          Health{{demon.stats.hp}}
-          {% widthratio demon.stats.strength 2 1 %}
-        </div>
+      <div class="col-xs-6">
 
-        <div class="row">
+        <div class="row resistances">
           <table>
             <tr>
               <th><img src="{% static 'compendium/img/types/phys.png' %}"></th>
@@ -45,38 +55,59 @@
         </div>
 
 
-        <div class="row">
-          <div id="str" class="bar"></div>
-
-          <script>
-          var str;
-          var dex;
-          var mag;
-          var agi;
-          var luk;
-
-          loadStatBar(str,"#str", {{demon.stats.strength}})
-          loadStatBar(str,"#str", {{demon.stats.dexterity}})
-          loadStatBar(str,"#str", {{demon.stats.agility}})
-          loadStatBar(str,"#str", {{demon.stats.magic}})
-          loadStatBar(str,"#str", {{demon.stats.luck}})
-          </script>
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">St</div>
+          <div class="stat-val col-xs-2">{{demon.stats.strength}}</div>
+          <div id="str" class="bar col-sm-8"></div>
         </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Dx</div>
+          <div class="stat-val col-xs-2">{{demon.stats.dexterity}}</div>
+          <div id="dex" class="bar col-sm-8"></div>
+        </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Ma</div>
+          <div class="stat-val col-xs-2">{{demon.stats.magic}}</div>
+          <div id="mag" class="bar col-sm-8"></div>
+        </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Ag</div>
+          <div class="stat-val col-xs-2">{{demon.stats.agility}}</div>
+          <div id="agi" class="bar col-sm-8"></div>
+        </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Lu</div>
+          <div class="stat-val col-xs-2">{{demon.stats.luck}}</div>
+          <div id="luk" class="bar col-sm-8"></div>
+        </div>
+
+        <script>
+        loadHPBar("#hp", 200)
+        loadStatBar("#mp", 200)
+
+        loadStatBar("#str", {{demon.stats.strength}})
+        loadStatBar("#dex", {{demon.stats.dexterity}})
+        loadStatBar("#mag", {{demon.stats.magic}})
+        loadStatBar("#agi", {{demon.stats.agility}})
+        loadStatBar("#luk", {{demon.stats.luck}})
+        </script>
 
 
       </div>
 
 
-
-    <div class="col-md-3">
+    <div class="frame col-xl-6">
+      <img class="img-demon img-responsive" src="{% static 'compendium/img/demons' %}/{{demon.name}}.png" class="img-responsive">
     </div>
 
-    <div class="frame col-md-4">
-      <img class="demon img-responsive" src="{% static 'compendium/img/demons' %}/{{demon.name}}.png" class="img-responsive">
-    </div>
   </div>
 
   </div>
+
       <!-- <h3>{{ demon.level }}</h3>
       <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
     <!-- </div> -->
