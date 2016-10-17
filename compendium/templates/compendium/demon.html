@@ -9,7 +9,7 @@
     <h4 class="card-title col-xs-8">{{demon.name}}</h4>
   </div>
   <!-- <div class="card-block"> -->
-  <div class="container">
+  <div class="container demon-info" style="background-image: url('{% static 'compendium/img/demons' %}/{{demon.name}}.png'); " >
 
     <div class="row level border-black stats">
       <div class="stat-label border-black col-xs-2">Lv</div>
@@ -100,9 +100,9 @@
       </div>
 
 
-    <div class="frame col-xl-6">
+    <!-- <div class="frame col-xl-6">
       <img class="img-demon img-responsive" src="{% static 'compendium/img/demons' %}/{{demon.name}}.png" class="img-responsive">
-    </div>
+    </div> -->
 
   </div>
 

@@ -324,3 +324,9 @@ tr.ailments td{
   margin-top: 10px;
   margin-bottom: 20px
 }
+
+.demon-info{
+  background-position: 160% 0%;
+  background-size: 65%;
+  background-repeat: no-repeat;
+}
