@@ -6,6 +6,7 @@
   --yellow:#FFEB39;
   --green:#73b246;
   --orange:#c47e18;
+  --red: #A22028;
 }
 
 html, body {
@@ -13,14 +14,12 @@ html, body {
 }
 
 body {
-
-  background-color: var(--gray)
-
+  background-color: var(--gray);
+  font-size: 13px;
 }
 
 body, h1, h2, h3, h4, h5, h6{
   font-family: 'Raleway|Lato', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 13px;
 }
 
 nav {
@@ -133,10 +132,35 @@ tr.ailments td{
   text-align: center;
 }
 
+.content{
+  margin-top: 25px;
+}
+
 @media all and (max-width: 500px) { /* screen size until 500px */
-  tr.ailments td{
-    font-size: 0.8em; /* 0.8x default size */
+  /*tr.ailments td{
+    font-size: 0.8em;
+  }*/
+  .content {
+    margin: 0;
+    padding: 0;
   }
+
+  .resistances {
+    zoom: .8; -moz-transform: scale(.8); -moz-transform-origin: 0 0
+  }
+
+}
+
+@media all and (max-width: 860px) { /* screen size until 500px */
+
+  .hpmp{
+    margin-bottom: 10px;
+  }
+
+  .hpmp-container{
+    margin: 0;
+  }
+
 }
 
 .border-black{
@@ -153,27 +177,24 @@ tr.ailments td{
   border-radius: 3px;
 }
 
-.card {
+.demon {
   min-height: 500px;
   /*min-width: 300px;*/
   background-color: var(--white);
   /*position: relative;*/
   /*padding: 0px;*/
-}
-
-.card {
   width:auto;
   margin: 0 auto; /* Added */
   float: none; /* Added */
   margin-bottom: 10px; /* Added */
   font-size: 13px;
   border-color: var(--black);
-  border-style: none solid solid none;
+  border-style: none solid none none;
   /*border-width: thin;*/
   border-radius: 3px;
 }
 
-.card-header {
+.demon-header {
   min-height:10px;
   background-color: var(--black);
   width: auto;
@@ -184,12 +205,14 @@ tr.ailments td{
 
   /*display: inline-block;
    */
+   padding: 10px;
+   padding-left: 30px;
    vertical-align: middle;
    /*float: none;*/
    color: var(--white);
 }
 
-.card-block{
+/*.card-block{
   padding: 20px;
   margin: 30px;
   float: top;
@@ -201,14 +224,10 @@ tr.ailments td{
 }
 
 .card-title{
-  padding: 10px;
-  padding-left: 30px;
-}
 
-.content{
-  margin-top: 25px;
+}*/
 
-}
+
 
 .img-demon {
    position: absolute;
@@ -282,8 +301,15 @@ tr.ailments td{
   font-weight: bold;
   color: var(--white);
   background-color: var(--black);
-
+  max-width: 300px;
+  margin-right: 10px;
   /*margin-left: 10px;*/
+}
+
+.hpmp{
+  margin-left: 10px;
+  margin-right: 10px;
+
 }
 
 .hp{
@@ -303,7 +329,7 @@ tr.ailments td{
 }
 
 .resistances{
-  /*margin-top: 20px;*/
+  margin-top: 20px;
   margin-bottom: 20px;
   margin-left:auto;
   margin-right:auto;
@@ -329,4 +355,18 @@ tr.ailments td{
   background-position: 160% 0%;
   background-size: 65%;
   background-repeat: no-repeat;
+}
+
+
+.skill-row{
+cursor: pointer;
+}
+.skill-row:hover {
+  color: white;
+  background: var(--black);
+  border-bottom:solid var(--red);
+}
+.skill-icon{
+  padding: 5px;
+  padding-left: 20px;
 }

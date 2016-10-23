@@ -1,16 +1,16 @@
 {% extends "compendium/header.html" %}
 
-{% block races %}
+<!-- {% block races %}
   {% for demon in object_list.distinct.race %}
     <li>{{demon}}</li>
   {% endfor %}
-{% endblock %}
+{% endblock %} -->
 
 {% block content %}
-<table class="ailments">
+<table class="demons">
   <tr>
-    <th>Phys</th>
-    <th>Gun</th>
+    <th>Race</th>
+    <th>Demon</th>
     <th>Level</th>
   </tr>
   {% for demon in object_list %}

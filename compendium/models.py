@@ -22,6 +22,12 @@ class Demon(models.Model):
     def __str__(self):
         return (self.race + ", " + self.name + ", " + str(self.level))
 
+    # returns the name in snake_case
+    def snake_case(self):
+        snake_case = self.name.lower()
+        snake_case = snake_case.replace(" ", "_")
+        return snake_case
+
     class Meta:
         ordering = ('race', 'level', )
 
@@ -266,6 +272,9 @@ class DemonSkill(models.Model):
             return (self.skill.name + " (" + str(self.level) + ")")
         else:
             return (self.skill.name + " (Innate)")
+
+    def affinity(self):
+        return self.skill.affinity.lower()
 
     class Meta:
         ordering = ('demon', )
