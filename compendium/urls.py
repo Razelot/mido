@@ -1,27 +1,18 @@
-"""mido URL Configuration
-
-The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/1.10/topics/http/urls/
-Examples:
-Function views
-    1. Add an import:  from my_app import views
-    2. Add a URL to urlpatterns:  url(r'^$', views.home, name='home')
-Class-based views
-    1. Add an import:  from other_app.views import Home
-    2. Add a URL to urlpatterns:  url(r'^$', Home.as_view(), name='home')
-Including another URLconf
-    1. Import the include() function: from django.conf.urls import url, include
-    2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
-"""
-from django.conf.urls import url
+from django.conf.urls import url, include
 from django.views.generic import ListView, DetailView
 from compendium.models import Demon, Skill
-#from . import views
+from compendium.api import DemonResource, SkillResource
+
+demon_resource = DemonResource()
+skill_resource = SkillResource()
 
 urlpatterns = [
     url(r'^demons/$', ListView.as_view(
                     queryset=Demon.objects.all(),
                     template_name="compendium/demons.html")),
+
+    url(r'^api/', include(demon_resource.urls)),
+    url(r'^api/', include(skill_resource.urls)),
 
     url(r'^demons/(?P<pk>[\w|\W]+)$', DetailView.as_view(
                     model = Demon,
