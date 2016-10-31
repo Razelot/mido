@@ -11,7 +11,10 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 """
 
 import os
-from mido.settings_secret import *
+# from mido.settings_secret import *
+
+SECRET_KEY = '77^76r4*g*%s*z2zt^pw56s+e8v5f=r4h_3le2zegv*dddz0u9'
+
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
