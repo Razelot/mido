@@ -19,8 +19,6 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^', include('compendium.urls')),
- ]
 
-urlpatterns += patterns('',
- (r'^static/(?P.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
- )
+    url(r'^static/(?P.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
+ ]
