@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -76,10 +76,15 @@ WSGI_APPLICATION = 'mido.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#     }
+# }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
     }
 }
 
@@ -123,3 +128,21 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 API_LIMIT_PER_PAGE = 0
+
+
+# # Allow all host hosts/domain names for this site
+ALLOWED_HOSTS = ['*']
+
+# Parse database configuration from $DATABASE_URL
+import dj_database_url
+
+DATABASES = { 'default' : dj_database_url.config()}
+
+# Honor the 'X-Forwarded-Proto' header for request.is_secure()
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+# try to load local_settings.py if it exists
+try:
+  from mido.local_settings import *
+except Exception as e:
+  pass
