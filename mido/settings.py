@@ -11,7 +11,6 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 """
 
 import os
-# from mido.settings_secret import *
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '77^76r4*g*%s*z2zt^pw56s+e8v5f=r4h_3le2zegv*dddz0u9'
@@ -26,7 +25,6 @@ PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/
-
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
@@ -138,14 +136,7 @@ STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
 )
 
-
-# Simplified static file serving.
-# https://warehouse.python.org/project/whitenoise/
-# STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
-
-
 API_LIMIT_PER_PAGE = 0
-
 
 # # Allow all host hosts/domain names for this site
 ALLOWED_HOSTS = ['*']
