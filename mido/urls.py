@@ -13,6 +13,7 @@ Including another URLconf
     1. Import the include() function: from django.conf.urls import url, include
     2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
 """
+import os
 from django.conf.urls import url, include
 from django.contrib import admin
 from django.conf import settings
@@ -33,7 +34,8 @@ urlpatterns += [
             'document_root': settings.STATIC_ROOT,
         }),
         url(r'^favicon\.ico$', RedirectView.as_view(
-            url='/static/compendium/img/favicon.ico', permanent=True
+            # url='/static/compendium/img/favicon.ico', permanent=True
+            url=os.path.join(settings.STATIC_ROOT, 'compendium/img/favicon.ico')
         )),
     ]
 
