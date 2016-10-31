@@ -17,21 +17,27 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.conf import settings
 from django.views.static import serve
+from django.views.generic import RedirectView
+# from django.contrib.staticfiles.urls import staticfiles_urlpatterns
+
 
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    url(r'^', include('compendium.urls')),
+        url(r'^admin/', admin.site.urls),
+        url(r'^', include('compendium.urls')),
 
-    # url(r'^static/(?P.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
- ]
+    ]
 
 urlpatterns += [
         url(r'^static/(?P<path>.*)$', serve, {
             'document_root': settings.STATIC_ROOT,
         }),
+        url(r'^favicon\.ico$', RedirectView.as_view(
+            url='/static/compendium/img/favicon.ico', permanent=True
+        )),
     ]
 
-# urlpatterns += url(
-#         r'^static/(?P.*)$', 'django.contrib.staticfiles.views.serve', kwargs={
-#             'path': 'index.html', 'document_root': settings.STATIC_ROOT}),
+
+# #Serve static files from runserver if in dev mode with S3 off.
+# if DEBUG and not AWS_STORAGE:
+#     urlpatterns += staticfiles_urlpatterns()
