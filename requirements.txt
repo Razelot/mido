@@ -4,6 +4,5 @@ Django==1.10.1
 django-extensions==1.7.4
 django-tastypie==0.13.3
 psycopg2==2.6.2
-py-mysql2pgsql==0.1.5
 python-dateutil==2.5.3
 python-mimeparse==1.6.0
