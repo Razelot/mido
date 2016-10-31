@@ -20,21 +20,20 @@ from django.conf import settings
 from django.views.static import serve
 from django.views.generic import RedirectView
 
-
-
 urlpatterns = [
         url(r'^admin/', admin.site.urls),
         url(r'^', include('compendium.urls')),
 
     ]
 
-urlpatterns += [
-        url(r'^static/(?P<path>.*)$', serve, {
-            'document_root': settings.STATIC_ROOT,
-        }),
-        url(r'^favicon\.ico$', RedirectView.as_view(
-            url=os.path.join(settings.STATIC_URL, 'compendium/img/favicon.ico'), permanent=True
-        )),
+if settings.DEBUG==False:
+    urlpatterns += [
+    url(r'^static/(?P<path>.*)$', serve, {
+    'document_root': settings.STATIC_ROOT,
+    }),
+    url(r'^favicon\.ico$', RedirectView.as_view(
+    url=os.path.join(settings.STATIC_URL, 'compendium/img/favicon.ico'), permanent=True
+    )),
     ]
 
 

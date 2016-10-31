@@ -273,9 +273,6 @@ class DemonSkill(models.Model):
         else:
             return (self.skill.name + " (Innate)")
 
-    def affinity(self):
-        return self.skill.affinity.lower()
-
     class Meta:
         ordering = ('demon', )
         unique_together = (("demon", "skill"),)
