@@ -1,4 +1,5 @@
 {% extends "compendium/header.html" %}
+{% load staticfiles %}
 
 {% block head %}
 <script type="text/javascript" language="javascript" class="init">
@@ -31,17 +32,15 @@ $(document).ready(
   <table class="row-border" id='table' class="table" cellspacing="0" width="100%">
     <thead class="content-header">
       <tr>
-        <th>Race</th>
-        <th>Demon</th>
-        <th>Level</th>
+        <th>Type</th>
+        <th>Skill</th>
       </tr>
     </thead>
     <tbody>
-      {% for demon in object_list %}
-      <tr class='clickable-row table-entry border-black' data-href='/demons/{{demon.pk}}'>
-        <td> {{demon.race}} </td>
-        <td> {{ demon.name }} </td>
-        <td> {{ demon.level }} </td>
+      {% for skill in object_list %}
+      <tr class='clickable-row table-entry border-black' data-href='/skills/{{skill.pk}}'>
+        <td> <img src="{% static 'compendium/img/types' %}/{{skill.affinity.lower}}.png"> &nbsp; {{ skill.affinity }}</td>
+        <td> {{ skill.name }} </td>
       </tr>
       {% endfor %}
     </tbody>
