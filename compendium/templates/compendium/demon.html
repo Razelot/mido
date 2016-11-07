@@ -7,104 +7,115 @@
   <h4 class="col-xs-4">{{demon.race}}</h4>
   <h4 class="col-xs-8">{{demon.name}}</h4>
 </div>
-<div class="container demon-info" style="background-image: url('{% static 'compendium/img/demons' %}/{{demon.snake_case}}.png'); " >
+<div class="container content-body" style="background-image: url('{% static 'compendium/img/demons' %}/{{demon.snake_case}}.png'); " >
+<!-- <div class="container content-body"> -->
 
   <div class="row">
-    <div class="level border-black stats">
+    <div class="level border-black">
       <div class="stat-label border-black col-xs-2">Lv</div>
       {{demon.level}}
     </div>
   </div>
 
+  <img class="demon-img-sm center" src="{% static 'compendium/img/demons' %}/{{demon.snake_case}}.png">
+
+
   <div class="row hpmp-container">
     <div class="hpmp center">
       <div class="hp-label col-xs-2">HP</div>
-      <div id="hp" class="pbar border-black col-sm-3">{{demon.stats.hp}}</div>
+      <div id="hp" class="pbar border-black col-centered col-sm-3">{{demon.stats.hp}}</div>
     </div>
     <div class="hpmp center">
       <div class="mp-label col-xs-2">MP    </div>
-      <div id="mp" class="pbar border-black col-sm-3">{{demon.stats.mp}}</div>
+      <div id="mp" class="pbar border-black col-centered col-sm-3">{{demon.stats.mp}}</div>
     </div>
-
   </div>
-  <div class="row">
 
+
+  <div class="row body-lower">
     <div class="col-sm-6">
+
+      <table class="resistances">
+        <tr class="ailments">
+          <th><img class="center" src="{% static 'compendium/img/types/phys.png' %}"></th>
+          <th><img class="center" src="{% static 'compendium/img/types/gun.png' %}"></th>
+          <th><img class="center" src="{% static 'compendium/img/types/fire.png' %}"></th>
+          <th><img class="center" src="{% static 'compendium/img/types/ice.png' %}"></th>
+          <th><img class="center" src="{% static 'compendium/img/types/elec.png' %}"></th>
+          <th><img class="center" src="{% static 'compendium/img/types/force.png' %}"></th>
+          <th><img class="center" src="{% static 'compendium/img/types/light.png' %}"></th>
+          <th><img class="center" src="{% static 'compendium/img/types/dark.png' %}"></th>
+        </tr>
+        <tr class="ailments">
+          <td> {{ demon.resistances.phys }} </td>
+          <td> {{ demon.resistances.gun }} </td>
+          <td> {{ demon.resistances.fire }} </td>
+          <td> {{ demon.resistances.ice }} </td>
+          <td> {{ demon.resistances.elec }} </td>
+          <td> {{ demon.resistances.force }} </td>
+          <td> {{ demon.resistances.light }} </td>
+          <td> {{ demon.resistances.dark }} </td>
+        </tr>
+      </table>
+
       <div class="row">
-        <div class="col-xs-12 resistances center">
-          <table>
-            <tr class="ailments">
-              <th><img class="center" src="{% static 'compendium/img/types/phys.png' %}"></th>
-              <th><img class="center" src="{% static 'compendium/img/types/gun.png' %}"></th>
-              <th><img class="center" src="{% static 'compendium/img/types/fire.png' %}"></th>
-              <th><img class="center" src="{% static 'compendium/img/types/ice.png' %}"></th>
-              <th><img class="center" src="{% static 'compendium/img/types/elec.png' %}"></th>
-              <th><img class="center" src="{% static 'compendium/img/types/force.png' %}"></th>
-              <th><img class="center" src="{% static 'compendium/img/types/light.png' %}"></th>
-              <th><img class="center" src="{% static 'compendium/img/types/dark.png' %}"></th>
-            </tr>
-            <tr class="ailments">
-              <td> {{ demon.resistances.phys }} </td>
-              <td> {{ demon.resistances.gun }} </td>
-              <td> {{ demon.resistances.fire }} </td>
-              <td> {{ demon.resistances.ice }} </td>
-              <td> {{ demon.resistances.elec }} </td>
-              <td> {{ demon.resistances.force }} </td>
-              <td> {{ demon.resistances.light }} </td>
-              <td> {{ demon.resistances.dark }} </td>
-            </tr>
-          </table>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">St</div>
+          <div class="stat-val col-xs-2">{{demon.stats.strength}}</div>
+          <div id="str" class="bar col-xs-8"></div>
         </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Dx</div>
+          <div class="stat-val col-xs-2">{{demon.stats.dexterity}}</div>
+          <div id="dex" class="bar col-xs-8"></div>
+        </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Ma</div>
+          <div class="stat-val col-xs-2">{{demon.stats.magic}}</div>
+          <div id="mag" class="bar col-xs-8"></div>
+        </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Ag</div>
+          <div class="stat-val col-xs-2">{{demon.stats.agility}}</div>
+          <div id="agi" class="bar col-xs-8"></div>
+        </div>
+
+        <div class="row stat border-gray">
+          <div class="stat-label border-black col-xs-2">Lu</div>
+          <div class="stat-val col-xs-2">{{demon.stats.luck}}</div>
+          <div id="luk" class="bar col-xs-8"></div>
+        </div>
+
+        <script>
+          loadStatBar("#hp", 200, "#FFEB39")
+          loadStatBar("#mp", 200, "#73b246")
+
+          loadStatBar("#str", {{demon.stats.strength}}, "#73b246")
+          loadStatBar("#dex", {{demon.stats.dexterity}}, "#73b246")
+          loadStatBar("#mag", {{demon.stats.magic}}, "#73b246")
+          loadStatBar("#agi", {{demon.stats.agility}}, "#73b246")
+          loadStatBar("#luk", {{demon.stats.luck}}, "#73b246")
+        </script>
+
       </div>
-
-      <div class="row stat border-gray">
-        <div class="stat-label border-black col-xs-2">St</div>
-        <div class="stat-val col-xs-2">{{demon.stats.strength}}</div>
-        <div id="str" class="bar col-sm-8"></div>
-      </div>
-
-      <div class="row stat border-gray">
-        <div class="stat-label border-black col-xs-2">Dx</div>
-        <div class="stat-val col-xs-2">{{demon.stats.dexterity}}</div>
-        <div id="dex" class="bar col-sm-8"></div>
-      </div>
-
-      <div class="row stat border-gray">
-        <div class="stat-label border-black col-xs-2">Ma</div>
-        <div class="stat-val col-xs-2">{{demon.stats.magic}}</div>
-        <div id="mag" class="bar col-sm-8"></div>
-      </div>
-
-      <div class="row stat border-gray">
-        <div class="stat-label border-black col-xs-2">Ag</div>
-        <div class="stat-val col-xs-2">{{demon.stats.agility}}</div>
-        <div id="agi" class="bar col-sm-8"></div>
-      </div>
-
-      <div class="row stat border-gray">
-        <div class="stat-label border-black col-xs-2">Lu</div>
-        <div class="stat-val col-xs-2">{{demon.stats.luck}}</div>
-        <div id="luk" class="bar col-sm-8"></div>
-      </div>
-
-      <script>
-        loadHPBar("#hp", 200)
-        loadStatBar("#mp", 200)
-
-        loadStatBar("#str", {{demon.stats.strength}})
-        loadStatBar("#dex", {{demon.stats.dexterity}})
-        loadStatBar("#mag", {{demon.stats.magic}})
-        loadStatBar("#agi", {{demon.stats.agility}})
-        loadStatBar("#luk", {{demon.stats.luck}})
-      </script>
     </div>
+
+    <div class="col-md-6">
+      <!-- <img class="demon-img" src="{% static 'compendium/img/demons' %}/{{demon.snake_case}}.png"> -->
+    </div>
+
   </div>
 </div>
 
 <div class="row content-subheader">
-  <h4>Skills</h4>
+  <h4 class="col-xs-4">Skills</h4>
+  <h4 class="col-xs-offset-3 col-xs-4" style="text-align:right;">Level</h4>
 </div>
-<div class="demon-info">
+<div class="content-body">
   {% for demonskill in demon.demonskill_set.all %}
   <div class="container">
     <div class="row skill-row border-gray" onclick="window.location='/skills/{{demonskill.skill.pk}}';">
