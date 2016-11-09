@@ -16,10 +16,14 @@ class Demon(models.Model):
     max_length = 10,
     choices = RACES)
 
-    # minimum avg level required for fusion
-    fusion_level = models.IntegerField(
-    default=1,
-    validators=[MaxValueValidator(99), MinValueValidator(1)])
+    # minimum and maximum avg level required for fusion
+    level_min = models.IntegerField(
+        default=1,
+        validators=[MaxValueValidator(99), MinValueValidator(1)])
+
+    level_max = models.IntegerField(
+        default=99,
+        validators=[MaxValueValidator(99), MinValueValidator(1)])
 
     #flavor_text = models.TextField()
 
@@ -280,3 +284,29 @@ class DemonSkill(models.Model):
     class Meta:
         ordering = ('demon', )
         unique_together = (("demon", "skill"),)
+
+class RaceFusion(models.Model):
+    race_1 = models.CharField(
+    max_length = 10,
+    choices = RACES)
+
+    race_2 = models.CharField(
+    max_length = 10,
+    choices = RACES)
+
+    race = models.CharField(
+    max_length = 10,
+    choices = RACES)
+
+    def __str__(self):
+        return (self.race_1 + " + " + self.race_2 + " = " + self.race)
+
+class DemonFusion(models.Model):
+    demon_1 = models.ForeignKey(Demon, related_name='fusion_1',
+        on_delete=models.CASCADE, default=0)
+    demon_2 = models.ForeignKey(Demon, related_name='fusion_2',
+        on_delete=models.CASCADE, default=0)
+    demon = models.ForeignKey(Demon, on_delete=models.CASCADE, default=0)
+
+    def __str__(self):
+        return (self.demon_1.name + " + " + self.demon_2.name + " = " + self.demon.name)

@@ -1,4 +1,5 @@
 import json
+import re
 from compendium.models import *
 
 def load_demons():
@@ -92,7 +93,21 @@ def load_fusion():
 
     for demon in demons:
         the_demon = Demon.objects.get(name=demon)
-        # the_demon
+        the_demon.level_min = demons[demon]['min_level']
+        the_demon.level_max = demons[demon]['max_level']
+        the_demon.save()
+
+
+    json_raw = open("compendium/fixtures/fusion_map.json").read()
+    races = json.loads(json_raw)
+
+    for race in races:
+        for fusion in races[race]:
+            material = re.split(' x ', fusion)
+            race_fusion = RaceFusion(
+            race_1 = material[0], race_2 = material[1], race = race)
+            race_fusion.save()
+
 
 def run():
     print("Resetting Database...")
@@ -100,6 +115,8 @@ def run():
     Skill.objects.all().delete()
     print("Loading Demons...")
     load_demons()
+    print("Loading Fusion...")
+    load_fusion()
     print("Loading Skills...")
     load_skills()
     print("Complete.")
