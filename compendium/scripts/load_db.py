@@ -18,11 +18,11 @@ def load_demons():
             demon = new_demon,
             hp = demons[demon]['stats']['hp'],
             mp = demons[demon]['stats']['mp'],
-            strength = demons[demon]['stats']['strength'],
-            dexterity = demons[demon]['stats']['dexterity'],
-            magic = demons[demon]['stats']['magic'],
-            agility = demons[demon]['stats']['agility'],
-            luck = demons[demon]['stats']['luck'])
+            strength = demons[demon]['stats']['st'],
+            dexterity = demons[demon]['stats']['dx'],
+            magic = demons[demon]['stats']['ma'],
+            agility = demons[demon]['stats']['ag'],
+            luck = demons[demon]['stats']['lu'])
         stats.save()
 
         # Set demon resistances
@@ -68,7 +68,7 @@ def load_skills():
             hits=skills[skill]['hits'],
             target=skills[skill]['target'],
             cost=skills[skill]['cost'],
-            unique_cost=skills[skill]['unique_cost'],
+            unique_cost=skills[skill]['unique-cost'],
             rank=skills[skill]['rank'])
 
         # Include description if exists
@@ -85,6 +85,14 @@ def load_skills():
                 skill = new_skill,
                 level = skills[skill]["demons"][demon])
             demon_skill.save()
+
+def load_fusion():
+    json_raw = open("compendium/fixtures/fusion_level.json").read()
+    demons = json.loads(json_raw)
+
+    for demon in demons:
+        the_demon = Demon.objects.get(name=demon)
+        # the_demon
 
 def run():
     print("Resetting Database...")

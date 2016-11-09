@@ -12,7 +12,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Increased Attack",
         "target": "All",
-        "unique-cost": "41"
+        "unique_cost": "41"
     },
     "Acid Breath": {
         "alt_string": "194",
@@ -35,15 +35,14 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Adaptive Tactics": {
         "alt_string": "240",
         "description": "Changes weakness when weakness is struck",
         "demons": {
             "Cleopatra": 0
         },
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "36",
         "power": "",
@@ -51,7 +50,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": "36"
+        "unique_cost": "36"
     },
     "Agi": {
         "alt_string": "061",
@@ -73,8 +72,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Agidyne": {
         "alt_string": "063",
         "demons": {
@@ -87,7 +85,7 @@
             "Loki": 59,
             "Lord Nandou": 0,
             "Master Therion": 0,
-            "Ometeotl": 0,
+            "Omoteotl": 0,
             "Orochi": 0,
             "Quetzalcoatl": 0,
             "Throne": 0,
@@ -103,8 +101,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Agilao": {
         "alt_string": "062",
         "demons": {
@@ -127,8 +124,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Akasha Arts": {
         "alt_string": "032",
         "demons": {
@@ -143,8 +139,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Phys Pierce",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Alluring Banter": {
         "alt_string": "235",
         "description": "70% Charm and maximize rakunda",
@@ -159,7 +154,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "36"
+        "unique_cost": "36"
     },
     "Ally Counter": {
         "alt_string": "302",
@@ -178,8 +173,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Ally Retaliate": {
         "alt_string": "303",
         "description": "Chance of countering with heavy normal attack for ally",
@@ -199,8 +193,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Almighty Pleroma": {
         "alt_string": "297",
         "description": "Boosts almighty attack by 25%",
@@ -216,8 +209,7 @@
         "second_icon": "Almighty",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Amrita": {
         "alt_string": "174",
         "description": "Cures all ailments",
@@ -234,9 +226,8 @@
         "rank": 23,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Andalucia": {
         "alt_string": "035",
         "demons": {
@@ -250,7 +241,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": "12"
+        "unique_cost": "12"
     },
     "Antichthon": {
         "alt_string": "150",
@@ -265,8 +256,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Debilitate",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Attack Knowhow": {
         "alt_string": "304",
         "description": "Demon with this skill can use attack items in battle",
@@ -278,7 +268,8 @@
             "Night Stalker": 23,
             "Orias": 41,
             "Toubyou": 16,
-            "Yamawaro": 34
+            "Yamawaro": 34,
+            "Yatagarasu": 0
         },
         "affinity": "Passive",
         "hits": "",
@@ -288,8 +279,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Axel Claw": {
         "alt_string": "010",
         "demons": {
@@ -310,8 +300,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Babylon Goblet": {
         "alt_string": "153",
         "description": "25% Panic",
@@ -326,7 +315,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "52"
+        "unique_cost": "52"
     },
     "Bad Company": {
         "alt_string": "239",
@@ -336,7 +325,7 @@
             "Preta": 0,
             "Yoshitsune": 0
         },
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "15",
         "power": "",
@@ -344,8 +333,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Beastly Reaction": {
         "alt_string": "324",
         "description": "Increases accuracy and evasion",
@@ -366,8 +354,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Berserker God": {
         "alt_string": "027",
         "demons": {
@@ -395,8 +382,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Bind Voice": {
         "alt_string": "225",
         "description": "45% Bind",
@@ -419,8 +405,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Binding Claw": {
         "alt_string": "006",
         "description": "35% Bind",
@@ -442,8 +427,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Blade of Terror": {
         "alt_string": "036",
         "description": "70% Panic",
@@ -458,7 +442,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": "23"
+        "unique_cost": "23"
     },
     "Blank Bullet": {
         "alt_string": "052",
@@ -474,7 +458,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "16"
+        "unique_cost": "16"
     },
     "Blast Arrow": {
         "alt_string": "051",
@@ -495,8 +479,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Blight": {
         "alt_string": "024",
         "description": "60% Poison",
@@ -516,8 +499,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Blink of Death": {
         "alt_string": "127",
         "description": "Rakunda",
@@ -532,7 +514,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Fatal Chance",
         "target": "Single",
-        "unique-cost": "23"
+        "unique_cost": "23"
     },
     "Blood Ritual": {
         "alt_string": "196",
@@ -552,8 +534,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Bloody Glee": {
         "alt_string": "326",
         "description": "Increases critical chance",
@@ -573,8 +554,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Bouncing Claw": {
         "alt_string": "007",
         "demons": {
@@ -592,8 +572,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Breath": {
         "alt_string": "078",
         "demons": {
@@ -607,7 +586,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": "18"
+        "unique_cost": "18"
     },
     "Bufu": {
         "alt_string": "074",
@@ -627,8 +606,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Bufudyne": {
         "alt_string": "076",
         "demons": {
@@ -642,7 +620,7 @@
             "Illuyanka": 0,
             "Israfel": 0,
             "Loki": 0,
-            "Ometeotl": 60,
+            "Omoteotl": 60,
             "Orochi": 0,
             "Persephone": 0,
             "Sarasvati": 0,
@@ -659,8 +637,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Bufula": {
         "alt_string": "075",
         "demons": {
@@ -681,8 +658,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Chakra Walk": {
         "alt_string": "316",
         "description": "Recovers MP gradually while moving",
@@ -707,8 +683,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Charge": {
         "alt_string": "179",
         "description": "Boosts damage of next physical or gun attack by 150%",
@@ -737,8 +712,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Chariot": {
         "alt_string": "155",
         "description": "Sukunda",
@@ -753,7 +727,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "48"
+        "unique_cost": "48"
     },
     "Cold World": {
         "alt_string": "087",
@@ -772,8 +746,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Combat Tara": {
         "alt_string": "198",
         "description": "All 4 -kaja skills once",
@@ -788,7 +761,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": "38"
+        "unique_cost": "38"
     },
     "Concentrate": {
         "alt_string": "181",
@@ -817,8 +790,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Cough": {
         "alt_string": "223",
         "description": "90% Sick",
@@ -836,8 +808,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Counter": {
         "alt_string": "300",
         "description": "Chance of countering with weak normal attack",
@@ -859,8 +830,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Critical Eye": {
         "alt_string": "180",
         "description": "Guaruntees critical hit for next physical or gun attack",
@@ -886,8 +856,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Critical Wave": {
         "alt_string": "016",
         "description": "High critical, low accuracy",
@@ -907,8 +876,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Damascus Claw": {
         "alt_string": "009",
         "demons": {
@@ -927,8 +895,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dance of Mara": {
         "alt_string": "232",
         "description": "70% Charm",
@@ -943,7 +910,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "15"
+        "unique_cost": "15"
     },
     "Dark Grudge": {
         "alt_string": "131",
@@ -958,7 +925,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Fatal Chance",
         "target": "Single",
-        "unique-cost": "20"
+        "unique_cost": "20"
     },
     "Dark Pierce": {
         "alt_string": "336",
@@ -974,8 +941,7 @@
         "second_icon": "Dark",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dark Pleroma": {
         "alt_string": "295",
         "description": "Boosts dark attack by 25%",
@@ -997,8 +963,7 @@
         "second_icon": "Dark",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dark Sword": {
         "alt_string": "042",
         "description": "70% Mute",
@@ -1024,8 +989,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dazzle Ray": {
         "alt_string": "121",
         "demons": {
@@ -1039,7 +1003,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Fatal Chance",
         "target": "Single",
-        "unique-cost": "24"
+        "unique_cost": "24"
     },
     "Deadly Wind": {
         "alt_string": "106",
@@ -1059,8 +1023,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Force Pierce",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Death Lust": {
         "alt_string": "154",
         "description": "55% Charm",
@@ -1075,7 +1038,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "52"
+        "unique_cost": "52"
     },
     "Death's Door": {
         "alt_string": "157",
@@ -1094,8 +1057,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Debilitate": {
         "alt_string": "200",
         "description": "All 3 -nda skills once",
@@ -1114,8 +1076,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dekaja": {
         "alt_string": "192",
         "description": "Negates all -kaja effects",
@@ -1138,8 +1099,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dekunda": {
         "alt_string": "191",
         "description": "Negates all -nda effects",
@@ -1163,8 +1123,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Desperate Hit": {
         "alt_string": "142",
         "demons": {
@@ -1178,7 +1137,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": "32"
+        "unique_cost": "32"
     },
     "Dia": {
         "alt_string": "164",
@@ -1204,9 +1163,8 @@
         "rank": 2,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Diarahan": {
         "alt_string": "166",
         "description": "Recovers all HP",
@@ -1228,9 +1186,8 @@
         "rank": 20,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Diarama": {
         "alt_string": "165",
         "description": "Recovers medium HP",
@@ -1257,9 +1214,8 @@
         "rank": 8,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Die For Me!": {
         "alt_string": "129",
         "demons": {
@@ -1273,7 +1229,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "80% Fatal Chance",
         "target": "All",
-        "unique-cost": "45"
+        "unique_cost": "45"
     },
     "Doping": {
         "alt_string": "186",
@@ -1293,8 +1249,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dormina": {
         "alt_string": "218",
         "description": "90% Sleep",
@@ -1314,8 +1269,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Draconic Reaction": {
         "alt_string": "325",
         "description": "Greatly increases accuracy and evasion",
@@ -1334,8 +1288,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Dark": {
         "alt_string": "278",
         "description": "Absorbs dark damage",
@@ -1350,8 +1303,7 @@
         "second_icon": "Dark",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Elec": {
         "alt_string": "266",
         "description": "Absorbs electric damage",
@@ -1366,12 +1318,12 @@
         "second_icon": "Elec",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Fire": {
         "alt_string": "258",
         "description": "Absorbs fire damage",
         "demons": {
+            "Kangiten": 82,
             "Susano-o": 87
         },
         "affinity": "Passive",
@@ -1382,8 +1334,7 @@
         "second_icon": "Fire",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Force": {
         "alt_string": "270",
         "description": "Absorbs force damage",
@@ -1398,8 +1349,7 @@
         "second_icon": "Force",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Gun": {
         "alt_string": "254",
         "description": "Absorbs gun damage",
@@ -1414,8 +1364,7 @@
         "second_icon": "Gun",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Ice": {
         "alt_string": "262",
         "description": "Absorbs ice damage",
@@ -1430,8 +1379,7 @@
         "second_icon": "Ice",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Light": {
         "alt_string": "274",
         "description": "Absorbs light damage",
@@ -1446,8 +1394,7 @@
         "second_icon": "Light",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Drain Phys": {
         "alt_string": "250",
         "description": "Absorbs physical damage",
@@ -1462,8 +1409,7 @@
         "second_icon": "Phys",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dream Fist": {
         "alt_string": "017",
         "description": "70% Sleep",
@@ -1482,8 +1428,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dream Needle": {
         "alt_string": "054",
         "description": "70% Sleep",
@@ -1502,8 +1447,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Dream Raga": {
         "alt_string": "227",
         "description": "70% Sleep, panic, and/or charm and rakunda",
@@ -1518,7 +1462,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "47"
+        "unique_cost": "47"
     },
     "EVIL MELODY": {
         "alt_string": "161",
@@ -1533,7 +1477,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Fatal Chance",
         "target": "Single",
-        "unique-cost": "31"
+        "unique_cost": "31"
     },
     "Earthquake": {
         "alt_string": "040",
@@ -1554,8 +1498,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Eat Whole": {
         "alt_string": "038",
         "description": "Drains HP",
@@ -1577,8 +1520,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Elec Pierce": {
         "alt_string": "333",
         "description": "All elec attacks can pierce through drain, repel, null and resist attributes",
@@ -1593,8 +1535,7 @@
         "second_icon": "Elec",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Elec Pleroma": {
         "alt_string": "289",
         "description": "Boosts elec attack by 25%",
@@ -1615,8 +1556,7 @@
         "second_icon": "Elec",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Endure": {
         "alt_string": "313",
         "description": "Survives with 1 HP restored after suffering a fatal blow once per battle",
@@ -1639,8 +1579,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Enduring Cheer": {
         "alt_string": "213",
         "description": "Grants endure for one turn",
@@ -1655,7 +1594,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": "18"
+        "unique_cost": "18"
     },
     "Enduring Soul": {
         "alt_string": "314",
@@ -1673,8 +1612,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Energy Drain": {
         "alt_string": "140",
         "description": "Drains HP and MP",
@@ -1695,8 +1633,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Enlightenment": {
         "alt_string": "212",
         "description": "Changes weakness attributes to absorb for one turn, luster candy and induce smirk to self when corresponding element absorbed",
@@ -1711,7 +1648,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": "2"
+        "unique_cost": "2"
     },
     "Estoma": {
         "alt_string": "244",
@@ -1723,7 +1660,7 @@
             "Take-Mikazuchi": 0,
             "Tam Lin": 14
         },
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "6",
         "power": "",
@@ -1731,8 +1668,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Eternal Rest": {
         "alt_string": "158",
         "description": "Instant death to all enemies inflicted with sleep",
@@ -1748,8 +1684,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Evil Shine": {
         "alt_string": "156",
         "description": "25% Panic",
@@ -1764,13 +1699,13 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "88"
+        "unique_cost": "88"
     },
-    "Pressuring Stance": {
+    "FIERCE STANCE": {
         "alt_string": "242",
         "description": "Removes two press turns from the enemy during their next turn",
         "demons": {},
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "0",
         "power": "",
@@ -1778,7 +1713,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "-1"
+        "unique_cost": "-1"
     },
     "Fang Breaker": {
         "alt_string": "019",
@@ -1799,8 +1734,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Fatal Sword": {
         "alt_string": "022",
         "demons": {
@@ -1820,8 +1754,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Fear Darkness": {
         "alt_string": "128",
         "demons": {
@@ -1835,7 +1768,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Fatal Chance",
         "target": "Single",
-        "unique-cost": "24"
+        "unique_cost": "24"
     },
     "Fire Breath": {
         "alt_string": "072",
@@ -1856,8 +1789,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Fire Pierce": {
         "alt_string": "331",
         "description": "All fire attacks can pierce through drain, repel, null and resist attributes",
@@ -1872,8 +1804,7 @@
         "second_icon": "Fire",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Fire Pleroma": {
         "alt_string": "285",
         "description": "Boosts fire attack by 25%",
@@ -1895,8 +1826,7 @@
         "second_icon": "Fire",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Fire of Lethargy": {
         "alt_string": "067",
         "description": "Rakunda + Sukunda",
@@ -1911,7 +1841,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "31"
+        "unique_cost": "31"
     },
     "Fire of Sinai": {
         "alt_string": "144",
@@ -1926,7 +1856,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": "43"
+        "unique_cost": "43"
     },
     "Floral Gust": {
         "alt_string": "113",
@@ -1943,8 +1873,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Fog Breath": {
         "alt_string": "195",
         "description": "Tarunda and Sukunda once",
@@ -1965,8 +1894,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Force Pierce": {
         "alt_string": "334",
         "description": "All force attacks can pierce through drain, repel, null and resist attributes",
@@ -1981,8 +1909,7 @@
         "second_icon": "Force",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Force Pleroma": {
         "alt_string": "291",
         "description": "Boosts force attack by 25%",
@@ -2004,8 +1931,7 @@
         "second_icon": "Force",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Frenzied Chomp": {
         "alt_string": "020",
         "description": "Chance of poison, bind, or charm",
@@ -2028,8 +1954,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Glacial Blast": {
         "alt_string": "086",
         "demons": {
@@ -2047,8 +1972,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "God's Bow": {
         "alt_string": "120",
         "description": "Fatal Chance",
@@ -2063,7 +1987,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "28"
+        "unique_cost": "28"
     },
     "Gram Slice": {
         "alt_string": "003",
@@ -2079,8 +2003,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Grand Tack": {
         "alt_string": "048",
         "demons": {
@@ -2099,7 +2022,7 @@
             "Sphinx": 72,
             "Wild Hunt": 56,
             "Xiuhtecuhtli": 50,
-            "Yatagarasu": 53,
+            "Yatagarasu": 64,
             "Yggdrasil": 0,
             "Zouchouten": 57
         },
@@ -2111,8 +2034,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Great Logos": {
         "alt_string": "151",
         "demons": {
@@ -2128,8 +2050,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Growing Hate": {
         "alt_string": "152",
         "description": "Power dependent on enemy dark resistance",
@@ -2144,7 +2065,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "76"
+        "unique_cost": "76"
     },
     "Gun Pleroma": {
         "alt_string": "283",
@@ -2165,8 +2086,7 @@
         "second_icon": "Gun",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Gungnir": {
         "alt_string": "030",
         "description": "Phys Pierce",
@@ -2181,7 +2101,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "14"
+        "unique_cost": "14"
     },
     "Hades Blast": {
         "alt_string": "033",
@@ -2214,8 +2134,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Hama": {
         "alt_string": "115",
         "demons": {
@@ -2234,8 +2153,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "30% Fatal Chance",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Hamaon": {
         "alt_string": "116",
         "demons": {
@@ -2257,8 +2175,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "55% Fatal Chance",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Hard Worker": {
         "alt_string": "317",
         "description": "Increases experience points received after battles",
@@ -2276,8 +2193,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Haunting Rhapsody": {
         "alt_string": "228",
         "description": "70% Panic and debilitate",
@@ -2292,7 +2208,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "76"
+        "unique_cost": "76"
     },
     "Head Crush": {
         "alt_string": "018",
@@ -2315,8 +2231,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Heal Pleroma": {
         "alt_string": "298",
         "description": "Boosts recovery amount by 25%",
@@ -2333,8 +2248,7 @@
         "second_icon": "Heal",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Healing Knowhow": {
         "alt_string": "305",
         "description": "Demon with this skill can use healing items in battle",
@@ -2359,8 +2273,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Heat Wave": {
         "alt_string": "015",
         "demons": {
@@ -2381,8 +2294,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Heaven's Bow": {
         "alt_string": "053",
         "demons": {
@@ -2403,8 +2315,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Hell Thrust": {
         "alt_string": "014",
         "demons": {
@@ -2418,8 +2329,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Rakunda",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Hellish Brand": {
         "alt_string": "066",
         "description": "Dekaja",
@@ -2434,7 +2344,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "12"
+        "unique_cost": "12"
     },
     "Hellish Mask": {
         "alt_string": "327",
@@ -2454,8 +2364,7 @@
         "second_icon": "Ailment",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Dark Pleroma": {
         "alt_string": "296",
         "description": "Boosts dark attack by 50%",
@@ -2472,8 +2381,7 @@
         "second_icon": "Dark",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Elec Pleroma": {
         "alt_string": "290",
         "description": "Boosts elec attack by 50%",
@@ -2490,8 +2398,7 @@
         "second_icon": "Elec",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Fire Pleroma": {
         "alt_string": "286",
         "description": "Boosts fire attack by 50%",
@@ -2508,8 +2415,7 @@
         "second_icon": "Fire",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Force Pleroma": {
         "alt_string": "292",
         "description": "Boosts force attack by 50%",
@@ -2526,8 +2432,7 @@
         "second_icon": "Force",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Gun Pleroma": {
         "alt_string": "284",
         "description": "Boosts gun attack by 50%",
@@ -2543,8 +2448,7 @@
         "second_icon": "Gun",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Heal Pleroma": {
         "alt_string": "299",
         "description": "Boosts recovery amount by 50%",
@@ -2561,8 +2465,7 @@
         "second_icon": "Heal",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Ice Pleroma": {
         "alt_string": "288",
         "description": "Boosts ice attack by 50%",
@@ -2579,8 +2482,7 @@
         "second_icon": "Ice",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Light Pleroma": {
         "alt_string": "294",
         "description": "Boosts light attack by 50%",
@@ -2597,8 +2499,7 @@
         "second_icon": "Light",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "High Phys Pleroma": {
         "alt_string": "282",
         "description": "Boosts physical attack by 50%",
@@ -2614,8 +2515,7 @@
         "second_icon": "Phys",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Holy Wrath": {
         "alt_string": "148",
         "description": "150% damage on Chaos targets",
@@ -2633,8 +2533,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Horrible Ray": {
         "alt_string": "139",
         "description": "Almighty attack which damages MP",
@@ -2647,7 +2546,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "-1"
+        "unique_cost": "-1"
     },
     "Ice Age": {
         "alt_string": "080",
@@ -2665,8 +2564,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Ice Pierce",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Ice Breath": {
         "alt_string": "085",
         "demons": {
@@ -2686,8 +2584,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Ice Pierce": {
         "alt_string": "332",
         "description": "All ice attacks can pierce through drain, repel, null and resist attributes",
@@ -2702,8 +2599,7 @@
         "second_icon": "Ice",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Ice Pleroma": {
         "alt_string": "287",
         "description": "Boosts ice attack by 25%",
@@ -2724,8 +2620,7 @@
         "second_icon": "Ice",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Imposing Stance": {
         "alt_string": "241",
         "description": "Removes one press turn from the enemy during their next turn",
@@ -2733,7 +2628,7 @@
             "Tenkai": 79,
             "Zhong Kui": 0
         },
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "50",
         "power": "",
@@ -2741,8 +2636,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Infernal Hail": {
         "alt_string": "079",
         "description": "Sukunda",
@@ -2757,7 +2651,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "23"
+        "unique_cost": "23"
     },
     "Invitation": {
         "alt_string": "238",
@@ -2767,7 +2661,7 @@
             "Mother Harlot": 0,
             "Xi Wangmu": 82
         },
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "65",
         "power": "",
@@ -2775,8 +2669,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Iron Judgment": {
         "alt_string": "026",
         "demons": {
@@ -2790,7 +2683,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "3"
+        "unique_cost": "3"
     },
     "Javelin Rain": {
         "alt_string": "037",
@@ -2814,8 +2707,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Judgment": {
         "alt_string": "149",
         "description": "150% damage on Neutral targets",
@@ -2823,7 +2715,7 @@
             "Asherah": 53,
             "Ishtar": 0,
             "Israfel": 70,
-            "Ometeotl": 61
+            "Omoteotl": 61
         },
         "affinity": "Almighty",
         "hits": "1",
@@ -2833,8 +2725,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Judgment Light": {
         "alt_string": "119",
         "demons": {
@@ -2854,8 +2745,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "80% Fatal Chance",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "King Bufula": {
         "alt_string": "077",
         "demons": {
@@ -2869,7 +2759,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Rakunda",
         "target": "All",
-        "unique-cost": "18"
+        "unique_cost": "18"
     },
     "Life Aid": {
         "alt_string": "322",
@@ -2887,8 +2777,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Life Bonus": {
         "alt_string": "306",
         "description": "Increases max HP by 10%",
@@ -2908,8 +2797,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Life Drain": {
         "alt_string": "136",
         "description": "Drains HP",
@@ -2931,8 +2819,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Life Gain": {
         "alt_string": "307",
         "description": "Increases max HP by 20%",
@@ -2953,8 +2840,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Life Surge": {
         "alt_string": "308",
         "description": "Increases max HP by 30%",
@@ -2978,8 +2864,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Light Devourer": {
         "alt_string": "130",
         "description": "Drains HP",
@@ -2994,7 +2879,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "26"
+        "unique_cost": "26"
     },
     "Light Life Aid": {
         "alt_string": "321",
@@ -3013,8 +2898,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Light Mana Aid": {
         "alt_string": "319",
         "description": "Recovers MP somewhat after victory",
@@ -3031,8 +2915,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Light Pierce": {
         "alt_string": "335",
         "description": "All light attacks can pierce through drain, repel, null and resist attributes",
@@ -3047,8 +2930,7 @@
         "second_icon": "Light",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Light Pleroma": {
         "alt_string": "293",
         "description": "Boosts light attack by 25%",
@@ -3069,8 +2951,7 @@
         "second_icon": "Light",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Loyalty Slash": {
         "alt_string": "028",
         "demons": {
@@ -3084,7 +2965,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Fatal Chance",
         "target": "Single",
-        "unique-cost": "18"
+        "unique_cost": "18"
     },
     "Lullaby": {
         "alt_string": "231",
@@ -3108,8 +2989,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Lunge": {
         "alt_string": "002",
         "description": "High critical, low accuracy",
@@ -3131,8 +3011,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Luster Candy": {
         "alt_string": "197",
         "description": "All 4 -kaja skills once",
@@ -3153,8 +3032,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mabufu": {
         "alt_string": "082",
         "demons": {
@@ -3173,8 +3051,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mabufudyne": {
         "alt_string": "084",
         "demons": {
@@ -3194,8 +3071,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mabufula": {
         "alt_string": "083",
         "demons": {
@@ -3217,13 +3093,12 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Macca Beam": {
         "alt_string": "243",
         "description": "Reduces money in possession by 20%",
         "demons": {},
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "0",
         "power": "",
@@ -3231,7 +3106,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "-1"
+        "unique_cost": "-1"
     },
     "Madness Nails": {
         "alt_string": "011",
@@ -3256,8 +3131,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Madness Needle": {
         "alt_string": "058",
         "description": "70% Panic",
@@ -3277,8 +3151,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Magaon": {
         "alt_string": "206",
         "description": "Removes smirk",
@@ -3301,9 +3174,8 @@
         "rank": 7,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Enemy",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Magic Torrent": {
         "alt_string": "143",
         "demons": {
@@ -3317,7 +3189,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": "46"
+        "unique_cost": "46"
     },
     "Mahama": {
         "alt_string": "117",
@@ -3338,8 +3210,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "30% Fatal Chance",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mahamaon": {
         "alt_string": "118",
         "demons": {
@@ -3360,13 +3231,12 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "55% Fatal Chance",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Makajam": {
         "alt_string": "221",
         "description": "50% Mute",
         "demons": {
-            "Dantalian": 0,
+            "Dantalion": 0,
             "Dis": 0,
             "High Pixie": 0,
             "Lachesis": 0,
@@ -3381,15 +3251,14 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Makajamaon": {
         "alt_string": "229",
         "description": "45% Mute",
         "demons": {
             "Aniel": 0,
             "Cherub": 72,
-            "Dantalian": 56,
+            "Dantalion": 56,
             "Maitreya": 0,
             "Master Therion": 0,
             "Shax": 75,
@@ -3406,15 +3275,14 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Makakaja": {
         "alt_string": "182",
         "description": "Boosts magical damage by 1 level",
         "demons": {
             "Bai Suzhen": 22,
             "Brigid": 34,
-            "Dantalian": 0,
+            "Dantalion": 0,
             "Daphne": 18,
             "Fortuna": 13,
             "Gu Huo Niao": 17,
@@ -3435,8 +3303,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Makarabreak": {
         "alt_string": "204",
         "description": "Cancels Makarakarn effect",
@@ -3451,15 +3318,14 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Makarakarn": {
         "alt_string": "202",
         "description": "Repels magical attacks except ailment or almighty for one turn",
         "demons": {
             "Arahabaki": 0,
             "Azrael": 78,
-            "Dantalian": 0,
+            "Dantalion": 0,
             "Futotama": 53,
             "Lorelei": 54,
             "Marishiten": 76,
@@ -3477,8 +3343,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mamudo": {
         "alt_string": "125",
         "demons": {
@@ -3498,8 +3363,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "30% Fatal Chance",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mamudoon": {
         "alt_string": "126",
         "demons": {
@@ -3524,8 +3388,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "55% Fatal Chance",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mana Aid": {
         "alt_string": "320",
         "description": "Recovers MP moderately after victory",
@@ -3542,8 +3405,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mana Bonus": {
         "alt_string": "310",
         "description": "Increases max MP by 10%",
@@ -3563,8 +3425,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mana Gain": {
         "alt_string": "311",
         "description": "Increases max MP by 20%",
@@ -3585,8 +3446,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mana Surge": {
         "alt_string": "312",
         "description": "Increases max MP by 30%",
@@ -3610,8 +3470,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Maragi": {
         "alt_string": "069",
         "demons": {
@@ -3632,8 +3491,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Maragidyne": {
         "alt_string": "071",
         "demons": {
@@ -3642,8 +3500,7 @@
             "Gemori": 0,
             "Quetzalcoatl": 68,
             "Surt": 0,
-            "Throne": 65,
-            "Yatagarasu": 54
+            "Throne": 65
         },
         "affinity": "Fire",
         "hits": "1",
@@ -3653,8 +3510,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Maragion": {
         "alt_string": "070",
         "demons": {
@@ -3675,8 +3531,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Marin Karin": {
         "alt_string": "220",
         "description": "50% Charm",
@@ -3696,8 +3551,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mazan": {
         "alt_string": "108",
         "demons": {
@@ -3716,8 +3570,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mazandyne": {
         "alt_string": "110",
         "demons": {
@@ -3741,8 +3594,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mazanma": {
         "alt_string": "109",
         "demons": {
@@ -3763,8 +3615,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mazio": {
         "alt_string": "096",
         "demons": {
@@ -3783,8 +3634,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Maziodyne": {
         "alt_string": "098",
         "demons": {
@@ -3804,8 +3654,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mazionga": {
         "alt_string": "097",
         "demons": {
@@ -3826,8 +3675,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Me Patra": {
         "alt_string": "172",
         "description": "Cures sleep, panic and bind",
@@ -3854,8 +3702,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Media": {
         "alt_string": "167",
         "description": "Recovers little HP",
@@ -3884,8 +3731,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mediarahan": {
         "alt_string": "169",
         "description": "Recovers all HP",
@@ -3906,8 +3752,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mediarama": {
         "alt_string": "168",
         "description": "Recovers medium HP",
@@ -3933,8 +3778,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Megaton Press": {
         "alt_string": "039",
         "description": "High critical, low accuracy",
@@ -3956,8 +3800,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Megiddo Ark": {
         "alt_string": "162",
         "demons": {
@@ -3971,7 +3814,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "46"
+        "unique_cost": "46"
     },
     "Megido": {
         "alt_string": "133",
@@ -3992,8 +3835,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Megidola": {
         "alt_string": "134",
         "demons": {
@@ -4012,8 +3854,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Megidolaon": {
         "alt_string": "135",
         "demons": {
@@ -4035,8 +3876,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mist Rush": {
         "alt_string": "043",
         "description": "70% Daze",
@@ -4056,8 +3896,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mortal Jihad": {
         "alt_string": "025",
         "description": "High critical, low accuracy",
@@ -4081,8 +3920,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mudo": {
         "alt_string": "123",
         "demons": {
@@ -4103,8 +3941,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "30% Fatal Chance",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Mudoon": {
         "alt_string": "124",
         "demons": {
@@ -4125,13 +3962,13 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "55% Fatal Chance",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Myriad Arrows": {
         "alt_string": "047",
         "demons": {
             "Barbatos": 72,
             "Erlkonig": 73,
+            "Kangiten": 81,
             "Lucifer": 0,
             "Marishiten": 0,
             "Xi Wangmu": 0
@@ -4144,8 +3981,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Needle Shot": {
         "alt_string": "045",
         "demons": {
@@ -4160,8 +3996,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Needlestorm": {
         "alt_string": "112",
         "description": "60% Daze",
@@ -4176,7 +4011,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "23"
+        "unique_cost": "23"
     },
     "Nihil Claw": {
         "alt_string": "012",
@@ -4198,8 +4033,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Dark": {
         "alt_string": "276",
         "description": "Nullifies dark damage",
@@ -4215,8 +4049,7 @@
         "second_icon": "Dark",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Elec": {
         "alt_string": "264",
         "description": "Nullifies electric damage",
@@ -4232,8 +4065,7 @@
         "second_icon": "Elec",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Fire": {
         "alt_string": "256",
         "description": "Nullifies fire damage",
@@ -4249,8 +4081,7 @@
         "second_icon": "Fire",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Force": {
         "alt_string": "268",
         "description": "Nullifies force damage",
@@ -4266,8 +4097,7 @@
         "second_icon": "Force",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Gun": {
         "alt_string": "252",
         "description": "Nullifies gun damage",
@@ -4283,14 +4113,12 @@
         "second_icon": "Gun",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Ice": {
         "alt_string": "260",
         "description": "Nullifies ice damage",
         "demons": {
-            "Arahabaki": 62,
-            "Kangiten": 82
+            "Arahabaki": 62
         },
         "affinity": "Passive",
         "hits": "",
@@ -4300,8 +4128,7 @@
         "second_icon": "Ice",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Light": {
         "alt_string": "272",
         "description": "Nullifies light damage",
@@ -4317,8 +4144,7 @@
         "second_icon": "Light",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Mind": {
         "alt_string": "280",
         "description": "Immunity against sleep, panic, charm, and mute ailments",
@@ -4337,8 +4163,7 @@
         "second_icon": "Ailment",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Nerve": {
         "alt_string": "279",
         "description": "Immunity against poison, bind, sick and daze ailments",
@@ -4356,8 +4181,7 @@
         "second_icon": "Ailment",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Null Phys": {
         "alt_string": "248",
         "description": "Nullifies physical damage",
@@ -4373,8 +4197,7 @@
         "second_icon": "Phys",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Oni-Kagura": {
         "alt_string": "021",
         "description": "High critical, low accuracy",
@@ -4399,8 +4222,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Pandemic Bomb": {
         "alt_string": "224",
         "description": "70% Sick",
@@ -4431,8 +4253,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Panic Voice": {
         "alt_string": "233",
         "description": "70% Panic",
@@ -4457,8 +4278,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Patra": {
         "alt_string": "171",
         "description": "Cures sleep, panic and bind",
@@ -4479,9 +4299,8 @@
         "rank": 2,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Pestilence": {
         "alt_string": "029",
         "description": "Heavy damage on enemies suffering from ailments",
@@ -4496,7 +4315,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "36"
+        "unique_cost": "36"
     },
     "Phys Pierce": {
         "alt_string": "329",
@@ -4512,8 +4331,7 @@
         "second_icon": "Phys",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Phys Pleroma": {
         "alt_string": "281",
         "description": "Boosts physical attack by 25%",
@@ -4533,8 +4351,7 @@
         "second_icon": "Phys",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Pierce Gun": {
         "alt_string": "330",
         "description": "All gun attacks can pierce through drain, repel, null and resist attributes",
@@ -4549,8 +4366,7 @@
         "second_icon": "Gun",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Poisma": {
         "alt_string": "216",
         "description": "90% Poison",
@@ -4568,8 +4384,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Poison Breath": {
         "alt_string": "222",
         "description": "70% Poison",
@@ -4594,8 +4409,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Poison Claw": {
         "alt_string": "005",
         "description": "70% Poison",
@@ -4616,8 +4430,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Posumudi": {
         "alt_string": "173",
         "description": "Cures poison and sick",
@@ -4650,9 +4463,8 @@
         "rank": 2,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Power Punch": {
         "alt_string": "023",
         "demons": {
@@ -4674,8 +4486,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "70% Daze",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Pulinpa": {
         "alt_string": "217",
         "description": "90% Panic",
@@ -4697,8 +4508,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Purple Smoke": {
         "alt_string": "034",
         "description": "70% Panic",
@@ -4719,8 +4529,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Raging Blizzard": {
         "alt_string": "081",
         "description": "User becomes weak to fire",
@@ -4735,7 +4544,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "31"
+        "unique_cost": "31"
     },
     "Raging Hellfire": {
         "alt_string": "068",
@@ -4751,7 +4560,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "31"
+        "unique_cost": "31"
     },
     "Raging Lightning": {
         "alt_string": "095",
@@ -4767,7 +4576,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "31"
+        "unique_cost": "31"
     },
     "Raging Tempest": {
         "alt_string": "107",
@@ -4783,7 +4592,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "31"
+        "unique_cost": "31"
     },
     "Ragnarok": {
         "alt_string": "065",
@@ -4798,8 +4607,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Rakukaja": {
         "alt_string": "184",
         "description": "Boosts defense by 1 level",
@@ -4830,8 +4638,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Rakunda": {
         "alt_string": "189",
         "description": "Reduces defense by 1 level",
@@ -4857,8 +4664,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Rapid Needle": {
         "alt_string": "050",
         "demons": {
@@ -4877,8 +4683,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Recarm": {
         "alt_string": "175",
         "description": "Revives with little HP",
@@ -4902,9 +4707,8 @@
         "rank": 12,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Recarmdra": {
         "alt_string": "177",
         "description": "Caster dies, fully revives and recovers other active allies",
@@ -4912,7 +4716,7 @@
             "Attis": 0,
             "Chironnupu": 27,
             "Kingu": 40,
-            "Ometeotl": 0,
+            "Omoteotl": 0,
             "Orochi": 53,
             "Prometheus": 0,
             "Rangda": 70,
@@ -4926,8 +4730,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Rending Claws": {
         "alt_string": "013",
         "demons": {
@@ -4941,7 +4744,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "9"
+        "unique_cost": "9"
     },
     "Repel Dark": {
         "alt_string": "277",
@@ -4957,8 +4760,7 @@
         "second_icon": "Dark",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Repel Elec": {
         "alt_string": "265",
         "description": "Reflects electric damage",
@@ -4973,8 +4775,7 @@
         "second_icon": "Elec",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Repel Fire": {
         "alt_string": "257",
         "description": "Reflects fire damage",
@@ -4989,8 +4790,7 @@
         "second_icon": "Fire",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Repel Force": {
         "alt_string": "269",
         "description": "Reflects force damage",
@@ -5005,8 +4805,7 @@
         "second_icon": "Force",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Repel Gun": {
         "alt_string": "253",
         "description": "Reflects gun damage",
@@ -5021,8 +4820,7 @@
         "second_icon": "Gun",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Repel Ice": {
         "alt_string": "261",
         "description": "Reflects ice damage",
@@ -5037,8 +4835,7 @@
         "second_icon": "Ice",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Repel Light": {
         "alt_string": "273",
         "description": "Reflects light damage",
@@ -5053,8 +4850,7 @@
         "second_icon": "Light",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Repel Phys": {
         "alt_string": "249",
         "description": "Reflects physical damage",
@@ -5069,8 +4865,7 @@
         "second_icon": "Phys",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Dark": {
         "alt_string": "275",
         "description": "Reduces dark damage",
@@ -5086,8 +4881,7 @@
         "second_icon": "Dark",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Elec": {
         "alt_string": "263",
         "description": "Reduces electric damage",
@@ -5103,8 +4897,7 @@
         "second_icon": "Elec",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Fire": {
         "alt_string": "255",
         "description": "Reduces fire damage",
@@ -5120,8 +4913,7 @@
         "second_icon": "Fire",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Force": {
         "alt_string": "267",
         "description": "Reduces force damage",
@@ -5137,8 +4929,7 @@
         "second_icon": "Force",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Gun": {
         "alt_string": "251",
         "description": "Reduces gun damage",
@@ -5154,8 +4945,7 @@
         "second_icon": "Gun",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Ice": {
         "alt_string": "259",
         "description": "Reduces ice damage",
@@ -5171,8 +4961,7 @@
         "second_icon": "Ice",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Light": {
         "alt_string": "271",
         "description": "Reduces light damage",
@@ -5188,8 +4977,7 @@
         "second_icon": "Light",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Resist Phys": {
         "alt_string": "247",
         "description": "Reduces physical damage",
@@ -5206,8 +4994,7 @@
         "second_icon": "Phys",
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Retaliate": {
         "alt_string": "301",
         "description": "Chance of countering with heavy normal attack",
@@ -5227,16 +5014,14 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Riot Gun": {
         "alt_string": "049",
         "demons": {
             "Beelzebub": 0,
             "Huang Di": 0,
             "Merkabah": 0,
-            "Seraph": 0,
-            "Kangiten": 81
+            "Seraph": 0
         },
         "affinity": "Gun",
         "hits": "1",
@@ -5246,8 +5031,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Gun Pierce",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Ruinous Brand": {
         "alt_string": "031",
         "demons": {
@@ -5261,7 +5045,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "12"
+        "unique_cost": "12"
     },
     "Sabbatma": {
         "alt_string": "237",
@@ -5269,23 +5053,22 @@
         "demons": {
             "Ame no Uzume": 0,
             "Baphomet": 27,
-            "Dantalian": 55,
+            "Dantalion": 55,
             "Futotama": 52,
             "Hel": 44,
             "Nebiros": 0,
             "Ongyo-Ki": 0,
             "Virtue": 0
         },
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "20",
         "power": "",
         "rank": 13,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Salvation": {
         "alt_string": "170",
         "description": "Recovers all HP",
@@ -5303,8 +5086,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Cures all ailments",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Samarecarm": {
         "alt_string": "176",
         "description": "Revives with full HP",
@@ -5331,9 +5113,8 @@
         "rank": 23,
         "second_icon": null,
         "smirk-effect": "",
-        "target": "Ally",
-        "unique-cost": 0
-    },
+        "target": "Single",
+        "unique_cost": 0    },
     "Scratch Dance": {
         "alt_string": "008",
         "demons": {
@@ -5349,8 +5130,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Sea of Chaos": {
         "alt_string": "147",
         "description": "150% damage on Law targets",
@@ -5368,8 +5148,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Self-Righteous Vow": {
         "alt_string": "328",
         "description": "Luster candy to self when weakness is exploited",
@@ -5384,7 +5163,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": "0"
+        "unique_cost": "0"
     },
     "Severe Judgment": {
         "alt_string": "159",
@@ -5399,7 +5178,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Increased Attack",
         "target": "Single",
-        "unique-cost": "36"
+        "unique_cost": "36"
     },
     "Sexy Dance": {
         "alt_string": "230",
@@ -5424,8 +5203,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Shibaboo": {
         "alt_string": "219",
         "description": "50% Bind",
@@ -5446,8 +5224,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Shivering Taboo": {
         "alt_string": "234",
         "description": "70% Bind, panic, sleep, sick and/or poison",
@@ -5463,7 +5240,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "32"
+        "unique_cost": "32"
     },
     "Shock": {
         "alt_string": "099",
@@ -5483,8 +5260,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Silent Prayer": {
         "alt_string": "207",
         "description": "Negates all -kaja and -nda effects",
@@ -5503,8 +5279,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Universal",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Smile Charge": {
         "alt_string": "205",
         "description": "Bestows smirk. Cannot use when target is under effect of any ailment",
@@ -5527,8 +5302,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Snake's Fangs": {
         "alt_string": "059",
         "description": "60% Bind",
@@ -5536,14 +5310,14 @@
             "Medusa": 0
         },
         "affinity": "Gun",
-        "hits": "2~3",
+        "hits": "1~3",
         "cost": "24",
         "power": "Heavy",
         "rank": 0,
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": "18"
+        "unique_cost": "18"
     },
     "Soul Divide": {
         "alt_string": "160",
@@ -5559,7 +5333,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "32"
+        "unique_cost": "32"
     },
     "Soul Drain": {
         "alt_string": "141",
@@ -5582,7 +5356,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Increased Attack",
         "target": "Single",
-        "unique-cost": "7"
+        "unique_cost": "7"
     },
     "Spirit Drain": {
         "alt_string": "137",
@@ -5603,8 +5377,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Spring of Life": {
         "alt_string": "315",
         "description": "Recovers HP gradually while moving",
@@ -5624,8 +5397,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Strange Ray": {
         "alt_string": "138",
         "description": "Almighty attack which damages current MP by half",
@@ -5638,7 +5410,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "-1"
+        "unique_cost": "-1"
     },
     "Stun Needle": {
         "alt_string": "056",
@@ -5656,8 +5428,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Stun Needles": {
         "alt_string": "057",
         "description": "60% Bind",
@@ -5675,8 +5446,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Sukukaja": {
         "alt_string": "185",
         "description": "Boosts agility by 1 level",
@@ -5703,8 +5473,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Sukunda": {
         "alt_string": "190",
         "description": "Reduces agility by 1 level",
@@ -5728,8 +5497,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Tarukaja": {
         "alt_string": "183",
         "description": "Boosts physical damage by 1 level",
@@ -5754,8 +5522,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Tarunda": {
         "alt_string": "188",
         "description": "Reduces attack damage by 1 level",
@@ -5777,8 +5544,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Tathlum Shot": {
         "alt_string": "046",
         "demons": {
@@ -5797,8 +5563,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Taunt": {
         "alt_string": "193",
         "description": "Tarukaja and Rakunda twice",
@@ -5818,8 +5583,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Tetanus Cut": {
         "alt_string": "004",
         "description": "70% Sick",
@@ -5840,8 +5604,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Tetrabreak": {
         "alt_string": "203",
         "description": "Cancels Tetrakarn effect",
@@ -5856,8 +5619,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Tetraja": {
         "alt_string": "187",
         "description": "Shields Light or Dark attacks for one attack",
@@ -5877,8 +5639,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Tetrakarn": {
         "alt_string": "201",
         "description": "Repels physical or gun attacks for one turn",
@@ -5902,8 +5663,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Thunder Gods": {
         "alt_string": "094",
         "demons": {
@@ -5919,8 +5679,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Elec Pierce",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Thunder Reign": {
         "alt_string": "100",
         "demons": {
@@ -5937,8 +5696,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Titanomachia": {
         "alt_string": "041",
         "description": "High critical, low accuracy",
@@ -5961,8 +5719,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Toxic Sting": {
         "alt_string": "055",
         "description": "70% Poison",
@@ -5981,8 +5738,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Trafuri": {
         "alt_string": "245",
         "description": "Guarantees escape from battle",
@@ -5993,7 +5749,7 @@
             "Kelpie": 37,
             "Kurama Tengu": 44
         },
-        "affinity": "Special",
+        "affinity": "special",
         "hits": "",
         "cost": "25",
         "power": "",
@@ -6001,8 +5757,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Trisagion": {
         "alt_string": "064",
         "demons": {
@@ -6020,8 +5775,7 @@
         "second_icon": "SmirkIcon_SMTIV.png",
         "smirk-effect": "Fire Pierce",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "True Zandyne": {
         "alt_string": "105",
         "demons": {
@@ -6035,7 +5789,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "22"
+        "unique_cost": "22"
     },
     "True Ziodyne": {
         "alt_string": "092",
@@ -6050,7 +5804,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "22"
+        "unique_cost": "22"
     },
     "Vengeful Thunder": {
         "alt_string": "093",
@@ -6066,7 +5820,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": "18"
+        "unique_cost": "18"
     },
     "Venomous Raga": {
         "alt_string": "226",
@@ -6082,7 +5836,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "All",
-        "unique-cost": "47"
+        "unique_cost": "47"
     },
     "Victory Cry": {
         "alt_string": "323",
@@ -6102,8 +5856,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "War Cry": {
         "alt_string": "199",
         "description": "Tarunda and Rakunda once",
@@ -6126,8 +5879,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Foes",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Warding Shout": {
         "alt_string": "214",
         "description": "Negates ailment affliction for one turn",
@@ -6142,7 +5894,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": "18"
+        "unique_cost": "18"
     },
     "Will of Flame": {
         "alt_string": "208",
@@ -6159,8 +5911,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Will of Frost": {
         "alt_string": "209",
         "description": "Grants ice pierce for one turn",
@@ -6176,8 +5927,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Will of Thunder": {
         "alt_string": "210",
         "description": "Grants elec pierce for one turn",
@@ -6193,8 +5943,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Will of Wind": {
         "alt_string": "211",
         "description": "Grants force pierce for one turn",
@@ -6210,8 +5959,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Party",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Wind Breath": {
         "alt_string": "111",
         "demons": {
@@ -6231,8 +5979,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Multi",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Workaholic": {
         "alt_string": "318",
         "description": "Greatly increases experience points received after battles",
@@ -6251,8 +5998,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Self",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Zan": {
         "alt_string": "102",
         "demons": {
@@ -6272,8 +6018,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Zandyne": {
         "alt_string": "104",
         "demons": {
@@ -6301,8 +6046,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Zanma": {
         "alt_string": "103",
         "demons": {
@@ -6322,8 +6066,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Zio": {
         "alt_string": "089",
         "demons": {
@@ -6343,8 +6086,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Ziodyne": {
         "alt_string": "091",
         "demons": {
@@ -6372,8 +6114,7 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    },
+        "unique_cost": 0    },
     "Zionga": {
         "alt_string": "090",
         "demons": {
@@ -6397,6 +6138,5 @@
         "second_icon": null,
         "smirk-effect": "",
         "target": "Single",
-        "unique-cost": 0
-    }
+        "unique_cost": 0    }
 }

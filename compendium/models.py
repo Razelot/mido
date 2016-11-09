@@ -9,13 +9,17 @@ class Demon(models.Model):
     name = models.CharField(max_length = 50, primary_key=True)
     level = models.IntegerField(
         default=1,
-        validators=[MaxValueValidator(100), MinValueValidator(1)])
+        validators=[MaxValueValidator(99), MinValueValidator(1)])
+
 
     race = models.CharField(
     max_length = 10,
     choices = RACES)
 
-    #skills = models.ManyToManyField(Skill, through='DemonSkill')
+    # minimum avg level required for fusion
+    fusion_level = models.IntegerField(
+    default=1,
+    validators=[MaxValueValidator(99), MinValueValidator(1)])
 
     #flavor_text = models.TextField()
 
@@ -265,7 +269,7 @@ class DemonSkill(models.Model):
     skill = models.ForeignKey(Skill, on_delete = models.CASCADE)
     level = models.IntegerField(
         default=1,
-        validators=[MaxValueValidator(100), MinValueValidator(0)])
+        validators=[MaxValueValidator(99), MinValueValidator(0)])
 
     def __str__(self):
         if self.level >0:
