@@ -1,6 +1,7 @@
 from django.db import models
 from django.core.validators import MaxValueValidator, MinValueValidator
 from compendium.enum import *
+import math, itertools
 
 
 
@@ -35,6 +36,39 @@ class Demon(models.Model):
         snake_case = self.name.lower()
         snake_case = snake_case.replace(" ", "_")
         return snake_case
+
+    def fusion_list(self):
+        # include elemental fusion from table
+        demons = Demon.objects.all()
+        fusion_list = list(DemonFusion.objects.all().filter(demon=self))
+
+        # generate element
+        if self.race == "Element":
+            element_fusions = ElementFusion.objects.all().filter(demon=self)
+            for element_fusion in element_fusions:
+                demons = demons.filter(race=element_fusion.race)
+                pairs = list(itertools.combinations(demons,2))
+                for pair in pairs:
+                    demon_fusion = DemonFusion(
+                    demon_1 = pair[0], demon_2 = pair[1], demon = self)
+                    fusion_list.append(demon_fusion)
+
+            return fusion_list
+
+        # generate basic fusion
+        race_fusions = RaceFusion.objects.all().filter(race=self.race)
+        for race_fusion in race_fusions:
+            demons_1 = demons.filter(race=race_fusion.race_1)
+            demons_2 = demons.filter(race=race_fusion.race_2)
+            for demon_1 in demons_1:
+                for demon_2 in demons_2:
+                    level_avg = math.ceil(float(demon_1.level + demon_2.level)/2)
+                    if level_avg >= self.level_min and level_avg < self.level_max:
+                        demon_fusion = DemonFusion(
+                        demon_1 = demon_1, demon_2 = demon_2, demon = self)
+                        fusion_list.append(demon_fusion)
+
+        return fusion_list
 
     class Meta:
         ordering = ('race', 'level', )
@@ -310,3 +344,12 @@ class DemonFusion(models.Model):
 
     def __str__(self):
         return (self.demon_1.name + " + " + self.demon_2.name + " = " + self.demon.name)
+
+class ElementFusion(models.Model):
+    race = models.CharField(
+    max_length = 10,
+    choices = RACES)
+    demon = models.ForeignKey(Demon, on_delete=models.CASCADE, default=0)
+
+    def __str__(self):
+        return (self.race + " + " + self.race + " = " + self.demon.name)
