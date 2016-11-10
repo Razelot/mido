@@ -97,25 +97,13 @@ def load_fusion():
         the_demon.level_max = demons[demon]['max_level']
         the_demon.save()
 
-
-    json_raw = open("compendium/fixtures/fusion_map.json").read()
-    races = json.loads(json_raw)
-
-    for race in races:
-        for fusion in races[race]:
-            material = re.split(' x ', fusion)
-            race_fusion = RaceFusion(
-            race_1 = material[0], race_2 = material[1], race = race)
-            race_fusion.save()
-
-
 def run():
     print("Resetting Database...")
     Demon.objects.all().delete()
     Skill.objects.all().delete()
     print("Loading Demons...")
     load_demons()
-    print("Loading Fusion...")
+    print("Setting Fusion Levels...")
     load_fusion()
     print("Loading Skills...")
     load_skills()

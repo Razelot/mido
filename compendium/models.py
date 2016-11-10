@@ -18,11 +18,11 @@ class Demon(models.Model):
 
     # minimum and maximum avg level required for fusion
     level_min = models.IntegerField(
-        default=1,
+        default=99,
         validators=[MaxValueValidator(99), MinValueValidator(1)])
 
     level_max = models.IntegerField(
-        default=99,
+        default=1,
         validators=[MaxValueValidator(99), MinValueValidator(1)])
 
     #flavor_text = models.TextField()

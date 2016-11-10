@@ -153,6 +153,7 @@ tr.ailments th, tr.ailments td{
   padding-right: 5px;
   text-align: right;
   font-size: 16px;
+  font-weight: bold;
   color: var(--orange);
   background-color: var(--black);
   width: 50px;
@@ -240,13 +241,15 @@ tr.ailments th, tr.ailments td{
   margin-bottom: 20px
 }
 
-.skill-row{
-  width: inherit;
+.select-black{
+  /*width: inherit;*/
   cursor: pointer;
   border-style: none none solid none;
+  border-width: thin;
+
 }
 
-.skill-row:hover {
+.select-black:hover {
   color: white;
   background: var(--black);
   border-bottom:solid var(--red);
@@ -282,6 +285,14 @@ tr.ailments th, tr.ailments td{
   min-height: 520px;
   padding: 10px;
 }
+
+/*.row-alter :nth-child(even){
+  background-color: var(--gray);
+}
+
+.row-alter :nth-child(odd){
+  background-color: var(--white);
+}*/
 
 @media all and (max-width: 420px) {
   .resistances {

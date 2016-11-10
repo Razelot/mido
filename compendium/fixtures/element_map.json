@@ -1,0 +1,54 @@
+{
+    "Aeros": [
+        "Divine x Divine",
+        "Yoma x Yoma",
+        "Raptor x Raptor",
+        "Fairy x Fairy",
+        "Spirit x Spirit"
+    ],
+    "Aquans": [
+        "Flight x Flight",
+        "Wilder x Wilder",
+        "Brute x Brute",
+        "Femme x Femme",
+        "Ghost x Ghost"
+    ],
+    "Erthys": [
+        "Wood x Wood",
+        "Beast x Beast",
+        "Jirae x Jirae",
+        "Vermin x Vermin",
+        "Night x Night"
+    ],
+    "Flaemis": [
+        "Nymph x Nymph",
+        "Snake x Snake",
+        "Jaki x Jaki",
+        "Fallen x Fallen",
+        "Drake x Drake"
+    ],
+    "Sylph": [
+        "Avian x Avian",
+        "Holy x Holy",
+        "Fury x Fury",
+        "Dragon x Dragon"
+    ],
+    "Salamander": [
+        "Herald x Herald",
+        "Deity x Deity",
+        "Tyrant x Tyrant",
+        "Kunitsu x Kunitsu"
+    ],
+    "Undine": [
+        "Megami x Megami",
+        "Vile x Vile",
+        "Avatar x Avatar",
+        "Genma x Genma"
+    ],
+    "Gnome": [
+        "Tree x Tree",
+        "Reaper x Reaper",
+        "Lady x Lady",
+        "Kishin x Kishin"
+    ]
+  }

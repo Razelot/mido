@@ -16,13 +16,13 @@
 </div>
 
 <div class="row content-subheader">
-  <h4 class="col-xs-4">Skills</h4>
-  <h4 class="col-xs-offset-3 col-xs-4" style="text-align:right;">Level</h4>
+  <h4 class="col-xs-4">Demons that Learn</h4>
+  <h4 class="col-xs-offset-3 col-xs-4" style="text-align:right;">Level Learned</h4>
 </div>
 <div class="demon-info">
   {% for demonskill in skill.demonskill_set.all %}
   <div class="container">
-    <div class="row skill-row border-gray" onclick="window.location='/demons/{{demonskill.demon.pk}}';">
+    <div class="row select-black border-gray" onclick="window.location='/demons/{{demonskill.demon.pk}}';">
       <div class="col-xs-2">
         <h5> {{ demonskill.demon.race }} </h5>
       </div>

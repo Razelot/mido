@@ -112,21 +112,53 @@
 </div>
 
 <div class="row content-subheader">
-  <h4 class="col-xs-4">Skills</h4>
-  <h4 class="col-xs-offset-3 col-xs-4" style="text-align:right;">Level</h4>
+  <h4 class="col-xs-4">Learnable Skills</h4>
+  <h4 class="col-xs-offset-3 col-xs-4" style="text-align:right;">Level Learned</h4>
 </div>
 <div class="content-body">
   {% for demonskill in demon.demonskill_set.all %}
   <div class="container">
-    <div class="row skill-row border-gray" onclick="window.location='/skills/{{demonskill.skill.pk}}';">
-      <div class="skill-icon-sm col-xs-2">
+    <div class="row select-black" onclick="window.location='/skills/{{demonskill.skill.pk}}';">
+      <div class="skill-icon-sm col-xs-2" style="padding-left:15px;">
         <img class="center" src="{% static 'compendium/img/types' %}/{{demonskill.skill.affinity.lower}}.png">
       </div>
-      <div class="col-xs-offset-1 col-xs-5">
+      <div class="col-xs-6">
         <h5> {{ demonskill.skill.name }} </h5>
       </div>
       <div class="col-xs-3" style="text-align:right;">
         <h5> {{ demonskill.level }} </h5>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="row content-subheader">
+  <h4 class="col-xs-12">Fusion Combinations</h4>
+</div>
+<div class="content-body">
+  {% for demonfusion in demon.demonfusion_set.all %}
+  <div class="container">
+    <div class="row">
+      <div class="select-black col-xs-6" style="border-right: 1px solid #888888;">
+        <div class="row" onclick="window.location='/demons/{{demonfusion.demon_1.pk}}';">
+          <div class="col-xs-4">
+            <h5> {{ demonfusion.demon_1.race }} </h5>
+          </div>
+          <div class="col-xs-8">
+            <h5> {{ demonfusion.demon_1.name }} </h5>
+          </div>
+        </div>
+      </div>
+      <div class="select-black col-xs-6">
+        <div class="row" onclick="window.location='/demons/{{demonfusion.demon_2.pk}}';">
+          <div class="col-xs-4">
+            <h5> {{ demonfusion.demon_2.race }} </h5>
+          </div>
+          <div class="col-xs-8">
+            <h5> {{ demonfusion.demon_2.name }} </h5>
+          </div>
+        </div>
       </div>
     </div>
   </div>
